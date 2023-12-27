@@ -1,0 +1,8910 @@
+rel_id,name
+0,alexanderplatz
+0,BGrenzenLine
+0,koepenick
+0,mehringdamm
+0,mrainline
+0,PotsdamLine
+0,thecenter
+0,tiergarten
+0,train7sections
+0,westhafen
+0,zoogarten
+1,Aalemannufer
+1,Aken
+1,Barby
+1,Breitenhagen
+1,Caputh (Havel)
+1,F10 (Wannsee)
+1,F11 (Baumschulenstr. - Wilhelmstrand)
+1,F12 (Dahme)
+1,F21 (Krampe)
+1,F23 (Kleiner Müggelsee)
+1,F24 (Spree)
+1,Fähre nach Lindwerder
+1,Groß Rosenburg
+1,Ketzin (Havel)
+1,Personenfähre Straussee
+1,Räbel (Elbe)
+1,Saatwinkel - Hakenfelde
+1,Sacrow - Glienicker Brücke
+1,Stahlbrode - Losentitz
+1,Strodehne (Havel)
+1,Tegelort - Hakenfelde
+1,Valentinswerder - Tegelort
+2,(Insel im Habermannsee)
+2,Alter Park
+2,Baerwaldstr.
+2,Baumwerder
+2,Bellevuepark
+2,Berliner Forst Düppel
+2,Berliner Forst Spandau
+2,Berliner Forst Tegel
+2,Berliner Stadtforst Köpenick
+2,Bosepark
+2,Botanischer Garten
+2,Britzer Garten
+2,Brosepark
+2,Buga-Gelände
+2,Bäkepark
+2,Böcklerpark
+2,Bürgerpark
+2,Dammheide
+2,Der Insulaner
+2,ehem. Luisenstädtischer Kanal
+2,Eiswerder
+2,Erholungspark Marzahn (Kienberg)
+2,Ernst-Thälmann-Park
+2,Finkenpark
+2,Fischtalpark
+2,Flughafen Berlin-Schönefeld
+2,Flughafen Tegel
+2,Flughafen Tempelhof
+2,Franckepark
+2,Freizeit- und Erholungspark Lübars
+2,Freizeitpark Marienfelde
+2,Freizeitpark Tegel
+2,Fritz-Schloß-Park
+2,Gatower Heide
+2,Gemeindepark Lankwitz
+2,Goethepark
+2,Grimmstr.
+2,Großer Kuhwall
+2,Grunewald
+2,Gutspark Britz
+2,Gutspark Marienfelde
+2,Görlitzer Park
+2,Hasenheide
+2,Heinrich-Lassen-Park
+2,Heinrich-von-Kleist-Park
+2,Hochmeisterplatz
+2,Insel der Jugend
+2,Jungfernheide
+2,Kapellenberg
+2,Kleiner Kuhwall
+2,Kleiner Tiergarten
+2,Krummendammer Heide
+2,Köllnische Heide
+2,Königsheide
+2,Körnerpark
+2,Landschaftspark Wuhletal
+2,Landschaftspark Wuhletal (Ahrensfelder Berge)
+2,Landschaftspark Wuhletal (Biesdorfer Berg)
+2,Lessinghöhe
+2,Liebesinsel
+2,Lietzenseepark
+2,Lilienthalpark
+2,Lindwerder
+2,Luisenhain
+2,Maienwerder
+2,Marienhöhe
+2,Mauerpark
+2,Mendelssohn-Bartholdy-Park
+2,Messelpark
+2,Mittelheide
+2,Monbijoupark
+2,Neuer Garten
+2,NSG
+2,Park am Buschkrug
+2,Park Babelsberg
+2,Park Sanssouci
+2,Pfingstberg
+2,Plänterwald
+2,Preußenpark
+2,Rehwiese
+2,Reiswerder
+2,Rudolph-Wilde-Park
+2,Rudower Höhe
+2,Ruinenberg
+2,Scharfenberg
+2,Schillerpark
+2,Schlesischer Busch
+2,Schloßgarten Charlottenburg
+2,Schloßpark Köpenick
+2,Schloßpark Lichterfelde
+2,Schloßpark Niederschönhausen
+2,Schloßpark Tegel
+2,Schmöckwitzer Werder
+2,Stadtpark Biesdorf
+2,Stadtpark Lichtenberg
+2,Stadtpark Steglitz
+2,Thielpark
+2,Thomashöhe
+2,Tiergarten
+2,Tierpark Friedrichsfelde
+2,Treptower Park
+2,Triestpark
+2,Valentinswerder
+2,Viktoriapark
+2,Volkspark am Weinberg
+2,Volkspark Anton Saefkow
+2,Volkspark Friedrichshain
+2,Volkspark Humboldthain
+2,Volkspark Jungfernheide
+2,Volkspark Mariendorf
+2,Volkspark Prenzlauer Berg
+2,Volkspark Rehberge
+2,Volkspark Schönholzer Heide
+2,Volkspark Wilmersdorf
+2,Waldeckpark
+2,Waldpark Steinberg
+2,Werner-von-Siemens-Park
+2,Wuhlheide
+2,Wuhlheide (Volkspark und FEZ)
+2,Zitadelle
+2,Zoologischer Garten
+3,Acud
+3,Adria
+3,Alhambra Too Berlin
+3,Alpha Spandau
+3,Arkona-Kinos
+3,Arsenal
+3,Astor
+3,Astra Filmpalast
+3,Babylon
+3,Balazs
+3,Bali Kino
+3,Blauer Stern Pankow
+3,Blow Up
+3,Boerse
+3,Broadway
+3,Bundesplatz-Studio
+3,Camera im Tacheles
+3,Capitol Dahlem
+3,Central
+3,Checkpoint
+3,Cinema am Walther-Schreiber-Platz
+3,Cinema Paris
+3,CinemaxX Colosseum
+3,CinemaxX Hohenschönhausen
+3,CinemaxX Potsdamer Platz
+3,CineStar 3-D-IMAX Potsdamer Platz
+3,CineStar Hellersdorf
+3,CineStar Potsdamer Platz
+3,City Wedding
+3,Cosima
+3,Delphi-Filmpalast am Zoo
+3,Eiszeit
+3,Eva-Lichtspiele
+3,Filmbühne Am Steinplatz
+3,Filmkunst 66
+3,Filmkunsthaus Babylon
+3,Filmpalast Berlin
+3,Filmrauschpalast
+3,Filmtheater am Friedrichshain
+3,Filmtheater Friedrichstraße
+3,Fsk am Oranienplatz
+3,Hackesche Höfe
+3,Hollywood
+3,Inselkino
+3,International
+3,Intimes
+3,Kant-Kino
+3,Kino im Etnologischen Museum Berlin
+3,Kino in der Brotfabrik
+3,Kino Kiste
+3,Kinocenter Spandau
+3,Kinowelt in den Spreehöfen
+3,Klick
+3,Lichtblick-Kino
+3,Manhattan
+3,Moviemento
+3,Neues Off
+3,Nickelodeon
+3,Nord
+3,Odeon
+3,Passage
+3,Provinz
+3,Regenbogen Kino
+3,Scala
+3,Sojus Berlin
+3,Sputnik Südstern
+3,Studentischer Kinoclub an der HUB
+3,Thalia Movie Magic
+3,Tilsiter-Lichtspiele
+3,Titania Palast
+3,UCI Kinowelt Friedrichshain
+3,UCI Kinowelt Gropius Passagen
+3,UCI Kinowelt Le Prom Marzahn
+3,UCI Kinowelt Zoo Palast
+3,UFA-Arthouse Die Kurbel
+3,UFA-Filmbühne Wien
+3,UFA-Marmorhaus Berlin
+3,UFA-Palast Kosmos
+3,UFA-Palast Treptower Park
+3,Urania-Filmbühne
+3,Venus
+3,Xenon
+3,Yorck
+4,A Trane
+4,Abraxas
+4,Acud
+4,Aktionsgalerie
+4,Alberts
+4,Alibi Bar
+4,Altensteiner Krug
+4,Alter Fritz 
+4,Am Wasserturm
+4,Anfall
+4,Anita Wronski
+4,Arcanoa
+4,Assel
+4,Atelier 89
+4,Atlantic
+4,Babel
+4,Badenscher Hof
+4,Ballhaus Naunynstraße
+4,Ballhaus Spandau
+4,Barfly
+4,Barricade
+4,Bergwerk
+4,Bergwerk / Würfel
+4,Berliner Prater
+4,Bermuda Dreieck
+4,bibo-bar
+4,Bierhaus III
+4,Bierkeller Siegmundshof
+4,Bistro (Bei Schorsch)
+4,BKA
+4,BKA im Zelt
+4,BlaBla
+4,Black Bar
+4,Blackpoint
+4,Blues Café Berlin
+4,Boogaloo
+4,Bordo
+4,Brauhaus Johann Albrecht
+4,Brauhaus Spandau
+4,Brokers
+4,Bronx
+4,Bumerang
+4,Bunker
+4,Café Caprice
+4,Café CC
+4,Café Cralle
+4,Café Esscapade
+4,Café Hardenberg
+4,Café Kö
+4,Café Lietze
+4,Café M
+4,Café Merlin
+4,Café Moskau
+4,Café Nollendorf
+4,Café Savarin
+4,Café Swing
+4,Café Westphal
+4,Casa
+4,Casablanca
+4,Celtic Cottage 
+4,Cinema
+4,Cinematograph (auch Max)
+4,Cisch Club 
+4,Clooney's
+4,Clärchens Ballhaus
+4,Comic
+4,Cube Club
+4,Dachsbau 
+4,Deichgraf
+4,Delicious Doughnuts
+4,Deponie Nr. 1
+4,Deponie Nr.3
+4,Deutschlandhalle
+4,Dicke Wirtin
+4,Die Blauen Tanten
+4,Dildile
+4,Distel 
+4,Domäne Dahlem
+4,Drittes Ohr
+4,Drugstore
+4,Drugstore 2
+4,Dublin Castle
+4,Duncker
+4,Eimer
+4,El Cubra libre
+4,Engelbecken
+4,Enzian
+4,E-Werk
+4,Ex (im Mehringhof)
+4,Fabrik Osloer Straße
+4,Far Out
+4,Feinbäckerei
+4,Filmriß
+4,Finnegans 
+4,Fleisch und Wurst
+4,Flying Dutchman
+4,Franken
+4,Franz
+4,Franziskaner
+4,Freilichtbühne Zitadelle
+4,Fünf Ziegen
+4,Gebrüder Salomon
+4,Geierwally 
+4,Glass-Haus
+4,GoGo Club
+4,Go-Gärtchen
+4,Goldener Hahn
+4,Golgatha
+4,Gondel
+4,Gri Gri
+4,Gänsemarkt
+4,Hackbart's Bar
+4,Harlow's
+4,Havanna
+4,Hexen Pub
+4,Hexenschuß
+4,Hotel Hamburg
+4,House of Music 
+4,Hühner-Gust´l
+4,Ici
+4,Inflation
+4,Insel
+4,Intertank
+4,Irish Folk Pub 
+4,Irish Harp Pup
+4,Irish Pub
+4,Irish Pub Europacenter
+4,James Joyce Taverne
+4,Janny
+4,Jimmy Mc's Irish Pub
+4,JO
+4,JoJo
+4,K.D.W.
+4,K.O.B.
+4,Kalomi
+4,Kanapee
+4,Kasiske
+4,Kastanie
+4,Khan
+4,Kilkenny Pub
+4,Kings Pub
+4,Kiryl
+4,KIT KAT Club
+4,Klapsmühle
+4,Klinke
+4,Klo
+4,Kloster
+4,Knaack
+4,Kogge
+4,Korner
+4,Kulturbrauerei
+4,Kulturfabrik Lehrter Straße
+4,Kumpelnest
+4,Köpi 137
+4,La Cantina
+4,L'Escargot
+4,Leydicke
+4,Lichtblick
+4,Lido
+4,Limit
+4,Lindengarten
+4,Linientreu
+4,Live Club
+4,Locus
+4,Loretta am Wannsee 
+4,Loretta im Garten
+4,LSD
+4,Luise
+4,Luisenbräu
+4,Lychi 60
+4,Madelon
+4,Madonna
+4,Madow
+4,Make Ab
+4,Malheur
+4,Marquee
+4,Mazi's Biergarten 
+4,Memory I
+4,Milchbar
+4,Mommsen Eck
+4,Morena
+4,MuLackritze
+4,Musik Café Sterlitz
+4,Musik Pub
+4,Nano Club
+4,Naunyn-Ritze
+4,Nemesis
+4,Neunzig Grad
+4,Niagara Bar
+4,Nordpol
+4,Notausgang
+4,Noteingang
+4,Obst & Gemüse
+4,Old Highland Pub
+4,Opernpalais Operncafé
+4,Orpheus
+4,Oscar Wilde Pub
+4,Osten
+4,Pallas
+4,Panke-Eck
+4,Parkhaus Treptow
+4,Pars
+4,Pasta-Pasta
+4,Pasternak
+4,Pfefferberg
+4,Pilatus
+4,Pinox
+4,Poco Loco
+4,Prenzl Pub
+4,Quasimodo
+4,Rat Pub
+4,Resonanz
+4,Rock It
+4,Rohbau
+4,Rote Harfe
+4,Russen Bar
+4,S.O.S.
+4,Schliemann
+4,Schlot
+4,Schock
+4,Schoko-Laden Mitte
+4,Schwarzes Café
+4,Schönhauser 20
+4,Scotch Malt Embassy
+4,Seeblick
+4,SEK
+4,Shannon
+4,Silberstein
+4,Snack Attack
+4,SO 36
+4,Sophienclub
+4,Spirale
+4,Spiritus Familiares
+4,Sportlertreff
+4,Stahlwerk
+4,Statthaus Böcklerpark
+4,Stilbruch / JuP
+4,Straßenbahn
+4,Strike
+4,Suicide
+4,Supamolly
+4,Syndikat
+4,Taba
+4,Tacheles
+4,Tante Elli
+4,T-Base
+4,TGI Friday (Thank God
+4,Theater im schmalen Handtuch
+4,Thomas-Weissbecker-Haus
+4,Tilsiter
+4,Tinmaker's
+4,Tränenpalast
+4,Turandot
+4,Union Jack
+4,Universall Hall
+4,Universeller Club
+4,VEB OZ
+4,Vereinsheim 1893
+4,Village Voice
+4,Waldbühne
+4,Waldhaus 
+4,walhalla
+4,Wampe
+4,Weinstein
+4,Weiße Rose
+4,Wild at Heart
+4,Will
+4,Wirtschaftswunder
+4,Wirtshaus Hasenheide
+4,Wydoks
+4,X-Beliebig
+4,XTC
+4,YAAM
+4,Yard
+4,Yorckschlösschen
+4,Zillini
+4,Zitadelle Spandau
+4,Zosch
+4,Zur letzten Instanz
+4,Zur Linde
+4,Zur Pankgräfin
+4,Zyankali Bar
+5,(?) (Werder)
+5,(am Havellandkanal)
+5,(Am Nutheschnellweg) (Potsdam)
+5,"(Am Parsteiner See, Westufer)"
+5,(An der Alten Oder)
+5,(Bahnhofstr.?) (Werder)
+5,(Bernau) - Birkholz
+5,(entlang der Buga) (Potsdam)
+5,(Erschließungsstr.)
+5,(Neuer Garten) (Potsdam)
+5,(Oranienburger Heide)
+5,"(Park Babelbsberg, Hauptweg) (Potsdam)"
+5,"(Park Babelbsberg, Uferweg) (Potsdam)"
+5,(Schloßpark Sacrow) (Potsdam)
+5,(Uferweg - Nuthestr. Richtung West) (Potsdam)
+5,"(Uferweg, Orte am Fluss) (Potsdam)"
+5,(Umfahrung Nuthestr. R. Babelsberg) (Potsdam)
+5,(Umfahrung Nuthestr.) (Potsdam)
+5,(Verbindung ISIS - Humboldtring) (Potsdam)
+5,(Verbindung) (Woltersdorf)
+5,(Weg)
+5,A10 Center - Hoherlehme
+5,Adolf-Damschke-Str. (Werder)
+5,Ahrensdorf
+5,Ahrensdorf - Gröben
+5,Ahrensfelde - Altlandsberg
+5,Ahrensfelde - Eiche
+5,Ahrensfelder Weg (Lindenberg)
+5,Allee nach Glienicke (Potsdam)
+5,Alleestr. (Potsdam)
+5,Altfriedland - Müncheberg
+5,Altglienicker Chaussee (Schönefeld)
+5,Althüttendorf
+5,Altkünkendorf - Althüttendorf
+5,Altlandsberg - Hönow
+5,Altlandsberg - Seefeld
+5,Altlandsberg - Strausberg
+5,Altlandsberg - Werneuchen
+5,Alt-Nowawes (Potsdam)
+5,Am Bahnhof (Fürstenwalde)
+5,Am Buchhorst (Potsdam)
+5,Am Bötzsee
+5,Am Drachenberg (Potsdam)
+5,Am Flakensee
+5,Am Fängersee
+5,Am Gaisberg (Geltow) (F1)
+5,Am Goltzhorn (Frankfurt)
+5,Am Güterbahnhof (Brandenburg)
+5,Am Hauptbahnhof (B1/B102) (Brandenburg)
+5,Am Jungfernsee
+5,Am Kanal (Potsdam)
+5,Am Klingetal (Frankfurt)
+5,Am Müggelpark (Gosen)
+5,Am Neuen Garten (Potsdam)
+5,Am Neuen Palais (F2.2) (Potsdam)
+5,Am Petzinsee (Geltow) (F1)
+5,Am Pfingstberg (Potsdam)
+5,Am Schragen (B2) (Potsdam)
+5,Am Seegraben (B96a) (Schönefeld)
+5,Am Spreeufer (Cottbus)
+5,Am Waldrand (Potsdam)
+5,Am Wildpark (F2.2) (Potsdam)
+5,Am Wildpark (Falkensee)
+5,Amundsenstr. (F2.2) (Potsdam)
+5,Amundsenstr. (Potsdam)
+5,An der Alten Zauche (Potsdam)
+5,An der Orangerie (Potsdam)
+5,An der Pirschheide (F1) (Potsdam)
+5,An der Schleuse (Woltersdorf)
+5,An der Stadtmauer (Strausberg)
+5,André-Pican-Str. (Oranienburg)
+5,Angermünde - Altkünkendorf
+5,Arcostr. (Mahlow-Waldblick)
+5,August-Bebel-Str. (B102) (Brandenburg)
+5,August-Bebel-Str. (Bernau)
+5,August-Bebel-Str. (Brandenburg)
+5,August-Bebel-Str. (Frankfurt)
+5,August-Bebel-Str. (Potsdam)
+5,August-Bebel-Str. (Strausberg)
+5,August-Müller-Str. (Hohen Neuendorf)
+5,B 101 - Groß Schulzendorf
+5,B1: Berlin - Küstrin
+5,B1: Brandenburg - Plaue
+5,B1: Potsdam - Brandenburg
+5,B101: Berlin - Jüterbog
+5,B102 (Brandenburg)
+5,B102: Brandenburg - Treuenbrietzen
+5,B102: Neustadt - Brandenburg
+5,B102: Treuenbrietzen - Jüterbog
+5,B107 (Pritzwalk - Genthin)
+5,B109: Berlin - Prenzlau
+5,B112: Frankfurt - Guben
+5,B112: Manschnow - Lebus - Frankfurt
+5,B115: Jüterbog - Baruth
+5,B115: Jüterbog - Cottbus
+5,B158: Bad Freienwalde - Hohenwutzen
+5,B158: Berlin - Bad Freienwalde
+5,B167: Eberswalde - Seelow
+5,B167: Löwenberg - Eberswalde
+5,B167: Neustadt - Löwenberg
+5,B167: Seelow - Lebus
+5,B168: Beeskow - Peitz
+5,B179: Berlin - Märkisch-Buchholz
+5,B188: Tangermünde - Rathenow - B5
+5,B189: Perleberg - Seehausen
+5,B198 (Werbellinsee)
+5,B2/B198: Eberswalde - Angermünde
+5,B2: Angermünde - Schwedt
+5,B2: Berlin - Eberswalde
+5,B2: Eberswalde - Angermünde
+5,B2: Potsdam - Berlin
+5,B2: Potsdam - Lutherstadt Wittenberg
+5,B246: Beeskow - Eisenhüttenstadt
+5,B246: Belzig - Trebbin
+5,B246: Trebbin - Zossen
+5,B246: Zossen - Beeskow
+5,B273: Nauen - Oranienburg
+5,B273: Oranienburg - Bernau
+5,B273: Potsdam - Nauen
+5,B320: Guben - Lieberose
+5,B320: Lübben - Lieberose
+5,B5 - Barnewitz
+5,B5: Berlin - Hamburg
+5,B5: Müncheberg - Frankfurt
+5,B87: Frankfurt - Lübben
+5,B96 - Klein Kienitz
+5,B96 - Kraatz-Buberow
+5,B96: Baruth - Luckau
+5,B96: Berlin - Baruth
+5,B96: Berlin - Fürstenberg
+5,B96a: Berlin - Birkenwerder
+5,B96a: Berlin - Mahlow
+5,B97: Cottbus - Guben
+5,B97: Cottbus - Spremberg
+5,Babelsberger Str. (Potsdam)
+5,Bad Saarow - Wendisch Rietz
+5,Bad Wilsnack - Perleberg
+5,Bagow - Groß Behnitz
+5,Bahnhofstr. (Bernau)
+5,Bahnhofstr. (Cottbus)
+5,"Bahnhofstr. (Dahlewitz, Richtung Blankenfelde)"
+5,Bahnhofstr. (Dallgow-Döberitz)
+5,Bahnhofstr. (Eggersdorf)
+5,Bahnhofstr. (Luckenwalde)
+5,Bahnhofstr. (Oranienburg)
+5,Bahnhofstr. (Strausberg)
+5,Bahnhofstr. (Wünsdorf)
+5,Barnewitz - Gortz
+5,Barnewitz - Marzahne
+5,Baruth - Luckenwalde
+5,Baruther Vorstadt (Mittenwalde)
+5,Basdorf - B273 (Ost)
+5,Basdorf - B273 (West)
+5,Basdorf - Zühlsdorf
+5,Bauhofstr. (Brandenburg)
+5,Baumgartenbrück (Geltow)
+5,Baumgartenbrück (Geltow) (F1)
+5,Beelitz - Klaistow
+5,Beethovenallee (Falkensee)
+5,Behlertstr. (Potsdam)
+5,Beiersdorf - Beerbaum
+5,Beiersdorf - Werftpfuhl
+5,Benzstr. (Potsdam)
+5,Berge - Hakenberg
+5,Berge - Paulinenaue
+5,Berge - Schwanebeck
+5,Bergerdamm - Paulinenaue
+5,Berghofer Weg (Woltersdorf)
+5,Bergsdorf - Häsen
+5,Bergstr. (Wildau)
+5,Berlin - Velten
+5,Berlin - Velten (Berliner Str.)
+5,Berlin - Velten (Ruppiner Str.)
+5,Berliner Str. (B1) (Potsdam)
+5,Berliner Str. (Bernau)
+5,Berliner Str. (Borgsdorf)
+5,Berliner Str. (Cottbus)
+5,Berliner Str. (Dahlwitz-Hoppegarten)
+5,Berliner Str. (Erkner)
+5,Berliner Str. (Frankfurt)
+5,Berliner Str. (Gosen)
+5,Berliner Str. (Hönow)
+5,Berliner Str. (Mahlow)
+5,Berliner Str. (Strausberg)
+5,Berliner Str. (Woltersdorf)
+5,Bernau - Blumberg
+5,Bernau - Ruhlsdorf (- Marienwerder)
+5,Bernau - Schönwalde
+5,Bernau - Tempelfelde
+5,Bernauer Heide
+5,Bernauer Str. (Lindenberg)
+5,Bestensee
+5,Bestensee - Groß Köris
+5,Beuststr. (Erkner)
+5,Bhf. Satzkorn - B273
+5,"Bhf. Satzkorn, Übergang"
+5,Biegen - Müllrose
+5,Biegen - Petershagen
+5,Biesenthal
+5,Biesenthal - Finow
+5,Biesenthal - Lanke
+5,Biesenthal - Ruhlsdorf
+5,Biesenthal - Werneuchen
+5,Bindow - Gräben
+5,Birkensteiner Str. (Dahlwitz-Hoppegarten)
+5,Birkenwerder - Kolonie Briese
+5,Birkholz - Blumberg
+5,Birkholz - Schwanebeck
+5,Birkholzer Allee (Lindenberg)
+5,Birkholzer Str. - zur B2
+5,Birkholzer Str. (Birkholz - Diedersdorf)
+5,Birkholzer Str. (Zepernick)
+5,Birnbaumsmühle (Frankfurt)
+5,Blankenfelde - Großbeeren
+5,Blankenfelde - Rangsdorf
+5,Blankenfelder Weg (Glasow)
+5,Boldtstr. (Richtung Britz) (Eberswalde)
+5,Borgsdorf - Lehnitz
+5,Borgsdorf - Summt
+5,Bornstedter Str. (B273) (Potsdam)
+5,Brandenburg - Marzahne
+5,Brandenburg - Nauen
+5,Brandenburg - Päwesin
+5,Brandenburger Str. (Broadway) (Potsdam)
+5,Brandenburger Str. (Werder)
+5,Brauhausberg (B2) (Potsdam)
+5,Braunsdorf
+5,Bredow - Brieselang
+5,Bredow - Paaren
+5,Breese - Wittenberge
+5,Breite Str. (B1) (Potsdam)
+5,Breitscheidstr. (Bernau)
+5,Brielower Landstr. (Brandenburg)
+5,Brielower Str. (Brandenburg)
+5,Brieselang - Falkensee
+5,Brieselanger Weg (Falkensee)
+5,Briesen - Treplin
+5,Briesetal
+5,Briesetal - Zühlsdorf
+5,Britz - Joachimsthal
+5,Britzer Str. (Eberswalde)
+5,Brodowin
+5,Brodowin - Parstein
+5,Brunnenstr. (Eberswalde)
+5,Brunow - Leuenberg
+5,Brusendorf
+5,Brusendorf - Selchow
+5,Brädikow - Paulinenaue
+5,Buberow - Gutengermendorf
+5,Buch - Bernau
+5,Buch - Schwanebeck
+5,Bucher Weg (Lindenberg)
+5,Buchholz - Altlandsberg
+5,Buchholz - Gölsdorf
+5,Buchholz - Steinhöfel
+5,Buchholz - Wegendorf
+5,Buchhorst - Rüdersdorf
+5,Buckow
+5,Burg - Leipe
+5,Buschmühlenweg (Frankfurt)
+5,Bäkedamm (Stahnsdorf)
+5,Börnicke - Albertshof
+5,Börnicke - Birkenhöhe
+5,Börnicke - Elisenau
+5,Börnicke - Flatow
+5,Börnicke - Willmersdorf
+5,Börnicker Str. (Bernau)
+5,Bürgermeisterstr. (Bernau)
+5,Caputh - Ferch
+5,Caputh - Ferch (F1)
+5,Caputh - Michendorf
+5,Caputh: Eisenbahnbrücke - Straße
+5,Charlottenstr. (Potsdam)
+5,Chaussee nach Bornim
+5,Chorin
+5,Chorin - Brodowin
+5,Cottbus - Burg
+5,Cottbus - Dissen
+5,Cottbus - Dissenchen
+5,Cöthen - Falkenberg
+5,Dabendorf
+5,Dahlewitz - Zeuthen
+5,Dahlwitz - Altlandsberg
+5,Dahlwitz - Berlin
+5,Dahmsdorf
+5,Dahmsdorf - Münchehofe
+5,Dallgow - Falkensee
+5,Damm über den Templiner See
+5,Dammstr. (Lübbenau)
+5,Dannenberg - B158
+5,Deetz - Lehnin
+5,Demnitz - Steinhöfel
+5,Derwitz - Phöben
+5,Diepensee - Rotberg
+5,Dissenchener Str. (Cottbus)
+5,Dobbrikow - Wittbrietzen
+5,Domlinden (Brandenburg)
+5,Dorfstr. (Diedersdorf)
+5,Dorfstr. (Heinersdorf)
+5,Dorfstr. (Mahlow)
+5,Dorfstr. (Schönefeld)
+5,Dorfstr. (Schöneiche)
+5,Dorfstr. (Seeburg)
+5,Dortustr. (Potsdam)
+5,Drewitzer Str. (Potsdam)
+5,Eberswalde - Britz
+5,Eberswalde - Joachimsthal
+5,Eberswalde - Oderberg
+5,Eberswalder Str. (Bernau)
+5,Edisonstr. (Hennigsdorf)
+5,Eggersdorf - Altlandsberg
+5,Eggersdorf - Tempelberg
+5,Egsdorf - Groß Köris
+5,Ehm-Welk-Str. (Lübbenau)
+5,Ehrenfried-Jopp-Str. (Fürstenwalde)
+5,Ehrenpfortenbergstr. (Potsdam)
+5,Eichenallee (Potsdam)
+5,Eichener Chaussee
+5,Eichhorst - Altenhof
+5,Eichhorst - Groß Schönebeck
+5,Eichstädt - Wolfslake
+5,Eichwalder Str. (Gosen)
+5,Eisenbahnbrücke Caputh
+5,Eisenbahnbrücke Werder
+5,Eisenbahnstr. (B167) (Eberswalde)
+5,Eisenbahnstr. (B2/B167) (Eberswalde)
+5,Elisabethstr. (Strausberg)
+5,Erkner - Tasdorf
+5,Ernst-Thälmann-Str. (Dahlewitz)
+5,Ernst-Thälmann-Str. (Eggersdorf)
+5,Ernst-Thälmann-Str. (Frankfurt)
+5,Ernst-Thälmann-Str. (Fürstenwalde)
+5,Ernst-Thälmann-Str. (Strausberg)
+5,Etzin - Wustermark
+5,F 3
+5,F1: Wildpark
+5,F1: Wildpark (Hegenmeisterweg)
+5,F2.2: Eisenbahnbrücke - Wildpark West
+5,F2.2: Geltow - Wildpark West
+5,F2.2: Golm - Werder
+5,F2.2: Werderscher Damm (Wildpark West - Kuhfort)
+5,Fahrland - B2
+5,Falkenberg - Alte Oder
+5,Falkenberg - Niederfinow
+5,Falkenberg - Wilmersdorf
+5,Falkenhagener Str. (Falkensee)
+5,Falkenrehde - Ketzin
+5,Falkensee - Alt-Brieselang - (Nauen)
+5,Falkensee - Borgsdorf - (Oranienburg)
+5,"Falkensee, Bahnunterführung"
+5,Fangschleuse - Erkner
+5,Fangschleusenstr. (Woltersdorf)
+5,Fehrbellin - Herzberg
+5,Fehrbellin - Neuruppin
+5,Felchow - Schöneberg
+5,Ferch - Geltow
+5,Ferch - Geltow (F1)
+5,Ferch - Kammerode
+5,Ferch: Weg am Wasser (F1)
+5,Feuerbachstr. (Potsdam)
+5,Fichtestr. (Bernau)
+5,Finow - Lichterfelde
+5,Flaeming Skate ...
+5,Flaeming Skate RK1
+5,Flatow - Königshorst
+5,Florastr. (Hohen Neuendorf)
+5,Fontanestr. (Hennigsdorf)
+5,Fontanestr. (Ketzin)
+5,Forststr. (Potsdam)
+5,Frankenfelde - Gottsdorf
+5,Frankfurt - Lossow
+5,Franz-Künstler-Str. (Neuruppin)
+5,Franz-Mehring-Str. (B115) (Cottbus)
+5,Franz-Mehring-Str. (Cottbus)
+5,Französische Str. (Potsdam)
+5,Fresdorf - Tremsdorf
+5,Fresdorf - Zauchwitz
+5,Friedenshorst - Jahnberge
+5,Friedensstr. (Schönefeld)
+5,Friedersdorf - Neu-Zittau
+5,Friedersdorf - Ziegenhals
+5,Friedrich-Ebert-Str. (B1) (Potsdam)
+5,Friedrich-Ebert-Str. (Eberswalde)
+5,Friedrich-Ebert-Str. (Potsdam)
+5,Friedrich-Engels-Allee (Falkensee)
+5,Friedrich-Engels-Str. (Potsdam)
+5,Friedrich-List-Str. (Potsdam)
+5,Friedrichshagener Str. (Schöneiche)
+5,Friedrichstr. (Erkner)
+5,Friesack - Nackel
+5,Friesack - Rhinow
+5,Friesack - Wagenitz
+5,Fußgängerbrücke Töplitz
+5,Fährstr. (Sacrow) (Potsdam)
+5,Fährweg (Phöben)
+5,Fürstenwalde - Beeskow
+5,Fürstenwalde - Briesen
+5,Fürstenwalde - Buchholz
+5,Fürstenwalde - Fangschleuse
+5,Fürstenwalde - Markgrafpieske
+5,Fürstenwalde - Müncheberg
+5,Fürstenwalde - Steinhöfel
+5,Fürstenwalder Poststr. (Frankfurt)
+5,Fürstenwalder Str. (Frankfurt)
+5,Gabow - Altglietzen
+5,Gallun - Motzen
+5,Gallun - Töpchin
+5,Gamengrund
+5,Garzau - Gladowshöhe - Hohenstein
+5,Geltow - Fähre (Caputher Chaussee)
+5,Geltow - Fähre (Caputher Chaussee) (F1)
+5,Geltow - Fähre (Geltower Chaussee)
+5,Geltow - Wildpark West
+5,Germendorf - Nassenheide
+5,Gerostr. (Brandenburg)
+5,Geschwister-Scholl-Str. (B1/B102) (Brandenburg)
+5,Geschwister-Scholl-Str. (Fichtenau)
+5,Geschwister-Scholl-Str. (Neu Zittau)
+5,Geschwister-Scholl-Str. (Potsdam)
+5,Gielsdorf - Wegendorf
+5,Gielsdorf - Werftpfuhl
+5,Glasow - Waßmannsdorf
+5,Glasower Damm (Mahlow)
+5,Glienicke - Fürstenwalde
+5,Glindow - Lehnin
+5,Goepelstr. (Frankfurt)
+5,Goethestr. (Bernau)
+5,Golm - Nattwerder
+5,Golm (Geiselbergstr.)
+5,Golm (Weinmeisterstr.)
+5,Golmer Chaussee (Potsdam)
+5,Golmer Damm
+5,Gottsdorf - Berkenbrück
+5,Gottsdorf - Dobbrikow
+5,Gransee
+5,Gransee - Lindow
+5,Gransee - Menz - Rheinsberg
+5,Gransee - Rheinsberg
+5,Gransee - Zehdenick
+5,Grazauer Str. (Strausberg)
+5,Griebnitzstr. (Potsdam)
+5,Grillendamm (Brandenburg)
+5,Gronenfelder Weg (Frankfurt)
+5,Groß Köris - Motzen
+5,Groß Köris - Pätz
+5,Groß Schauen - Schwerin
+5,Groß Schulzendorf - Nunsdorf
+5,Groß Schönebeck - Hammer
+5,Großbeeren - Neubeeren
+5,Großbeeren - Saarmund
+5,Großbeerenstr. (Potsdam)
+5,Großderschau - Zernitz
+5,Große Fischerstr. (Potsdam)
+5,Große Str. (Strausberg)
+5,Große Weinmeisterstr. (Potsdam)
+5,Groß-Glienicke - Dallgow
+5,Großmachnow - Mittenwalde
+5,Großziethen - Lichtenrade
+5,Großziethen - Rudow
+5,Grube - Töplitz
+5,Grube - Töplitz (Wublitzstr.)
+5,Grunow - Buckow
+5,Gräningen - Marzahne
+5,Gräningen - Möthlow
+5,Gröben - Fahlhorst
+5,Grünheide - Storkow
+5,Grüntal - Heckelberg
+5,Grüntal - Trampe
+5,Gubener Str. (Frankfurt)
+5,Gustav-Hermann-Str. (B115) (Cottbus)
+5,Gustav-Kurtze-Promenade (Strausberg)
+5,Gutenbergstr. (Potsdam)
+5,Gutenpaaren - Wachow
+5,Gölsdorf - Schönfelde
+5,Güterfelde - Schenkenhorst (Gütersfelder Str.)
+5,Güterfelder Damm (Stahnsdorf)
+5,Hammer - Liebenthal
+5,Hansastr. (Falkensee)
+5,Hansmannweg (Strausberg)
+5,Hans-Thoma-Str. (Potsdam)
+5,Harlunger Str. (Brandenburg)
+5,Hartmannsdorf - Burig
+5,Hartmannsdorf - Neu Zittau
+5,Hasenfelde - Arensdorf
+5,Hauffstr. (Geltow)
+5,Hauptstr. (Brandenburg)
+5,Hauptstr. (Glienicke)
+5,Havelberg - Bad Wilsnack
+5,Havelberg - Räbel
+5,Havelberg - Warnau
+5,Havelländer Weg (Falkensee)
+5,Havelstr. (Oranienburg)
+5,Havelweg (Phöben)
+5,Haydnallee (Falkensee)
+5,Hebbelstr. (Potsdam)
+5,Heckelberg - Hohenfinow
+5,Hegelallee (Potsdam)
+5,Hegelstr. (Richtung Müncheberg) (Fürstenwalde)
+5,Hegemühlenstr. (Strausberg)
+5,Heilbronner Str. (Frankfurt)
+5,Heinersdorf - Birkholz
+5,Heinrich-Heine-Str. (Blankenfelde)
+5,Heinrich-Hildebrand-Str. (Frankfurt)
+5,Heinrich-Mann-Allee (Potsdam)
+5,Heinrich-Zille-Str. (Luckenwalde)
+5,Helmholtzstr. (Potsdam)
+5,Hennickendorf - Ahrensdorf
+5,Hennickendorf - Rehfelde
+5,Hennigsdorf - Bötzow
+5,Hennigsdorf - Schwante
+5,Herzberg - Kremmen
+5,Herzbergstr. (Potsdam)
+5,Herzfelde - Erkner
+5,Herzfelde - Rüdersdorf
+5,Herzfelde - Strausberg
+5,Herzsprung - Parstein
+5,Hl.-Geist-Str. (Potsdam)
+5,Hohe Kiefer (Kleinmachnow)
+5,Hohen Neuendorf - Hennigsdorf
+5,Hohen Neuendorf - Schönfließ
+5,Hohenfinow - Prötzel
+5,Hohensaaten - Lunow
+5,Hohensaaten - Neuendorf
+5,Hohensaaten - Oderberg
+5,Hohensteiner Chaussee (Strausberg)
+5,Hohenwutzen - Hohensaaten
+5,Hoherlehme - Miersdorf
+5,Holzmarkstr. (Potsdam)
+5,Hoppegartener Str. (Hönow)
+5,Horstweg (Potsdam)
+5,Hubertstr. (Cottbus)
+5,Hubertussiedlung - Kienberg
+5,Hubertusstr. (Mahlow-Waldblick)
+5,Hugstr. (Potsdam)
+5,Humboldtallee (Falkensee)
+5,Humboldtring (Potsdam)
+5,Hussitenstr. (Bernau)
+5,Häsen - Kraatz-Buberow
+5,Hönow - Krummensee (Am Walde)
+5,Hönow - Krummensee (Ringstr.)
+5,Hönow - Krummensee (Schwarzer Weg)
+5,Hönow - Mehrow
+5,Hönower Weg (Dahlwitz-Hoppegarten)
+5,Hönower Weg (Trappenfelde)
+5,Im Blumenhag (Bernau)
+5,Im Grund (Dahlwitz-Hoppegarten)
+5,Iserstr. (Teltow)
+5,Jahnberge - Betzin
+5,Jahnberge - Warsow
+5,Jahnstr. (Königs Wusterhausen)
+5,Jakobstr. (Brandenburg)
+5,Johann-Sebastian-Bach-Str. (Fürstenwalde)
+5,Juri-Gagarin-Str. (Fürstenwalde)
+5,Jägerallee (B2) (Potsdam)
+5,Jägerallee (Potsdam)
+5,Jänickendorf - B115
+5,Kagel
+5,Kaiser-Friedrich-Str. (Potsdam)
+5,Kalkberger Str. (Schöneiche)
+5,Kanalstr. (Oranienburg)
+5,Karl-Liebknecht-Str. (B115) (Cottbus)
+5,Karl-Liebknecht-Str. (Falkensee)
+5,Karl-Liebknecht-Str. (Frankfurt)
+5,Karl-Liebknecht-Str. (Fürstenwalde)
+5,Karl-Liebknecht-Str. (Königs Wusterhausen)
+5,Karl-Liebknecht-Str. (Potsdam)
+5,Karl-Liebknecht-Str. (Strausberg)
+5,Karl-Marx-Str. (Blankenfelde)
+5,Karl-Marx-Str. (Cottbus)
+5,Karl-Marx-Str. (Falkensee)
+5,Karl-Marx-Str. (Frankfurt)
+5,Karl-Marx-Str. (Fürstenwalde)
+5,Karl-Marx-Str. (Kleinmachnow)
+5,Karl-Marx-Str. (Lindenberg)
+5,Karl-Marx-Str. (Lübbenau)
+5,Karl-Marx-Str. (Neuruppin)
+5,Karl-Marx-Str. (Potsdam)
+5,Karower Weg (Lindenberg)
+5,Keller - B96
+5,Kemnitz - B102
+5,Kemnitz - Elsholz
+5,Keplerstr. (Mahlow-Waldblick)
+5,Ketzin - Fähre
+5,Ketzin - Nauen
+5,Ketzin - Roskow
+5,Ketzin - Uetz
+5,Kiekebuscher Str. (Cottbus)
+5,Kieler Str. (B5/B112) (Frankfurt)
+5,Kienbaum
+5,Kienwerder (Eberswalde)
+5,Kirchsteig (Königs Wusterhausen)
+5,Kirschallee (Potsdam)
+5,Kirschgarten (Ladeburg)
+5,Klausdorf - Sperenberg
+5,Klausdorf - Zossen
+5,Kleinbeeren
+5,Kleinbeeren - Großbeeren
+5,Kleine Weinbergstr. (Luckenwalde)
+5,Kleinziethen - Großziethen
+5,Kleinziethen - Mahlow
+5,Kletzke - Bad Wilsnack
+5,Klosterdorf - Hohenstein
+5,Klosterdorf - Ihlow
+5,Klosterfelde - Kreuzbruch
+5,Klosterfelde - Stolzenhagen
+5,Klosterfelder Weg (Richtung Ützdorf) (Bernau)
+5,Knoblauch - Hoppenrade
+5,Kolkwitzer Str. (Cottbus)
+5,Kolpin - Markgrafpieske
+5,Kopernikusstr. (Frankfurt)
+5,Kostrzyn - Slubice (Polen)
+5,Kostrzyn (Polen)
+5,Kraatz-Buberow - Gransee
+5,Kraatz-Buberow - Kleinmutz
+5,Krakauer Str. (Brandenburg)
+5,Krampnitz - Sacrow
+5,Krausnick - Köthen
+5,Kremmen - Fehrbellin
+5,Kreuzbruch - Schmachtenhagen
+5,Krielow - Deetz
+5,Kruge - Trampe
+5,Kruge-Gersdorf - Dannenberg
+5,Kruge-Gersdorf - Trampe
+5,Krummensee - Bestensee
+5,Kuhblank
+5,Kuhfortdamm (Potsdam)
+5,Kummersdorf - Luckenwalde
+5,Kummersdorf - Neu Stahnsdorf
+5,Kurfürstenstr. (Potsdam)
+5,Käthe-Kollwitz-Str. (Luckenwalde)
+5,Königs Wusterhausen - Dahlewitz
+5,Königs Wusterhausen - Mittenwalde
+5,Königs Wusterhausen - Storkow
+5,Königs Wusterhausen - Wernsdorf
+5,Königs Wusterhausen - Zeuthen
+5,Köpenicker Str. (Gosen)
+5,Köthen - Märkisch Buchholz
+5,Landhausstr. (Strausberg)
+5,Landsberger Chaussee (Eiche)
+5,Lange Brücke (Potsdam)
+5,Lanke - Zehlendorf
+5,Lankestr. (Potsdam)
+5,Leest - Töplitz
+5,Lehnin - Brandenburg
+5,Lehnitzstr. (Richtung Summt) (Oranienburg)
+5,Leipziger Str. (B87/B112) (Frankfurt)
+5,Leipziger Str. (F1) (Potsdam)
+5,Lerchensteig (Potsdam)
+5,Lessingstr. (Eberswalde)
+5,Leuenberg - Beiersdorf
+5,Lichtenrader Str. (Mahlow)
+5,Lichterfelde
+5,Lichterfelde - Britz
+5,Lichterfelder Allee (Teltow)
+5,Liebenberg - Bergsdorf
+5,Liebenwalde - Zehdenick
+5,Liebätz - Woltersdorf
+5,Liepe - Brodowin
+5,Liepe - Parstein
+5,Liepnitzsee
+5,Liepnitzsee - Wandlitz
+5,Lindenallee (Fredersdorf)
+5,Lindenallee (Rheinsberg)
+5,Lindenberg - Birkholz
+5,Lindenberg - Neu-Lübbenau
+5,Lindenberger Str. (Ahrensfelde)
+5,Lindenberger Weg (Ahrensfelde)
+5,Lindenberger Weg (Neu-Buch)
+5,Lindenpromenade (Strausberg)
+5,Lindow - Herzberg
+5,Lindow - Rheinsberg
+5,Lindow - Rheinsberg (Radwanderweg)
+5,Lindstedter Chaussee (F2.2) (Potsdam)
+5,Linumhorst - Beetz
+5,Lohm - Kümmernitz
+5,Lohm - Neuendorf
+5,Lotichiusstr. (Fürstenwalde)
+5,Lotte-Pulewka-Str. (Potsdam)
+5,Louis-Nathan-Str. (Potsdam)
+5,Luckenberger Str. (Brandenburg)
+5,Luckenwalde - Buchholz
+5,Ludwigsfelde - B 101
+5,Ludwigsfelde - Genshagen
+5,Ludwigsfelde - Siethen
+5,Luise-Henriette-Steg (Oranienburg)
+5,Luisenweg (Oranienburg)
+5,Lübben - Neu-Lübbenau
+5,Lüdersdorf - Stolzenhagen
+5,Lüdersdorf - Wriezen
+5,Lühsdorf
+5,Magdeburger Str. (Brandenburg)
+5,Mahlow - Birkholz
+5,Mahlow - Groß Schulzendorf
+5,Mahlow - Teltow
+5,Mahlower Str. (Mahlow)
+5,Mahlsdorfer Str. (Hönow)
+5,Mangerstr. (Potsdam)
+5,Markee - Schwanebeck
+5,Markgrafpieske - Storkow
+5,Marquardt - Fahrland
+5,Marquardter Damm (Marquardt)
+5,Marwitz - Bärenklau
+5,Marzahne - Pritzerbe
+5,Maulbeerallee (Potsdam)
+5,Maxim-Gorki-Str. (Königs Wusterhausen)
+5,Mellensee - Nächst Neuendorf
+5,Mendelssohn-Bartholdy-Str. (Potsdam)
+5,Menz - Fürstenberg
+5,Michendorfer Chaussee (Potsdam)
+5,Miersdorfer Str. (Schulzendorf)
+5,Mitschurinstr. (Potsdam)
+5,Mittelstr. (B179) (Schönefeld)
+5,Mittelstr. (Eggersdorf)
+5,Mittenwalde
+5,Mittenwalde - Brusendorf
+5,Motzen - Bestensee
+5,Märkisch Buchholz - Kehrigk
+5,Mönchmühle
+5,Mövenstr. (Potsdam)
+5,Mühlenbeck - Schönerlinde
+5,Mühlenbeck - Schönwalde
+5,Mühlendamm (Brandenburg)
+5,Mühlenfeld (Oranienburg)
+5,Mühlenstr. (Bernau)
+5,Mühlenstr. (Dahlwitz-Hoppegarten)
+5,Mühlenstr. (Eggersdorf)
+5,Mühlenstr. (Richtung Oranienburg) (Bernau)
+5,Mühlenstr. (Wesendahl)
+5,Mühlentorstr. (Brandenburg)
+5,Müncheberg - Eggersdorf
+5,Müncheberg - Prötzel
+5,Münchehofe
+5,Münchehofe - Pritzhagen
+5,Münchehofe - Ringenwalde
+5,Nackel - Segeletz
+5,Nassenheide
+5,Nassenheide - Liebenwalde
+5,Nassenheide - Sommerfeld
+5,Nattwerder - Grube
+5,Nauen - Bredow
+5,Nauen - Hertefeld
+5,Nauen - Pausin
+5,Nedlitzer Str. (B2) (Potsdam)
+5,Nedlitzer Str. (Potsdam)
+5,Nennhausen - Marzahne
+5,Neubeeren - Güterfelde
+5,Neubrück - Groß Köris
+5,Neubrück - Kleinköris
+5,Neuendorf
+5,Neuendorf - Lüdersdorf
+5,Neuendorfer Str. (Brandenburg)
+5,Neuendorfer Str. (Potsdam)
+5,Neuenhagen - Fredersdorf
+5,Neuenhagen - Hönow
+5,Neuer Hönower Weg (Dahlwitz-Hoppegarten)
+5,Neuer Schwanenbecker Weg (Lindenberg)
+5,Neuhardenberg - Heinersdorf
+5,Neuruppin - Wuthenow
+5,Neuseddin - Ferch
+5,Neuseddin - Flottstelle
+5,Neustadt - Havelberg
+5,Niederfinow - Hohenfinow
+5,Nudow
+5,Nuhnenstr. (Frankfurt)
+5,Nunsdorf - Thyrow
+5,Nuthedamm (Potsdam)
+5,Nuthestr. (Potsdam)
+5,Nächst Neuendorf - Groß Schulzendorf
+5,Oderberg - Altglietzen
+5,Oderberg - Angermünde
+5,Oderberg - Bad Freienwalde
+5,Oderberg - Brodowin
+5,Oranienburg - Bernau
+5,Oranienburg - Summt
+5,Oranienburg-Tiergarten
+5,Osdorf - Heinersdorf
+5,Otto-Nagel-Str. (Potsdam)
+5,Otto-Sidow-Str. (B1/B102) (Brandenburg)
+5,Pagram - Pillgram
+5,Pappelallee (Bernau)
+5,Pappelallee (Potsdam)
+5,Paretz - Etzin
+5,Parkstr. (Hennigsdorf)
+5,Parstein - Lunow
+5,Paulinenaue - Pessin
+5,Paul-Neumann-Str. (Potsdam)
+5,Petershagen - Bruchmühle
+5,Petershagen - Eggersdorf
+5,Petzow - Werder
+5,Philadelphia
+5,Phillip-Müller-Str. (Strausberg)
+5,Pillgram - Jacobsdorf
+5,Platanenstr. (Vogelsdorf)
+5,Plauer Str. (Brandenburg)
+5,Poststr. (Falkensee)
+5,Poststr. (Lübbenau)
+5,Potsdam - Ludwigsfelde
+5,Potsdam - Saarmund
+5,Potsdamer Allee (Stahnsdorf)
+5,Potsdamer Damm (Potsdam)
+5,Potsdamer Str. (B1/B102) (Brandenburg)
+5,Potsdamer Str. (B273) (Potsdam)
+5,Potsdamer Str. (F2.2) (B273) (Potsdam)
+5,Potsdamer Str. (Güterfelde)
+5,Potsdamer Str. (Teltow)
+5,Potsdamer Str. (Werder)
+5,Premnitz - Bensdorf
+5,Prenden - Klosterfelde
+5,Prieros - Friedersdorf
+5,Prieros - Hölzerner See
+5,Prieros - Streganz Zieglerei
+5,Priort - Elstal
+5,Priort - Fahrland
+5,Priort - Karpzow
+5,Pritzhagen
+5,Prötzel - Werftpfuhl
+5,Prützke - Brandenburg
+5,Pyramidenstr. (B115) (Cottbus)
+5,Pyramidenstr. (Cottbus)
+5,Pätz
+5,Radweg KW - Krummensee
+5,Ragow
+5,Rahnsdorfer Str. (Schöneiche)
+5,Rangsdorf - B96
+5,Rangsdorf - Glienick
+5,Rathenow - Gräningen
+5,Rathenow - Milow
+5,Rathenower Str. (Brandenburg)
+5,Rauen - Markgrafpieske
+5,Reichenberg - Herzhorn
+5,Reichenberg - Schulzendorf
+5,Reichenow - Schulzendorf
+5,Reiherbergstr. (Golm)
+5,Reiterweg (B2) (Potsdam)
+5,Rhinow - Rübehorst
+5,Rhinow - Strodehne
+5,Rhinstr. (Rheinsberg)
+5,Ribbeckstr. (Potsdam)
+5,Rieben - Beelitz
+5,Ritterstr. (Brandenburg)
+5,Rosa-Luxemburg-Str. (Frankfurt)
+5,Rosengarten - Hohengarten
+5,Rotes Luch
+5,Rotkelchenweg (Krampnitz)
+5,Rudolf-Breitscheid-Str. (Eberswalde)
+5,Rudolf-Breitscheid-Str. (Falkensee)
+5,Rudolf-Breitscheid-Str. (Potsdam)
+5,Rudolf-Breitscheid-Str. (Woltersdorf)
+5,Rudower Chaussee (Schönefeld)
+5,Rudower Str. (Waßmannsdorf)
+5,Ruhlsdorf - Güterfelde
+5,Ruhlsdorfer Str. (Stahnsdorf)
+5,Ruhlsdorfer Str. (Teltow)
+5,Russ. Kolonie (B2) (Potsdam)
+5,Russ. Kolonie (Potsdam)
+5,Räbel - Seehausen
+5,Rückertstr. (B273) (Potsdam)
+5,Rückertstr. (Potsdam)
+5,Rüdersdorfer Str. (Schöneiche)
+5,Rüdnitz - Danewitz
+5,Saarlandstr. (Oranienburg)
+5,Saarmund - Michendorf
+5,Saarmund - Tremsdorf
+5,Sacrow - Kladow
+5,Sandkrug - Neuendorf
+5,Sandower Hauptstr. (Cottbus)
+5,Sandower Str. (Cottbus)
+5,Satzkorn - B273
+5,Satzkorn - Bahnhof
+5,Schenkendorf - Krummensee
+5,Schenkenhorst (Potsdamer Str.)
+5,Schiffmühle - Gabow
+5,Schildow - Glienicke
+5,Schildow - Wensickendorf
+5,Schlangenthin - Dahmsdorf
+5,Schlepzig - Freiwalde
+5,Schleusenstr. (Woltersdorf)
+5,Schlänitzseer Weg (Marquardt)
+5,Schmergow - Deetz
+5,Schmergow - Fähre
+5,Schopenhauer Str. (B273) (Potsdam)
+5,Schopenhauer Str. (Potsdam)
+5,Schulplatz (Potsdam)
+5,Schulstr. (Potsdam)
+5,Schulzendorf - Eichwalde
+5,Schulzendorf - Haselberg
+5,Schulzendorf - Steinbeck
+5,Schwanenallee (Potsdam)
+5,Schwanenweg (Caputh - Eisenbahnbrücke)
+5,Schwarzer Weg (Hubertussiedlung)
+5,Schwarzer Weg (Marquardt)
+5,Schönebecker Weg (Woltersdorf)
+5,Schöneiche
+5,Schöneiche - Neuenhagen
+5,Schöneicher Landstr. (Rüdersdorf)
+5,Schöneicher Str. (Schöneiche)
+5,Schönerlinder Str. (Schönow)
+5,Schönfeld - Beiersdorf
+5,Schönfeld - Werftpfuhl
+5,Schönfelde - Rehfelde
+5,Schönfließ - Frohnau
+5,Schönfließ - Mühlenbeck
+5,Schönfließ - Summt
+5,Schönfließer Str. (Glienicke)
+5,Schönholz-Neuwerder - Neustadt
+5,Schönow - Buch
+5,Schönwalde - Börnicke
+5,Schönwalde - Mönchmühler See
+5,Seeburger Chaussee (Dallgow-Döberitz)
+5,Seefeld - Bernau
+5,Seegefelder Str. (Dallgow-Döberitz)
+5,Seegefelder Str. (Falkensee)
+5,Seehausen - Losenrade
+5,Selchower Str. (Waßmannsdorf)
+5,Sellostr. (Potsdam)
+5,Senftenhütte
+5,Senftenhütte - Golzow
+5,Senzig - Körbiskrug
+5,Sielower Landstr. (Cottbus)
+5,Siethen - Ahrensdorf
+5,Siethen - Gröben
+5,Siethen - Schönhagen
+5,Spandau - Hennigsdorf
+5,Spandau - Schönwalde
+5,Spandau - Seeburg (Engelsfelder Chaussee)
+5,Spandauer Str. (Falkensee)
+5,Sperenberg - Kummersdorf Gut
+5,Sperenberg - Neuhof
+5,Sperenberg - Stülpe
+5,Sperenberg - Trebbin
+5,Spreeau - Hartmannsdorf
+5,Spreebrücke (Fürstenwalde)
+5,Spreehagen - Hartmannsdorf
+5,St.-Annen-Str. (Brandenburg)
+5,Stadtbrücke Frankfurt - Slubice
+5,Stadtring (B97) (Cottbus)
+5,Stadtring (Cottbus)
+5,Staffelde - Flatow
+5,Staffelde - Schwante
+5,Stahnsdorf - Saarmund
+5,Stahnsdorfer Damm (Kleinmachnow)
+5,Stahnsdorfer Str. (Potsdam)
+5,Stahnsdorfer Str. (Teltow)
+5,Steinbeck - Heckelberg
+5,Steinhöfel - Heinersdorf
+5,Steinstr. (Brandenburg)
+5,Steinstr. (Neuruppin)
+5,Steinstr. (Potsdam)
+5,Sternebeck - Lüdersdorf
+5,Sternstr. (Potsdam)
+5,Stolper Str. (Hohen Neuendorf)
+5,Stolzenhagen - B273
+5,Storkow - Bad Saarow
+5,Storkow - Fürstenwalde
+5,Storkow - Kehrigk
+5,Storkow - Kolberg
+5,Storkower Str. (Gosen)
+5,Str. der Jugend (Cottbus)
+5,Str. der Jugend (Schönwalde)
+5,Str. des Friedens (Dahlwitz-Hoppegarten)
+5,Str. des Friedens (Luckenwalde)
+5,Str. des Friedens (Neuruppin)
+5,Stralsunder Str. (Oranienburg)
+5,Strausberg - Buchholz
+5,Strausberg - Buchholz (Spitzmühlenweg)
+5,Strausberg - Garzau
+5,Strausberg - Hardenberg
+5,Strausberg - Heidekrug
+5,Strausberg - Wriezen
+5,Straße der Einheit (Caputh)
+5,Strodehne - Garz
+5,Struveshof - Großbeeren
+5,Stülpe - Petkus
+5,südl. des Pätzer Hintersees
+5,Südring (B87/B112) (Frankfurt)
+5,Tasdorf - Altlandsberg
+5,Tasdorf - Strausberg
+5,Teltow - Ludwigsfelde
+5,Teltower Str. (Mahlow)
+5,Telz - B96
+5,Tempelfelde - Gratze
+5,Templiner Str. (F1) (Potsdam)
+5,Teschendorf - Liebenberg
+5,Teupitz - Kleinköris
+5,Teupitz - Lindenbrück
+5,Teupitz - Märkisch Buchholz
+5,Theodor-Fontane-Str. (Erkner)
+5,Thomas-Müntzer-Damm (Kleinmachnow)
+5,Thomas-Müntzer-Str. (Lindenberg)
+5,Thyrow - Siethen
+5,Tiefensee - Eberswalde
+5,Tietzow
+5,Torstr./Baderstr. (Insel) (Werder)
+5,Trebbin - Jütchendorf
+5,Trebbin - Luckenwalde
+5,Trebbiner Str. (Mahlow)
+5,Trebuser Str. (Fürstenwalde)
+5,Tremmen - Etzin
+5,Tremmen - Gohlitz
+5,Tremsdorf - Gröben
+5,Treplin - Alt Zeschdorf
+5,Töpchin - Teupitz
+5,Töpchin - Wünsdorf
+5,Ufer- und Waldweg Pätz - Bestensee
+5,Uferpromenade Caputh
+5,Ulitzkastr. (Bernau)
+5,Unter den Linden (Werder)
+5,Upstallstr. (Brandenburg)
+5,Vehlefanz - Leegebruch
+5,Vehlefanz - Perwenitz
+5,Velten - Germendorf
+5,Vogelsdorf - Petershagen
+5,Vogelsdorfer Str. (Rüdersdorf)
+5,Vogelsdorfer Str. (Schöneiche)
+5,Vogelweide (Potsdam)
+5,Voltaireweg (Potsdam)
+5,Waldmüllerstr. (Potsdam)
+5,Waldsieversdorf - Garzau
+5,Waldstr. (Blankenfelde)
+5,Waldstr. (Rüdersdorf)
+5,Wallstr. (Strausberg)
+5,Waltersdorf - Diepensee
+5,Waltersdorf - Kienberg
+5,Waltersdorf - Schulzendorf
+5,Waltersdorfer Chaussee (B179) (Schönefeld)
+5,Walther-Rathenau-Str. (Neu Zittau)
+5,Wandlitz - Stolzenhagen
+5,Wannseestr. (Potsdam)
+5,Wansdorf - Bötzow
+5,Wartenberger Str. (Lindenberg)
+5,Warthestr. (Teltow)
+5,Waßmannsdorf - Kleinziethen
+5,Weesow - Willmersdorf
+5,Weidendamm (Eberswalde)
+5,Weinbergstr. (Eberswalde)
+5,Wendemark - Seehausen
+5,Wensickendorf - Liebenwalde
+5,Werder - Lehnin
+5,Werder - Schmergow
+5,Werder - Schmergow (Eisenbahnstr.)
+5,Werderscher Damm (Potsdam)
+5,Werderscher Damm (Wildpark West - Kuhfort)
+5,Wernsdorf
+5,Wernsdorf - Erkner
+5,Wesendahl - Hirschfelde
+5,Wesendahler Weg
+5,Wesendahler Weg (Eggersdorf - Bötzsee)
+5,Wiesenweg (Dahlwitz-Hoppegarten)
+5,Wildenbruch - B2
+5,Wildenbruch - Fresdorf
+5,Wildenbruch - Michendorf
+5,Wildpark (F2.2)
+5,Wildpark West
+5,Wildpark West (F2.2)
+5,Wilhelm-Leuschner-Str. (Potsdam)
+5,Wilhelmsdorfer Str. (Brandenburg)
+5,Wilhelmshorst - Wildenbruch
+5,Wilhelm-Tell-Str. (Woltersdorf)
+5,Wilkendorf
+5,Willi-Sänger-Str. (Brandenburg)
+5,Willmersdorf - Schönfeld
+5,Willy-Brandt-Str. (B115) (Cottbus)
+5,Wilmsstr. (Dallgow-Döberitz)
+5,Wittbrietzen - B2
+5,Wittenberge
+5,Wittenberge - Bad Wilsnack
+5,Wittstocker Allee (Neuruppin)
+5,Woltersdorfer Landstraße (Woltersdorf)
+5,Woltersdorfer Str. (Schöneiche)
+5,Wriezener Str. (Strausberg)
+5,Wulkau - Rathenow
+5,Wulkow - Hermersdorf
+5,Wusterhausen
+5,Wustermark - Alter Finkenkrug
+5,Wustrow-Altfriesack - Flatow
+5,Wuthenow - Wustrow-Altfriesack
+5,Wutzetz - Dreetz
+5,Wünsdorf - Klausdorf
+5,Yorckstr. (Mittenwalde)
+5,Yorckstr. (Potsdam)
+5,Zachow - Tremmen
+5,Zanderstr. (B1/B102) (Brandenburg)
+5,Zauchwitz - Luckenwalde
+5,Zehdenick - Falkenthal
+5,Zehdenick - Templin
+5,Zehlendorf - Schmachtenhagen
+5,Zehlendorfer Damm (Kleinmachnow)
+5,Zehlendorfer Str. (Teltow)
+5,Zepernick - Schönow
+5,Zeppelinstr. (B1) (Potsdam)
+5,Zeppelinstr. (Potsdam)
+5,Zernitz - Kyritz
+5,Zernsdorf - Dannenreich
+5,Zerpenschleuse
+5,Zerpenschleuse - Marienwerder - (B 1 6 7)
+5,Zeuthener Str. (Eichwalde)
+5,Ziegelstr. (Brandenburg)
+5,Ziethener Str. (Mahlow-Waldblick)
+5,Zimmerstr. (Cottbus)
+5,Zinndorf - Garzau
+5,"Zossener Damm (Blankenfelde, Richtung Dahlewitz)"
+5,Zum Kirchsteigfeld (?) (Potsdam)
+5,Zur Historischen Mühle (Potsdam)
+5,zur Hl.-Geist-Str. (Potsdam)
+5,Zühlsdorf - Wandlitz
+5,Ützdorf - Bernau
+6,(B109) - Lübs
+6,(B110) - Suckow
+6,(B111) - Bansin
+6,(bei Götschendorf)
+6,(Elsdorf)
+6,(Kochstedt - ) Libbesdorf
+6,(Koserow)
+6,(Quellendorf - ) Reupzig
+6,(Rangowbruch)
+6,(Stegelitz) - Warnitz-Fahrgastschifffahrt
+6,(Zinnowitz)
+6,(Ückeritz)
+6,Aken - Calbe
+6,Aken - Elsnigk
+6,Altentreptow - Stavenhagen
+6,Altenweddingen
+6,Alt-Golm - Neubrück
+6,Alt-Golm - Saarow
+6,Alt-Golm - Streitberg
+6,am Forsthaus Fangel
+6,an der Viktoriahöhe
+6,"Anklam, Altstadt"
+6,"Anklam, Brücke"
+6,"Anklam, Peendedamm"
+6,Atzendorf - Egeln Nord
+6,B1
+6,B100
+6,B101
+6,B101/B169
+6,B102
+6,B103
+6,B104: Neubrandenburg - Pasewalk
+6,B104: Pasewalk - Szeczin
+6,B104: Teterow - Neubrandenburg
+6,B105
+6,B106
+6,B107
+6,B108
+6,B109
+6,B109/B110
+6,B109: Anklam - Greifswald
+6,B110: Anklam - Usedom
+6,B110: Gnoien - Jarmen
+6,B110: Jarmen - Anklam
+6,B110: Rostock - Gnoien
+6,B111
+6,B111 - Mölschow
+6,B112
+6,B113
+6,B115
+6,B122
+6,B156
+6,B166
+6,B169
+6,B180
+6,B183
+6,B183a
+6,B184
+6,B185
+6,B185 - Elsdorf
+6,B185 - Quellendorf
+6,B187
+6,B187a
+6,B188
+6,B189
+6,B192
+6,B193
+6,B194
+6,B196
+6,B196a
+6,B197
+6,B198 - Görlsdorf
+6,B198 - Röbel
+6,B198: Angermünde - Prenzlau
+6,B198: Neustrelitz - Woldegk
+6,B198: Plau - Neustrelitz
+6,B198: Woldegk - Prenzlau
+6,B2
+6,B2/B107
+6,B207
+6,B209
+6,B244
+6,B246
+6,B246a
+6,B2a
+6,B404
+6,B435
+6,B5
+6,B6
+6,B71
+6,B75
+6,B79
+6,B81
+6,B87
+6,B96
+6,B96 (Neustrelitz)
+6,B96/B169
+6,B96a
+6,B97
+6,B98
+6,Baabe - Thiessow
+6,Bad Sülze - Marlow
+6,Bad Sülze - Ravenhorst
+6,Bagemühl - Penkun
+6,Balm
+6,Bannemin - Peenemünde
+6,Bansin
+6,Bansin - Sellin
+6,Barby
+6,Barby - Calbe
+6,Barby - Schönebeck
+6,Barth - Zingst
+6,Baruth - Kummerdorf Gut
+6,Battin - Bagemühl
+6,Beeskow - Rietz
+6,Belzig - Görzke
+6,Berga - Krassig
+6,Bergzow - Genthin
+6,Bertikow - Blankenburg
+6,Binz - Saßnitz
+6,Blankenburg - Quast
+6,Boltensdorf - Korba
+6,Brandenburg - Ziesar
+6,Brandis - Illmersdorf
+6,Bredenfelde - Dewitz
+6,Bredereiche - Himmelpfort
+6,Breitenhagen - Groß Rosenburg
+6,Brück - Golzow
+6,Brüssow - Hammelstall
+6,Buckow - Damsdorf
+6,Buckow - Wahlsdorf
+6,Burg - Ihleburg
+6,Burg - Straupitz
+6,Burg - Ziesar
+6,Burow - Demmin
+6,Calau - Craupe
+6,Calau - Sonnenwalde
+6,Calbe - Förderstedt
+6,Carpin - Feldberg
+6,Casekow - Woltersdorf
+6,Coswig - Seegrehna
+6,Cremzow - Kleptow
+6,Dahlen - Dippmannsdorf
+6,Dahme - Charlottenfelde
+6,Dahme - Herzberg
+6,Dahme - Hohenbucko
+6,Dahme - Schönewalde
+6,Damme - Eickstedt
+6,Damme - Grenz
+6,Dannenwalde - Blumenow
+6,Dechtow - Fehrbellin
+6,Demmin - Wendisch Baggendorf
+6,Dessau - Aken
+6,Dessau - Elbe
+6,Dessau - Oranienbaum
+6,Dessau - Quellendorf
+6,Dewichow - Balm
+6,Dewichow - Neppermin
+6,Diemitz - Mirow
+6,Diemitz - Schwarz
+6,Dierberg - Alt Ruppin
+6,Dierberg - Menz
+6,Doberlug - Drasdo
+6,Dolgen
+6,Eggesin - Ueckermünde
+6,Eickstedt - Wallmow
+6,Eisenhüttenstadt - Müllrose
+6,"Elbwanderweg, unterschiedliche Qualität"
+6,Elsnigk - Reppichau
+6,Elsnigk - Reupzig
+6,Elsterwerda - Doberlug
+6,Fahrenwalde - Brüssow
+6,Fahrenwalde - Carmzow
+6,Falkenwalde - Damme
+6,Falkenwalde - Wollin
+6,Fehrbellin - Garz
+6,Feldberg - Fürstenwerder
+6,Feldberg - Hardenbeck
+6,Feldberg - Möllenbeck
+6,Fergitz
+6,Fergitz - Potzlow
+6,Fergitzer Mühle - Fergitz
+6,Finsterwalde - Doberlug (N)
+6,Finsterwalde - Doberlug (S)
+6,Finsterwalde - Hohenleipisch
+6,Frankenhain - Tröbitz
+6,Friedland - Treppeln
+6,"Friedrichsfelde - Stegelitz, Ausbau"
+6,Friedrichsfelde - Steinhöfel
+6,Förderstedt - Stassfurt
+6,Fürstenberg - Lychen
+6,Fürstenwerder - Woldegk
+6,Gandenitz
+6,Garz - Putbus
+6,Garz - Sehlen
+6,Garz - Stralsund
+6,Genthin - Mahlenzien
+6,Gerswalde - Pinnow
+6,Glambeck - Neuhaus
+6,Glashütte - Friedrichshof
+6,Glasow - Retzin
+6,Glewitz - Tribsees
+6,Gnoien - Bad Sülze
+6,Golßen - Autobahn
+6,Golßen - Damsdorf
+6,Golßen - Drahnsdorf
+6,Grabowstr. (Prenzlau)
+6,Gramzow
+6,Granzow - Speck
+6,Greiffenberg - Haßleben
+6,Grenz - Rollberg
+6,Grimmen - Bad Sülze
+6,Grimmen - Reinberg
+6,Groß Dölln
+6,Groß Dölln - Templin
+6,Groß Dölln - Zehdenick
+6,Groß Friedenwalde - Flieth
+6,Groß Friedenwalde - Stegelitz
+6,Groß Rietz
+6,Groß Rietz - Neubrück
+6,Groß Rosenburg - Patzetz
+6,Groß Rosenburg - Tornitz
+6,Groß Schönebeck - Groß Dölln
+6,Groß Schönebeck - Kurtschlag
+6,Großensee - Ahrensburg
+6,Gräben - Ragösen
+6,Gröditz - Bad Liebenwerda
+6,Grünberg - Bagemühl
+6,Grünow - Mönchehof
+6,Gädebehn - Wolkow
+6,Görlsdorf - Peetzig
+6,Götschendorf - Böckenberg
+6,Güstow - Gollmitz
+6,Haßleben - Boitzenburg
+6,Haßleben - Pinnow
+6,Hederslebne - Harsleben
+6,Herrenweg
+6,Herzsprung - Blumenthal
+6,Hillmersdorf - Wehrhain
+6,Hohenbucko - Doberlug
+6,Hohenleipisch - Plessa
+6,Hohenlobesse - Görzke
+6,Hohenseeden - Gladau
+6,Hohenseefeld - Herbersdorf
+6,Hohenseefeld - Wiepersdorf
+6,Hoym - Stassfurt
+6,Ihleburg - Bergzow
+6,Ihleburg - Hohenseeden
+6,Jessen - Seyda
+6,Jetsch - Dahme
+6,Joachimsthal - Ringenwalde
+6,Joachimsthal - Temmen
+6,Jüterbog - Werder
+6,Kaakstedt - Pinnow
+6,Kamp - Bugenitz
+6,Karnin
+6,Karnin - Flemendorf
+6,Karnin - Usedom
+6,Katschow - Benz
+6,Kemlitz - Görsdorf
+6,Kerkow - Joachimsthal
+6,Kirchmöser - Plaue
+6,Klasdorf - Glashütte
+6,Klein Friedenwalde - Groß Friedenwalde
+6,Klein-Trobbow
+6,Klosterstr. (Prenzlau)
+6,Kolochau - Schönewalde
+6,Korba - Hohenbucko
+6,Koserow - Ückeritz (Ostseeseite)
+6,Krackow - B104
+6,Kremmin - Mölschow
+6,Kunow - Hohenfelde
+6,Kurtschlag - Hammerspring
+6,Kurzlipsdorf - Kaltenborn
+6,Kyritz - Wittstock
+6,Käbelich - Bargendorf
+6,Kähnert - Gladau
+6,Köpernitz - Gühlen Glienicke
+6,Körbelitz - Niegripp
+6,Körbitz - Langenlipsdorf
+6,Köthen - Alsleben
+6,Köthen - B183
+6,Köthen - Baasdorf
+6,Köthen - Könnern
+6,Köthen - Wulfen
+6,Langengrassau
+6,Lauchhammer - Staupitz
+6,Lehnin - Brück
+6,Lehnin - Golzow
+6,Lichtenberg - Bredenfelde
+6,Liebenthal - Schluft
+6,Linow - Zechlinerhütte
+6,Loddin - Kölpinsee
+6,Losentitz - Garz
+6,Luhme - Diemitz
+6,Luhme - Zechlin
+6,Lychen - Koldenhof
+6,Lychen - Prenzlau
+6,Löbnitz - Barth
+6,Löcknitz - Prenzlau
+6,Lübars - Hohenlobesse
+6,Lübbenau - Wormlage
+6,Lützlow - Gramzow
+6,Lützlow - Hohengüstow
+6,Mahlenzien - Wenzlow
+6,Malchin - Neukalen
+6,Malchow
+6,Marlow - Kuhlrade (- Ribnitz)
+6,Marlow - Ribnitz
+6,Mellenthin
+6,Mellenthin - Pudagla
+6,Melzow - Warnitz
+6,Menz - Adamswalde - Zechlinerhütte
+6,Menz - Köpernitz
+6,Milmersdorf - Stegelitz
+6,Mirow - Neustrelitz
+6,Morgenitz - Krienke
+6,Morgenitz - Mellenthin
+6,Möckern - Drewitz
+6,Möllenbeck - Blumenholz
+6,Mölschow - Trassenheide
+6,Mölschow - Zecherin
+6,Mönchehof - Grenz
+6,Müllrose - Weichensdorf
+6,N116
+6,nach Pelzkuhl
+6,nach Sellin
+6,Nackel - Wildberg
+6,Neppermin - Bansin
+6,Neubrandenburg - Altentreptow
+6,Neubrandenburg - Friedland
+6,Neubrück - Müllrose
+6,Neuendorf - Lülow
+6,Neuendorf A - Bugenitz
+6,Neuglobsow - Rheinsberg
+6,Neuhaus - Friedrichsfelde
+6,Neuhof - Kolzenburg
+6,Neukalen - Gnoien
+6,Neuruppin - Herzsprung
+6,Neuruppin - Zechlin
+6,Neuzelle - Friedland
+6,Niebendorf - Hohenseefeld
+6,Nieden - Fahrenwalde
+6,Niedergörsdorf - Seyda
+6,Niegripp - Burg
+6,Niepars - Barth
+6,Niepars - Steinhagen
+6,Nonnendorf - Wiepersdorf
+6,Oehna - Werbig
+6,Osinow Dolny - Cedinya
+6,Osternienburg - Elsnigk
+6,Paplitz - Kemlitz
+6,Pasewalk - Fahrenwalde
+6,Pasewalk - Torgelow
+6,Peetzig - Greiffenberg
+6,Pelzkuhl - Strasen
+6,Penkun - Prenzlau
+6,Pinnow - Sternhagen
+6,Plessa - Wainsdorf
+6,Potzlow - Abbau - Pinnow
+6,Potzlow - Pinnow
+6,Potzlow - Seehausen
+6,Pouch - Reibitz
+6,Pratau - Wörlitz
+6,Prenzlau - Feldberg
+6,Prenzlau - Potzkow
+6,Promenade Bansin - Ahlbeck
+6,Putbus - Bergen
+6,Putbus - Binz
+6,Putbus - Sellin
+6,Quast - Blankenburg
+6,Quast - Seehausen
+6,Quellendorf - Köthen
+6,Reibitz - Kletzen
+6,Reinberg - Stahlbrode
+6,"Relzow, Dorfstr."
+6,Reppichau - Dessau
+6,Retzin - Ramin
+6,Rheinsberg - Warenthin
+6,Rheinsberg - Wesenberg
+6,Rheinsberg - Wittstock
+6,Ribnitz - Zingst
+6,Richtenberg - Karnin
+6,Rogäsen - Bensdorf
+6,Rohrbeck - Tiefenbrunn
+6,Rollberg - Schwaneberg
+6,Röbel - Sietow
+6,Sandhausen
+6,Sanitz - Bad Sülze
+6,Sanitz - Ribnitz
+6,Saßnitz - Stubnitz
+6,Schadeleben - Quedlinburg
+6,Schernsdorf - Fünfeichen
+6,Schernsdorf - Mixdorf
+6,Scheuder
+6,Schierke - Brocken
+6,Schierke - Elend
+6,Schlieben
+6,Schlieben - Dobrichau
+6,Schmölln - Brüssow
+6,Schmölln - ehem. Bahnhof (- Wallmow)
+6,Schwaneberg - Battin
+6,Schweinitz - Jüterbog
+6,Schönermark - Fürstenwerder
+6,Seegrehna - Kemberg
+6,Seehausen - Bertikow - (B198)
+6,Seehausen - Blankenburg
+6,Seenweg
+6,Seyda - Zahna
+6,Siedenbrünzow - Loitz
+6,Siedlerweg (Blankenburg)
+6,Siemersdorf - Franzburg
+6,Sommersdorf - Wartin
+6,Sonnenwalde - Doberlug
+6,Sonnenwalde - Trebbus
+6,Speck - Kargow
+6,Speck - Waren
+6,Staakow - Halbe
+6,Stegelitz - Melzow
+6,Steinhagen - Löbnitz
+6,Steinhöfel - (Greiffenberg)
+6,Sternhagen - Zollchow
+6,Stolpe - Burg Stargard
+6,Suckow - Dewichow
+6,Suckow - Warthe
+6,Temmen - Gerswalde
+6,Templin - Boitzenburg
+6,Templin - Lychen
+6,Templin - Milmersdorf
+6,Templin - Mittenwalde
+6,Teterow - Neukalen
+6,Torgelow - Eggesin
+6,Torgelow - Hammer
+6,Torgelow - Heinrichsruh
+6,Torgelow - Ueckermünde
+6,Trampe
+6,Trampe - Grünberg
+6,Trassenheide - Richtung Ostsee
+6,Trassenheide - Zinnowitz
+6,Trebbin - Brück
+6,Treppeln - Neuzelle
+6,Tribsees - Franzburg
+6,Trittau - Hamburg
+6,Tröbitz - Bad Liebenwerda
+6,Tucheim - Karow
+6,Ueckermünde - Altwigshagen
+6,Ueckermünde - Ducherow
+6,Unseburg - Egeln
+6,Usedom
+6,Vetschau - Burg
+6,Vetschau - Calau
+6,Vierraden - Hohenfelde
+6,Vockerode - Dessau
+6,Völschow - Kruckow
+6,Wahlsdorf - Petkus
+6,Wainsdorf - Gröditz
+6,Waldersee - Elbe
+6,Waldweg von Aken zur Elbe
+6,Wallmow - Carmzow
+6,Wallmow - Cremzow
+6,Waren - Malchin
+6,Warnitz - Blankenburg
+6,Warnitz - Quast
+6,Wartin - Casekow
+6,Wehrhain
+6,Welsickendorf - Zellendorf
+6,Werbig - Schlenzer
+6,Werbig - Schönewalde
+6,Werder - Neuhof
+6,Werenzhain - Nexdorf
+6,Wernigerode - Schierke
+6,Weselitz - Falkenwalde
+6,westl. von Wörlitz
+6,Wiepersdorf - Jeßnigk
+6,Wiepersdorf - Welsickendorf
+6,Wiesenau - Müllrose
+6,Wittstock - Kolrep
+6,Wittstock - Pritzwalk
+6,Woldegk - Friedland
+6,Wollin - Eickstedt
+6,Wollin - Görzke
+6,Wollin - Krackow
+6,Wollin - Lützlow
+6,Wollin - Zehnebeck - Gramzow
+6,Wollin/Eickstedt - Schmölln
+6,Woltersdorf - Kunow
+6,Wustow - B96
+6,Wörlitz - Vockerode
+6,Zahna - Kropstädt
+6,Zahna - Kurzlipsdorf
+6,Zahna - Wittenberg
+6,Zecherin - Karnin
+6,Zechlinerhütte - Luhme
+6,Zehdenick - Fürstenberg
+6,Zerbst - Barby
+6,Zerbst - Breitenhagen
+6,Zerbst - Reuden
+6,Ziesar - Rogäsen
+6,Zingst
+6,Zinnowitz - Neuendorf
+6,Zinnowitz (Strand) - Zemnin
+6,Zirchow - Ahlbeck
+6,zum Luisium
+6,Ückeritz - Richtung Ostsee
+7,Abbau|Potzlow
+7,Adamswalde
+7,Ahrensburg
+7,Aken
+7,Alsleben
+7,Altentreptow
+7,Altes Lager
+7,Altglobsow
+7,Altgolßen
+7,Altona
+7,Anklam
+7,Annaburg
+7,Arneburg
+7,Artlenburg
+7,Aschersleben
+7,Ausbau (Afrika)|Stegelitz
+7,Baasdorf
+7,Bad Doberan
+7,Bad Düben
+7,Bad Dürrenberg
+7,Bad Harzburg
+7,Bad Liebenwerda
+7,Bad Muskau
+7,Bad Salzdetfurth
+7,Bad Schandau
+7,Bad Sülze
+7,Bagemühl
+7,Ballin
+7,Balm
+7,Bannemin
+7,Barby
+7,Barsdorf
+7,Barth
+7,Battin
+7,Bautzen
+7,Beenz
+7,Bentzin
+7,Benz
+7,Benzigerode
+7,Bergedorf
+7,Bergen
+7,Berghausen|bei Seehausen
+7,Bergwitz
+7,Bergzow
+7,Berkenlatten
+7,Berkholz
+7,Bernburg
+7,Bernsdorf
+7,Bertikow
+7,Betzin
+7,Beutel
+7,Biendorf
+7,Biesenbrow
+7,Bietikow
+7,Binenwalde
+7,Bitterfeld
+7,Blandikow
+7,Blankenburg|/Harz
+7,Blankenburg|Uckermark
+7,Blankenese
+7,Blankensee|b. Neustrelitz
+7,Blankensee|bei Haßleben
+7,Bleckede
+7,Blumberg|bei Casekow
+7,Blumenberg
+7,Blumenholz
+7,Blumenow
+7,Blumenthal
+7,Blönsdorf
+7,Bochow|b. Jüterbog
+7,Boitzenburg
+7,Boitzenburg|/Elbe
+7,Borgisdorf
+7,Born
+7,Brandis
+7,Brandis|(b. Schönewalde)
+7,Brandshagen
+7,Bredenfelde
+7,Bredereiche
+7,Brehna
+7,Briesen|Uckermark
+7,Briest
+7,Brinnis
+7,Bruchhagen
+7,Brunn
+7,Brunne
+7,Bröllin
+7,Brüssow
+7,Buchholz|bei Gerswalde
+7,Buckow|(Niederer Fläming)
+7,Bugewitz
+7,Burg Stargard
+7,Burg|a. Fehmarn
+7,Burg|bei Magdeburg
+7,Buro
+7,Burow
+7,Böckenberg
+7,Bücknitz
+7,Calau
+7,Calbe
+7,Canow
+7,Carmzow
+7,Carpin
+7,Carwitz
+7,Casekow
+7,Cedinya|(Polen)
+7,Charlottenfelde|Petkus
+7,Chorau
+7,Cochstedt
+7,Coswig
+7,Cremzow
+7,Dabie
+7,Dabrun
+7,Dahlen
+7,Dahme
+7,Damerow
+7,Damme|(Uckermark)
+7,Damp
+7,Damsdorf|(Niederer Fläming)
+7,Dannenwalde
+7,Dannenwalde|bei Gransee
+7,Dargen
+7,Dargun
+7,Dassow
+7,Decin
+7,Dedelow
+7,Delitzsch
+7,Demmin
+7,Dennewitz
+7,Derenburg
+7,Dessau
+7,Dewichow
+7,Dewitz
+7,Diemitz
+7,Doberlug-Kirchhain
+7,Dohndorf
+7,Dolgen
+7,Dommitzsch
+7,Dorf Mecklenburg
+7,Dorf Zechlin
+7,Dornswalde
+7,Drahnsdorf
+7,Drebkau
+7,Dreesch
+7,Drense
+7,Dresden
+7,Drewitz|b. Ziesar
+7,Drosedow
+7,Ducherow
+7,Döbern
+7,Dömitz
+7,Dümde
+7,Eckernförde
+7,Egeln
+7,Eggesin
+7,Eickstedt
+7,Eilenburg
+7,Elbingerode|(Harz)
+7,Elend
+7,Elsdorf (Köthen)
+7,Elsnigk
+7,Elster
+7,Elsterwerda
+7,Ermsleben
+7,Escheburg
+7,Euper
+7,Eutzsch
+7,Fahrenwalde
+7,Falkenberg|(Elster)
+7,Falkenwalde|Uckermark
+7,Feldberg
+7,Felgentreu
+7,Ferdinandshof
+7,Fergitz
+7,Fergitz|am Oberückersee
+7,Finsterwalde
+7,Flecken Zechlin
+7,Flieth
+7,Forst
+7,Frankenfelde|b. Luckenwalde
+7,Frankenförde
+7,Franzburg
+7,Frassdorf
+7,Frauenhagen
+7,Fredersdorf|Uckermark
+7,Friedenfelde
+7,Friedland|(Vorpommern)
+7,Friedrichsfelde|Steinhöfel
+7,Friedrichshof|Rietzenneuendorf-Friedrichshof
+7,Fröhden|b. Markendorf
+7,Fürstenwerder
+7,Gandenitz
+7,Gartz
+7,Garz|(Rügen)
+7,Geesthacht
+7,Gentha
+7,Genthin
+7,Gerbstedt
+7,Gerswalde
+7,Gerwisch
+7,Gladau
+7,Glashütte|Baruth
+7,Glasow|(Rangowbruch)
+7,Glienecke|b. Ziesar
+7,Glinde
+7,Glindenberg
+7,Gnoien
+7,Gohrau
+7,Gollmitz
+7,Golm|Uckermark
+7,Goltewitz
+7,Gommern
+7,Goslar
+7,Gothen
+7,Gottow
+7,Gottsdorf
+7,Grabow|(Mecklenburg)
+7,Grabow|b. Burg
+7,Gramzow
+7,Greiffenberg
+7,Greifswald
+7,Grenz
+7,Gresenhorst
+7,Griebo
+7,Griesen
+7,Grimma
+7,Grimmen
+7,Grossbadegast
+7,Groß Briesen
+7,Groß Friedenwalde
+7,Groß Pinnow
+7,Groß Ziescht
+7,Großenbrode
+7,Großenhain
+7,Großensee
+7,Großräschen
+7,Großzerlang
+7,Gräben
+7,Gräfendorf
+7,Gräfenhainichen
+7,Gröditz
+7,Gröningen
+7,Grüna
+7,Grünberg
+7,Grünow
+7,Grünow|Uckermark
+7,Grünz
+7,Gummlin
+7,Gölsdorf|b. Jüterbog
+7,Görke
+7,Görlitz
+7,Görlsdorf|bei Angermünde
+7,Görmin
+7,Görzke
+7,Götschendorf
+7,Günterberg
+7,Güsten
+7,Gützkow
+7,Hadmersleben
+7,Halberstadt
+7,Haldensleben
+7,Halle
+7,Hamburg
+7,Hammelstall|(Brüssow)
+7,Hammer|bei Torgelow
+7,Hannover
+7,Harburg
+7,Hardenbeck
+7,Harsleben
+7,Haßleben
+7,Hecklingen
+7,Heidenau
+7,Heiligenhafen
+7,Heimburg
+7,Heinrichsruh
+7,Herzberg|(Elster)
+7,Herzsprung
+7,Hiddensee
+7,Hildesheim
+7,Himmelpfort
+7,Hitzacker
+7,Hohenbucko
+7,Hohenfelde
+7,Hohengörsdorf
+7,Hohengüstow
+7,Hohenleipisch
+7,Hohenlobesse
+7,Hohennahlsdorf
+7,Hohenroda
+7,Hohenseeden
+7,Hohenseefeld
+7,Hohenselchow
+7,Hohenwarthe
+7,Hohenziatz
+7,Holbeck
+7,Horst|bei Golmitz
+7,Horstdorf
+7,Horstwalde
+7,Hoyerswerda
+7,Hoym
+7,Höfgen
+7,Ihleburg
+7,Illmersdorf
+7,Ilsenburg|(Harz)
+7,Jakobshagen
+7,Jamikow
+7,Jarmen
+7,Jatznick
+7,Jerichow
+7,Jessen
+7,Jetsch
+7,Jeßnitz
+7,Jänickendorf|b. Luckenwalde
+7,Kaakstedt
+7,Kachlin
+7,Kade
+7,Kakau
+7,Kamenz
+7,Kamien Pomorski
+7,Kamp
+7,Karlshagen
+7,Karnin
+7,Karow|b. Genthin
+7,Karstädt
+7,Katschow
+7,Kemberg
+7,Kemlitz
+7,Kiel
+7,Kienberge
+7,Kirchmöser Dorf
+7,Klasdorf
+7,Klein Friedenwalde
+7,Klein Lübars
+7,Kleinow|(Falkenwalde)
+7,Kleinzerbst
+7,Kleinzerlang
+7,Kletzen
+7,Klieken
+7,Klietz
+7,Klitzschena
+7,Kloster Zinna
+7,Klotzsche
+7,Kochstedt (Dessau)
+7,Kolrep
+7,Kolzenburg
+7,Korswandt
+7,Koserow
+7,Krackow
+7,Kremmin
+7,Krienke
+7,Kroppenstedt
+7,Kropstädt
+7,Krüssau
+7,Kuhz|bei Haßleben
+7,Kummersdorf Gut
+7,Kunow
+7,Kölpinsee
+7,Königsbrück
+7,Königstein
+7,Könnern
+7,Körbitz
+7,Köthen
+7,Kühlungsborn
+7,Küsel
+7,Landin|Uckermark
+7,Landkirchen|a. Fehmarn
+7,Landsberg
+7,Langenlipsdorf
+7,Langennaundorf
+7,Lassen
+7,Lauchhammer
+7,Lauenburg|/Elbe
+7,Lausigk
+7,Lauta
+7,Lebendorf
+7,Lebusa
+7,Leipzig
+7,Leitzkau
+7,Leknica
+7,Lenzen
+7,Leopoldshagen
+7,Leppin
+7,Leuna
+7,Libbesdorf
+7,Lichtenberg|b. Feldberg
+7,Lichterfelde|Werbig
+7,Liepe|(b. Dahme)
+7,Liepe|Rankwitz
+7,Liepgarten
+7,Ließen
+7,Lindau
+7,Lindenberg|Kolzenburg
+7,Lindenhagen
+7,Lobbe
+7,Loburg
+7,Loddin
+7,Loitz
+7,Losentitz
+7,Lostau
+7,Luckau
+7,Luckow-Petershagen
+7,Ludwigslust
+7,Luhme
+7,Lutherstadt Wittenberg
+7,Lychen
+7,Lynow
+7,Löbnitz|(Mecklenburg)
+7,Löbnitz|(Sachsen)
+7,Löcknitz|(Vorpommern)
+7,Lübars|b. Möckern
+7,Lübeck
+7,Lütau
+7,Lütjenburg
+7,Lützen
+7,Lützlow
+7,Magdeburg
+7,Mageburgerforth
+7,Mahlenzien
+7,Malchin
+7,Malchow
+7,Marienthal
+7,Markendorf
+7,Marlow
+7,Marzahna
+7,Meichow
+7,Meiersberg
+7,Meinsdorf
+7,Meißen
+7,Mellenthin
+7,Melzow
+7,Melzwig
+7,Merseburg
+7,Merzdorf
+7,Meyenburg
+7,Middelhagen
+7,Miedzyzdroje
+7,Milmersdorf
+7,Mirow
+7,Mittenwalde|b. Templin
+7,Mocherwitz
+7,Moldenhütten
+7,Morgenitz
+7,Mosigkau (Dessau)
+7,Möbiskruge
+7,Möckern
+7,Möllenbeck
+7,Mölschow
+7,Mönchehof|(Grünow)
+7,Mönkebude
+7,Möser
+7,Mückendorf
+7,Mühlberg
+7,Mürow
+7,Neeberg
+7,Neppermin
+7,Neu Darchau
+7,Neu Temmen
+7,Neubrandenburg
+7,Neubrück|(Spree)
+7,Neudorf|Friedenfelde
+7,Neuendorf
+7,Neuendorf A
+7,Neues Lager|Jüterbog
+7,Neuhaus|bei Steinhöfel
+7,Neuheim
+7,Neuhof|(Warnitz)
+7,Neuhof|b. Zinna
+7,Neukalen
+7,Neustadt|i. Holstein
+7,Neustadt-Glewe
+7,Neustrelitz
+7,Neverin
+7,Nexdorf
+7,Niebel
+7,Niebelhorst
+7,Niebendorf-Heinsdorf
+7,Nieden
+7,Niedergörsdorf
+7,Niegripp
+7,Nienburg
+7,Nonnendorf
+7,Oehna
+7,Oelsig
+7,Oldenburg|i. Holstein
+7,Oranienbaum
+7,Oschersleben
+7,Osterburg
+7,Osternienburg
+7,Osterweddingen
+7,Ostritz
+7,Ostseebad Ahrenshoop
+7,Ostseebad Binz
+7,Ostseebad Boltenhagen
+7,Ostseebad Diehagen
+7,Ostseebad Graal-Müritz
+7,Ostseebad Göhren
+7,Ostseebad Heiligendamm
+7,Ostseebad Prerow
+7,Ostseebad Rerik
+7,Ostseebad Sellin
+7,Ostseebad Wustrow
+7,Ostseebad Zingst
+7,Parchau
+7,Parey
+7,Pasewalk
+7,Passow
+7,Peenemünde
+7,Peetzig
+7,Pelzkuhl
+7,Penkun
+7,Penzlin
+7,Petkus
+7,Piesteritz|(Wittenberg)
+7,Pinnow|bei Anklam
+7,Pinnow|bei Gerswalde
+7,Pinnow|Uckermark
+7,Pirna
+7,Plau|am See
+7,Plaue
+7,Plessa
+7,Police
+7,Polßen
+7,Poratz
+7,Porst (Köthen)
+7,Poseritz
+7,Potzlow
+7,Pouch
+7,Pratau
+7,Prenzlau
+7,Prettin
+7,Pretzsch
+7,Preußlitz
+7,Priepert
+7,Pritzier
+7,Pritzwalk
+7,Prohn
+7,Prosigk
+7,Pudagla
+7,Putbus
+7,Puttgarden
+7,Quast|(Warnitz)
+7,Quedlinburg
+7,Quellendorf
+7,Radebeul
+7,Radeburg
+7,Radeland
+7,Radis
+7,Raguhn
+7,Rambin
+7,Rammin
+7,Rankwitz
+7,Reetz
+7,Reetzow
+7,Rehsen
+7,Reibitz
+7,Reinbek
+7,Reinberg
+7,Reinsdorf
+7,Reinsdorf|b. Jüterbog
+7,Relzow
+7,Repente
+7,Reppichau
+7,Retzin
+7,Reupzig
+7,Reuterstadt Stavenhagen
+7,Ribnitz-Damgarten
+7,Richtenberg
+7,Riesa
+7,Riesdorf
+7,Riesigk
+7,Rietzenneuendorf
+7,Ringenwalde|(Uckermark)
+7,Rodlin-Thurow
+7,Rogäsen
+7,Rohrbeck|b. Jüterbog
+7,Rollberg|bei Eickstedt
+7,Rosenow
+7,Rostock
+7,Roßlau
+7,Ruhland
+7,Ruhlsdorf|b. Luckenwalde
+7,Röbel
+7,Saal
+7,Salow
+7,Salzgitter
+7,Salzgitter-Bad
+7,Sanitz
+7,Sarnow
+7,Saßnitz
+7,Scharfenbrück
+7,Schermen
+7,Schernsdorf
+7,Scheuder
+7,Schierke
+7,Schilda
+7,Schirgiswalde
+7,Schkeuditz
+7,Schköna
+7,Schleesen
+7,Schlenzer
+7,Schlieben
+7,Schmiedeberg
+7,Schmölln
+7,Schwanebeck|b. Halberstadt
+7,Schwaneberg
+7,Schwarzenbek
+7,Schwarzheide
+7,Schwedt
+7,Schweinitz
+7,Schwerin
+7,Schöbendorf
+7,Schönborn
+7,Schönebeck
+7,Schönefeld|bei Luckenwalde
+7,Schönermark|(Uckermark)
+7,Schönermark|Uckermark
+7,Schönewalde
+7,Schöneweide|b. Luckenwalde
+7,Schönhausen
+7,Schönow|Uckermark
+7,Seebad Ahlbeck
+7,Seebad Bansin
+7,Seebad Heringsdorf
+7,Seegrehna
+7,Seehausen|am Ober-Ueckersee
+7,Seesen
+7,Selbitz
+7,Selenthin
+7,Sellin|(bei Benz)
+7,Senftenberg
+7,Sernow
+7,Seyda
+7,Sommersdorf
+7,Sonnenberg|(bei Retzin)
+7,Sonnewalde
+7,Speck
+7,Spremberg
+7,Stahlbrode
+7,Stassfurt
+7,Stegelitz
+7,Steinhagen
+7,Steinhöfel|b. Angermünde
+7,Stendal
+7,Stendell
+7,Stepnica
+7,Sternhagen
+7,Stolpe|Usedom
+7,Stralsund
+7,Strasburg
+7,Strasen
+7,Strehla
+7,Stresow
+7,Stülpe
+7,Suckow
+7,Suckow|am Oberückersee
+7,Swinoujscie
+7,Szczecin
+7,Söllichau
+7,Tangerhütte
+7,Tangermünde
+7,Taucha
+7,Temmen
+7,Tessin
+7,Teterow
+7,Theeßen
+7,Torfhaus
+7,Torgau
+7,Torgelow
+7,Torgelow-Holländerei
+7,Tornow|bei Marienthal
+7,Trampe|bei Grünberg
+7,Trassenheide
+7,Travemünde
+7,Trebbus
+7,Trent
+7,Tribsees
+7,Trittau
+7,Tröbitz
+7,Tucheim
+7,Uckro
+7,Uebigau
+7,Ueckermünde
+7,Ulrichshorst
+7,Usedom
+7,Usti|nad Labem
+7,Vienenburg
+7,Viereck
+7,Vierraden
+7,Viesen
+7,Vockerode
+7,Wahlsdorf
+7,Wahrenbrück
+7,Waldersee|(Dessau)
+7,Wallmow
+7,Wanzleben
+7,Waren
+7,Warenthin
+7,Warnemünde
+7,Warnitz
+7,Warthe|Rankwitz
+7,Wartin
+7,Watzkendorf
+7,Wedel|(Holtein)
+7,Wegeleben
+7,Weichensdorf
+7,Weixdorf
+7,Weißenfels
+7,Weißwasser
+7,Welsickendorf
+7,Welsow
+7,Welzin
+7,Welzow
+7,Wenzlow
+7,Werbig|b. Jüterbog
+7,Werder|b. Jüterbog
+7,Wernigerode
+7,Weselitz
+7,Wesenberg
+7,Wettin
+7,Wichmannsdorf|bei Boitzenburg
+7,Wieck
+7,Wiepersdorf
+7,Wiesenburg
+7,Wildberg|b. Neubrandenburg
+7,Wilmersdorf|Uckermark
+7,Winsen|(Luhe)
+7,Wismar
+7,Wittichenau
+7,Wittstock|a.d. Dosse
+7,Woddow
+7,Woldegk
+7,Wolfen
+7,Wolgast
+7,Wolin
+7,Wollin
+7,Wollin|(Eickstedt)
+7,Wollin|(Penkun)
+7,Wollschow
+7,Wolmirstedt
+7,Woltersdorf|b. Luckenwalde
+7,Woltersorf|bei Casekow
+7,Wormlage
+7,Wulfen
+7,Wurzen
+7,Wusterwitz
+7,Wustrow
+7,Wölmsdorf
+7,Wörbzig
+7,Wörlitz
+7,Zagelsdorf
+7,Zahna
+7,Zecherin
+7,Zechlinerhütte
+7,Zellendorf
+7,Zemnin
+7,Zerbst
+7,Zgorzelec
+7,Zichow
+7,Zieko
+7,Ziemkendorf
+7,Ziesar
+7,Zinnowitz
+7,Zirchow
+7,Zitz
+7,Zülichendorf
+7,Züsedom
+7,Züssow
+7,Ückeritz
+8,Köpenick
+8,Marzahn
+8,Mitte
+8,Neukölln
+8,Pankow
+8,Spandau
+8,Steglitz
+8,Tegel
+9,10781
+9,10829
+9,10961
+9,10963
+9,10965
+9,10967
+9,10969
+9,10997
+9,10999
+9,12047
+9,12101
+9,12207
+9,13465
+9,13467
+9,13469
+9,13503
+9,13505
+9,13587
+9,13589
+9,13591
+9,13593
+9,14089
+9,14109
+9,14163
+9,14165
+9,14167
+9,Berlin-Grenze
+10,Adenauerplatz
+10,Adolf-Scheidt-Platz
+10,Alarichplatz
+10,Amtsgerichtsplatz
+10,Anhalter Bahnhof
+10,Antonplatz
+10,Arkonaplatz
+10,Attilaplatz
+10,Augustenburger Platz
+10,Barbarossaplatz
+10,Begonienplatz
+10,Berlinickeplatz
+10,Betlehemkirchplatz
+10,Bismarckplatz (Grunewald)
+10,Blochplatz
+10,Boxhagener Platz
+10,Brandenburgplatz
+10,Breslauer Platz
+10,Brunnenplatz
+10,Bundesplatz
+10,Buschkrug
+10,Carmerplatz
+10,Charlottenbrücke
+10,Comeniusplatz
+10,Dahlem-Dorf
+10,Dammbrücke
+10,Dischingerbrücke
+10,E.-Müller-Platz
+10,Eiswerderbrücke
+10,Ekensunder Platz
+10,Elcknerplatz
+10,Elsterplatz
+10,Elsterwerdaer Platz
+10,Emser Platz
+10,Engelbecken
+10,Essenplatz
+10,Falkplatz
+10,Fasanenplatz
+10,Fehrbelliner Platz
+10,Flughafen Tegel
+10,Flughafen Tempelhof
+10,Forckenbeckplatz
+10,Frankfurter Tor
+10,Franz-Mehring-Platz
+10,Franz-Neumann-Platz
+10,Freiaplatz
+10,Freybrücke
+10,Friedensplatz
+10,Friedrich-Wilhelm-Platz
+10,Garbatyplatz
+10,George-Grosz-Platz
+10,Gesundbrunnen
+10,Goslarer Platz
+10,Grazer Platz
+10,Hackescher Markt
+10,Hamburger Platz
+10,Hammarskjöldplatz
+10,Hansaplatz
+10,Hausvogteiplatz
+10,Hegelplatz
+10,Heidelberger Platz
+10,Heinrichplatz
+10,Helene-Weigel-Platz
+10,Helsingforser Platz
+10,Hendrichplatz
+10,Henriettenplatz
+10,Hermann-Ehlers-Platz
+10,Hertzbergplatz
+10,Hochmeisterplatz
+10,Hoffmann-von-Fallersleben-Platz
+10,Hohenstaufenplatz
+10,Hohenzollernplatz (Wilmersdorf)
+10,Holtzendorffplatz
+10,Hugenottenplatz
+10,Humannplatz
+10,Händelplatz
+10,Imchenplatz
+10,Innsbrucker Platz
+10,Jannowitzbrücke
+10,John-F.-Kennedy-Platz
+10,Juliusturmbrücke
+10,Kaisereiche
+10,Karl-August-Platz
+10,Karlplatz
+10,Kemperplatz
+10,Kleine Eiswerderbrücke
+10,Kleiner Stern
+10,Kleistpark
+10,Klingsorplatz
+10,Knausplatz
+10,Kollwitzplatz
+10,Kolpingplatz
+10,Kottbusser Tor
+10,Kranoldplatz (Lichterfelde)
+10,Kurt-Schumacher-Platz
+10,Köllnischer Platz
+10,Lehniner Platz
+10,Leipziger Platz
+10,Leopoldplatz
+10,Leuthener Platz
+10,Loeperplatz
+10,Lohmühlenplatz
+10,Los-Angeles-Platz
+10,Louise-Schröder-Platz
+10,Ludwig-Hoffmann-Brücke
+10,Ludwigkirchplatz
+10,Luise-Schroeder-Platz
+10,Lustgarten
+10,Magdeburger Platz
+10,Mandrellaplatz
+10,Marheinekeplatz
+10,Matthäikirchplatz
+10,Max-Josef-Metzger-Platz
+10,Mettmannplatz
+10,Metzplatz
+10,Mexikoplatz
+10,Mierendorffplatz
+10,Mirbachplatz
+10,Molkenmarkt
+10,Monbijouplatz
+10,Mörschbrücke
+10,Münsterlandplatz
+10,Nachtigalplatz
+10,Nauener Platz
+10,Nettelbeckplatz
+10,Nikolsburger Platz
+10,Nollendorfplatz
+10,Nordbahnhof
+10,Nürnberger Platz
+10,Olivaer Platz
+10,Olof-Palme-Platz
+10,Oranienburger Tor
+10,Oranienplatz
+10,Ostseeplatz
+10,Ottoplatz
+10,Pappelplatz (Mitte)
+10,Pekinger Platz
+10,Perelsplatz
+10,Pestalozziplatz
+10,Petersburger Platz
+10,Pfarrer-Hurtienne-Platz
+10,Piesporter Platz
+10,Platz der Republik
+10,Platz der Stadt Hof
+10,Platz des 18. März
+10,Platz des 23. April
+10,Platz vor dem Neuen Tor
+10,Potsdamer Platz
+10,Prenzlauer Tor
+10,Prerower Platz
+10,R.-Sintenis-Platz
+10,Rathenauplatz
+10,Raußendorffplatz
+10,Reuterplatz
+10,Richard-Wagner-Platz
+10,Robert-Koch-Platz
+10,Roedeliusplatz
+10,Rosa-Luxemburg-Platz
+10,Roseneck (Grunewald)
+10,Rosenthaler Platz
+10,Rudolfplatz
+10,Rummelsburger Platz
+10,Rüdesheimer Platz
+10,Saaleckplatz
+10,Samariterplatz
+10,Schillerplatz
+10,Schleidenplatz
+10,Schlesisches Tor
+10,Schloßplatz
+10,Schulenburgbrücke
+10,Schulze-Delitzsch-Platz
+10,Schwanenwerderbrücke
+10,Sellheimbrücke
+10,Senefelderplatz
+10,Sickingenplatz
+10,Soldauer Platz
+10,Sophie-Charlotte-Platz
+10,Steglitzer Kreisel
+10,Steinplatz (Köpenick)
+10,Steubenplatz
+10,Strausberger Platz
+10,Stößenseebrücke
+10,Thielplatz
+10,Tuchollaplatz
+10,Unionplatz
+10,Viktoriaplatz
+10,Vinetaplatz
+10,Walther-Schreiber-Platz
+10,Wartburgplatz
+10,Washingtonplatz
+10,Weberwiese
+10,Weddingplatz
+10,Weichselplatz
+10,Werderscher Markt
+10,Wildenbruchplatz
+10,Winterfeldtplatz
+10,Wismarplatz
+10,Wühlischplatz
+10,Zoo
+10,Zoologischer Garten
+11,Dessau - Medewitz
+11,Jüterbog - Coswig
+11,RB12
+11,"RB12,RB63"
+11,"RB12,RE3"
+11,RB13
+11,"RB13,RB51"
+11,RB14
+11,"RB14,RB43"
+11,RB18
+11,RB20
+11,"RB20,RB21"
+11,RB21
+11,RB22
+11,"RB22,RB33"
+11,RB25
+11,RB26
+11,RB27
+11,RB29
+11,RB32
+11,RB33
+11,RB35
+11,RB36
+11,"RB36,RB14"
+11,"RB36,RB14,RB22"
+11,"RB36,RB22,RB26"
+11,RB43
+11,RB46
+11,RB49
+11,RB50
+11,RB51
+11,RB52
+11,RB54
+11,RB55
+11,RB60
+11,RB63
+11,RB66
+11,RB71
+11,RE1
+11,"RE1,RB18"
+11,"RE1,RB20,RB21"
+11,"RE1,RB20,RB21,RB22"
+11,"RE1,RB21"
+11,"RE1,RB35"
+11,"RE1,RB36,RB18"
+11,"RE1,RB43,RB46,RB49"
+11,"RE1,RB46,RB49"
+11,"RE1,RB49"
+11,"RE1,RB51,RB52"
+11,"RE1,RB60"
+11,"RE1,RE2,RE3,RE4,RE5"
+11,"RE1,RE2,RE3,RE4,RE5,RE6,RB10"
+11,"RE1,RE2,RE4,RE5"
+11,"RE1,RE3"
+11,"RE1,RE3,RB33"
+11,RE2
+11,"RE2,RB13"
+11,"RE2,RB13,RB21"
+11,"RE2,RB14"
+11,"RE2,RB36,RB14"
+11,"RE2,RB41"
+11,"RE2,RB41,RB49"
+11,"RE2,RE4,RE5"
+11,RE3
+11,"RE3,RB22,RB33"
+11,"RE3,RB33"
+11,"RE3,RB44"
+11,"RE3,RB60"
+11,"RE3,RB63"
+11,"RE3,RB63,RB60"
+11,"RE3,RB66"
+11,"RE3,RE7,RB12,RB22"
+11,"RE3,RE7,RB12,RB22,RB25"
+11,"RE3,RE7,RB22"
+11,"RE3,RE7,RB22,RB27"
+11,RE4
+11,"RE4,RB10"
+11,"RE4,RB21"
+11,"RE4,RB22"
+11,"RE4,RB32"
+11,"RE4,RB33"
+11,"RE4,RB49"
+11,"RE4,RE5"
+11,"RE4,RE5,RB22"
+11,"RE4,RE5,RB22,RB24"
+11,"RE4,RE5,RE6,RB10"
+11,RE5
+11,"RE5,RB12"
+11,"RE5,RB12,RB20"
+11,"RE5,RB12,RB55"
+11,"RE5,RB14"
+11,"RE5,RB14,RB49"
+11,"RE5,RB20"
+11,"RE5,RB21,RB55"
+11,"RE5,RB24"
+11,"RE5,RB43"
+11,"RE5,RB49"
+11,"RE5,RE6"
+11,"RE5,RE6,RB20"
+11,RE6
+11,"RE6,RB20"
+11,"RE6,RB20,RB55"
+11,"RE6,RB54"
+11,"RE6,RB55"
+11,"RE7,RB12,RB22,RB25"
+11,"RE7,RB12,RB22,RB25,RB26"
+11,Rosslau - Coswig
+12,Ahrensfelde
+12,Ahrensfelde Friedhof
+12,Ahrensfelde Nord
+12,Albrechtshof
+12,Alt Hüttendorf
+12,Alt Rosenthal
+12,Altdöbern
+12,Altranft
+12,Altruppin
+12,Angermünde
+12,Bad Freienwalde
+12,Bad Liebenwerda
+12,Bad Saarow-Pieskow
+12,Bad Saarow-Pieskow Süd
+12,Bad Wilsnack
+12,Bahnsdorf
+12,Baitz
+12,Baruth (Mark)
+12,Basdorf
+12,Beelitz Stadt
+12,Beelitz-Heilstätten
+12,Beenz
+12,Beeskow
+12,Beetz-Sommerfeld
+12,Belzig
+12,Bergholz (bei Potsdam)
+12,Berkenbrück
+12,Berlin Alexanderplatz
+12,Berlin Friedrichstr.
+12,Berlin Ostbahnhof
+12,Berlin Zoologischer Garten
+12,Berlin-Charlottenburg
+12,Berlin-Hohenschönhausen
+12,Berlin-Karlshorst
+12,Berlin-Karow
+12,Berlin-Lichtenberg
+12,Berlin-Schönefeld
+12,Berlin-Schöneweide
+12,Berlin-Spandau
+12,Berlin-Wannsee
+12,Bernau
+12,Bestensee
+12,Beutersitz
+12,Biesenthal
+12,Birkengrund
+12,Birkenwerder (b Bln)
+12,Blankenfelde
+12,Blumberg
+12,Blumenthal (Mark)
+12,Blöhnsdorf
+12,Borkheide
+12,Brand (Niederlausitz)
+12,Brandenburg Altstadt
+12,Brandenburg Hbf
+12,Brieselang
+12,Briesen (Mark)
+12,Britz
+12,Brück (Mark)
+12,Buchholz (Zauche)
+12,Buckow (b Beeskow)
+12,Buckow (Märk. Schweiz)
+12,Buschow (Rathenow)
+12,Bärenklau
+12,Calau (Niederlausitz)
+12,Caputh-Geltow
+12,Casekow
+12,Charlottenhof
+12,Chorin
+12,Coschen
+12,Coswig
+12,Cottbus
+12,Cottbus/Merzdorf
+12,Cottbus-Willmersdorf
+12,Dabendorf
+12,Dahlewitz
+12,Dallgow-Döberitz
+12,Dannenwalde
+12,Dessau
+12,Dessow (Mark)
+12,Dippmannsdorf
+12,Doberlug-Kirchhain
+12,Dossow
+12,Drahnsdorf
+12,Drebkau
+12,Döberitz
+12,Eberswalde Hbf.
+12,Eisenhüttenstadt
+12,Elsholz
+12,Elsterwerda
+12,Elsterwerda Biehla
+12,Erkner
+12,Falkenberg (Elster)
+12,Falkenberg (Mark)
+12,Falkensee
+12,Fangschleuse
+12,Ferch-Lienewitz
+12,Finkenheerd
+12,Finkenkrug
+12,Finsterwalde (Elster)
+12,Fohrde
+12,Forst (Lausitz)
+12,Frankfurt (O)-Neuberesinchen
+12,Frankfurt (O)-Rosengarten
+12,Frankfurt (Oder)
+12,Fredersdorf
+12,Fretzdorf
+12,Friedersdorf (b Königs Wusterhausen)
+12,Friedrichswalde (b Eberswalde)
+12,Friesack (Mark)
+12,Fürstenberg
+12,Fürstenwalde (Spree)
+12,Fürstenwalde (Spree) Süd
+12,Genshagener Heide
+12,Gildenhall
+12,Glöwen
+12,Gollmitz
+12,Golm
+12,Golzow
+12,Golzow (b Eberswalde)
+12,Golzow Nord
+12,Golßen (Niederlausitz)
+12,Gorgast
+12,Gransee
+12,Grieben (b Gransee)
+12,Griebnitzsee
+12,Groß Kreutz
+12,Groß Pankow
+12,Groß Rietz
+12,Groß Schönebeck (Schorfheide)
+12,Großbeeren
+12,Großderschau
+12,Großräschen
+12,Großwudicke
+12,Grunow (Niederlausitz)
+12,Grüneberg
+12,Guben
+12,Görzig
+12,Götschendorf
+12,Götz
+12,Halbe
+12,Hangelsberg
+12,Haßleben
+12,Heiligengrabe
+12,Helenesee
+12,Hennigsdorf (bei Berlin)
+12,Herrensee
+12,Herzberg (Elster) West
+12,Herzberg (Mark)
+12,Hohen Neuendorf West
+12,Hohenleipisch
+12,Hohennauen
+12,Holzdorf (Elster)
+12,Hubertushöhe
+12,Jacobsdorf (Mark)
+12,Joachimsthal
+12,Joachimsthal Kaiserbahnhof
+12,Jungfernheide
+12,Jänschwalde
+12,Jänschwalde Ost
+12,Jüterbog
+12,Jüterbog Altes Lager
+12,Kablow
+12,Kerkwitz
+12,Kirchmöser
+12,Klandorf
+12,Klinge
+12,Klosterfelde
+12,Kolkwitz
+12,Kostrzyn
+12,Kraftwerk Finkenheerd
+12,Krahne
+12,Kremmen
+12,Kreuzkrug
+12,Kummersdorf (b Storkow)
+12,Kunersdorf
+12,Kyritz
+12,Königs Wusterhausen
+12,Küstrin-Kietz
+12,Letschin
+12,Leuenberg
+12,Liebenthal
+12,Linda (Elster)
+12,Lindenberg-Glienicke
+12,Lindow
+12,Lottschesee
+12,Lubolz
+12,Luckau-Uckro
+12,Luckenwalde
+12,Ludwigsfelde
+12,Lutherstadt Wittenberg
+12,Löwenberg (Mark)
+12,Löwenberg (Mark) Dorf
+12,Lübben
+12,Lübbenau (Spreewald)
+12,Lütte
+12,Marquardt
+12,Medewitz (Mark)
+12,Medienstadt Babelsberg
+12,Melchow
+12,Michendorf
+12,Milmersdorf
+12,Mittenwalde (b Templin)
+12,Mixdorf
+12,Müllrose
+12,Müncheberg (Mark)
+12,Nassenheide
+12,Nauen
+12,Nechlin
+12,Nennhausen
+12,Netzeband
+12,Neuendorf
+12,Neuhof
+12,Neupetershain
+12,Neuruppin
+12,Neuruppin Rheinsberger Tor
+12,Neustadt (Dosse)
+12,Neustrelitz
+12,Neutrebbin
+12,Neuzelle
+12,Niederfinow
+12,Niederlehme
+12,Obersdorf
+12,Oderin
+12,Oegeln
+12,Oehna
+12,Oranienburg
+12,Park Sanssouci
+12,Pasewalk
+12,Passow (Uckermark)
+12,Paulinenaue
+12,Peitz
+12,Peitz Ost
+12,Perleberg
+12,Petershagen (Uckermark)
+12,Pfaffendorf (Mark)
+12,Pillgram
+12,Pinnow
+12,Plessa
+12,Potsdam Hauptbahnhof
+12,Potsdam Pirschheide
+12,Potsdam-Rehbrücke
+12,Premnitz
+12,Premnitz Süd
+12,Prenzlau
+12,Prenzlau Vorstadt
+12,Priort
+12,Pritzerbe
+12,Pritzwalk
+12,Prösen Ost
+12,Raddusch
+12,Rangsdorf
+12,Rathenow
+12,Rathenow Nord
+12,Reckahn
+12,Rehfelde
+12,Rheinsberg Mark
+12,Rhinow
+12,Ringenwalde (b Templin)
+12,Rosslau
+12,Rossow
+12,Ruhland
+12,Ruhlsdorf-Zerpenschleuse
+12,Rückersdorf
+12,Rüdnitz
+12,Saarmund
+12,Sachsenhausen (Nordb)
+12,Sarnow
+12,Scharmützelsee
+12,Schmachtenhagen
+12,Schneeberg
+12,Schulzendorf
+12,Schwante
+12,Schwedt (Oder)
+12,Schwedt Mitte
+12,Schwielowsee
+12,Schöllnitz
+12,Schönborn
+12,Schönerlinde
+12,Schönow (Uckermark)
+12,Schönwalde
+12,Schönwalde (Spreewald)
+12,Seddin
+12,Seditz Ost
+12,Seefeld
+12,Seegefeld
+12,Seehausen (Uckermark)
+12,Seelow
+12,Seelow Gusow
+12,Senftenberg
+12,Sieversdorf
+12,Spaatz
+12,Staaken
+12,Sternebeck
+12,Storkow (Mark)
+12,Strausberg
+12,Strausberg Nord
+12,Tantow
+12,Teltow
+12,Templin
+12,Templin Fährkrug
+12,Templin Stadt
+12,Templin-Ahrensdorf
+12,Teupitz-Groß Köris
+12,Thießen
+12,Thyrow
+12,Tiefensee
+12,Trebbin
+12,Trebnitz (Mark)
+12,Treuenbrietzen
+12,Treuenbrietzen Süd
+12,Uebigau
+12,Vehlefanz
+12,Velten (Mark)
+12,Vetschau
+12,Walddrehna
+12,Waldsieversdorf
+12,Walsleben
+12,Wandlitz
+12,Wandlitzsee
+12,Warnitz
+12,Weisen
+12,Wellmitz
+12,Wensickendorf
+12,Werbig
+12,Werder (b Neuruppin)
+12,Werder (Havel)
+12,Werftpfuhl
+12,Werneuchen
+12,Wiesenau
+12,Wiesenburg (Mark)
+12,Wildberg (b Neuruppin)
+12,Wilhelmshorst
+12,Wilmersdorf
+12,Wittenberge
+12,Wittstock (Dosse)
+12,Woltersdorf (b Luckenwalde)
+12,Wriezen
+12,Wusterhausen (Dosse)
+12,Wustermark
+12,Wusterwitz
+12,Wustrau-Altfriesack
+12,Wünsdorf-Waldstadt
+12,Zahna
+12,Zeesen
+12,Zehdenick
+12,Zernsdorf
+12,Ziltendorf
+12,Zossen
+12,Zühlsdorf
+13,Abbey
+13,Abbott & Costello
+13,Abendmahl
+13,Abseits
+13,Absinth
+13,aché
+13,Adermann
+13,Advena
+13,Ajanta
+13,Akba Lounge
+13,Akropolis Taverna
+13,Aktionsgalerie
+13,Al Contadino Sotto Le Stelle
+13,Al Gallo
+13,Al Kalif
+13,Alcatraz
+13,Alcatraz II
+13,Aldente
+13,Alexanderkeller
+13,Alfama
+13,Alibaba
+13,Alimentari e Vini
+13,Alt Luxemburg
+13,Alte Stadtmauer
+13,Altenberg
+13,Alter Dorfkrug
+13,Altes Zollhaus
+13,Am Karlsbad
+13,Am Wasserturm
+13,Amrit
+13,Ana e Bruno
+13,Anatre
+13,Anderes Ufer
+13,Andrea & Carlo
+13,Angkor Wat
+13,Angora
+13,Anita Wronski
+13,Anna Koschke
+13,April
+13,Aquarell
+13,Arada
+13,Aroma
+13,Ashoka
+13,Asmarino Café Restaurant
+13,Astor
+13,Atame
+13,Atlantic
+13,Au Lac im Hotel Seehof Berlin
+13,Austria
+13,Azul
+13,Azuma Sushi
+13,Baccanale
+13,Bacco
+13,Badenscher Hof
+13,Bagels Bialys
+13,Bamberger Reiter
+13,Bambus
+13,Bar
+13,Bar am Lützowplatz
+13,Bar Aragón
+13,Bar Centrale
+13,Bar Tolucci
+13,Baraka
+13,BarCelona
+13,Barcomi's Kaffeerösterei
+13,Barfly
+13,Bateau Ivre
+13,Bella Italia
+13,Bellevue
+13,Bellini's Restaurant
+13,Belvedere
+13,Bergmann 103
+13,Berlin Bar
+13,Bernstein
+13,Besenwirtschaft
+13,b-flat
+13,Bierhimmel
+13,Biers 105
+13,BilderBuch
+13,Billabong
+13,Biscotti
+13,Bistro Filet
+13,Bistro Restaurant du Centre Français de Berlin
+13,Blaue Ente
+13,Blauer Engel
+13,Blaues Band
+13,Blau-Punkt-Bar
+13,Bleibtreu 31
+13,Bleibtreu Café
+13,Blue Nile
+13,Blumberg
+13,Blumenladen
+13,Boca Chica
+13,Bohemia
+13,Boikos
+13,Bombay Haus
+13,Bonaparte
+13,Boon's Bar
+13,Borbone
+13,Borchardt
+13,Bovril
+13,Braendl
+13,Braustübl
+13,Brazil
+13,Brecht Haus Kellerrestaurant
+13,Bredow
+13,Brendle's Gasthaus
+13,Britzer Mühle
+13,Broker's Bier Börse
+13,Brooklyn N.Y.
+13,Brot und Rosen - Il pane et le rose
+13,Bua-Thai
+13,Buchs
+13,Buchwald Café Konditorei
+13,Buschbeck's
+13,C.A.N.S. ­ Café am Neuen See
+13,Cafe Bistro Pinjo
+13,Café 100 Wasser
+13,Café Adler
+13,Café am Arsenal
+13,Café am Hagenplatz
+13,Café am Heinrichplatz
+13,Café am Steinplatz
+13,Café Asmarino
+13,Café Bellini
+13,Café Berio
+13,Café Bravo
+13,Café Cinema
+13,Café Clara 90
+13,Café Döblin
+13,Café Hegel
+13,Café im Kino International
+13,Café im Literaturhaus
+13,Café im Zeughaus
+13,Café Istoria
+13,Café Jacques
+13,Café Kiryl
+13,Café Kranzler
+13,Café Kyril
+13,Café LebensArt
+13,Café M
+13,Café Maroc
+13,Café Mirell
+13,Café Mosaik
+13,Café Möhring
+13,Café Olé
+13,Café Orange
+13,Café Raks
+13,Café Restaurant Miro
+13,Café Ritz
+13,Café Rix
+13,Café Rosental
+13,Café Silberstein
+13,Café Stresemann
+13,Café Swing
+13,Café Tomasa
+13,Café Uebereck
+13,Café Unplugged
+13,Café-Bar Tati
+13,Caiman
+13,Candela
+13,Cantamaggio ­ Vino e cucina
+13,Caravela
+13,Carib
+13,Casa Fiesta
+13,Casa Portuguêsa
+13,Casanova
+13,Castros
+13,Catfood Sushi
+13,Cavalcanti
+13,Cena
+13,Centro Sud
+13,Chalet Corniche
+13,Chalet Suisse
+13,Chamisso
+13,Chandra Kumari
+13,Chapeau Klack
+13,Cheban
+13,Chiaia
+13,Chiko
+13,China Garden Restaurant
+13,China Imbiss
+13,Ciao Ciao
+13,Cibo Matto
+13,Clichy
+13,Cliffs of Dooneen
+13,Cocktailbar Baal
+13,Coma
+13,Con Bar
+13,Conmux/Blechbilderbar
+13,Cour-Carrée
+13,Cox Orange
+13,Coxx-Café
+13,Cri-Cri am Engelbecken
+13,Dachkammer
+13,Daitokai
+13,Dal Buongustaio
+13,Daneben
+13,De Koekepan
+13,Deichgraf
+13,Deininger
+13,Delifrance
+13,Deponie No 3
+13,Der Grieche
+13,Der Ägypter
+13,Derya
+13,Dicke Wirtin
+13,Dicker Engel
+13,Die Eselin von A.
+13,Die Insel
+13,Die Krähe
+13,Die Tagung
+13,Diekmann
+13,Diekmann im Weinhaus Huth
+13,Diener
+13,Dittmanns Drogerie - Hotel Grünau
+13,Don Camillo
+13,Donath
+13,Dos Piranhas Bar
+13,Dralle's
+13,Dressler
+13,Dreyfus
+13,Dwin
+13,E.T.A. Hoffmann
+13,Eckstein
+13,Edd´s Thailändische Spezialitäten
+13,Edogawa
+13,Edwin Bistro-Café
+13,Einstein
+13,El Borriquito
+13,Ellas
+13,Ellis
+13,Engelbecken
+13,Engelbrecht
+13,Enoteca Il Calice
+13,Enoteca Reale
+13,Enzian
+13,Epikur
+13,Ermeler Haus
+13,Escoffier
+13,Espressobar
+13,Esquina Latina
+13,Estiatorio Epiros
+13,Eulenspiegel
+13,ex
+13,Ex 'n' Pop
+13,Feinbeckerei
+13,Felsenkeller
+13,Fiesta
+13,Filmriß
+13,First Floor im Hotel Palace
+13,Fischers Restaurant
+13,Fish & Vegetables
+13,Flammende Herzen
+13,Florian
+13,Flying Fish Sushi
+13,Focolare
+13,Forum
+13,Fou Fou
+13,Foyer
+13,Francucci's
+13,Französischer Hof
+13,French Quarter
+13,Freßco
+13,Frida Kahlo
+13,Fridas Schwester
+13,Funkturm-Restaurant
+13,Fôgo
+13,Gainsbourg ­ Bar américain
+13,Galliano
+13,Ganges
+13,Ganymed
+13,Gargano
+13,Gasthaus am Kolle
+13,Gasthaus Babel
+13,Gasthaus Laubach
+13,Gasthaus Lentz
+13,Gasthaus Lücker
+13,Gaststätte 'Zur kleinen Markthalle'
+13,Gebrüder Katz
+13,Geierwally in der Brotfabrik
+13,Gerstensack
+13,Gianni Trattoria Toscana
+13,Gibran
+13,Gipson
+13,Globe Restaurant im Hotel Berlin
+13,Glückstein
+13,Goa
+13,Golden Twenties
+13,Goldener Hahn
+13,Golgatha
+13,Good Friends
+13,Gosch
+13,Gottlob
+13,Grand Slam
+13,Green Door
+13,Grilletta
+13,Gugelhof Restaurant
+13,Guy
+13,Görs
+13,Habibi I
+13,Hackbarth's
+13,Hackescher Hof
+13,Haifischbar
+13,Hakuin
+13,Hamlet
+13,Hard Rock Café
+13,Hardenberg
+13,Harlekin im Grand Hotel Esplanade
+13,Harry's New York-Bar
+13,Hausgeist
+13,Heinrich
+13,Hemingway
+13,Ho Lin Wah
+13,Holzwurm
+13,Honigmond
+13,Hoppegarten
+13,Hot Dog Laden
+13,Hotel Adlon
+13,Hotel Imperial - Brasserie Vintage
+13,Hotel Rheinsberg am See
+13,Hotel Seehof
+13,Hudson Bar
+13,Humanus
+13,Hummel - Snacks aus Holland
+13,Häagen-Dazs
+13,Ici
+13,Il Sorriso
+13,Imbiß-Stube Böhm
+13,India
+13,India Haus
+13,Indira Mahal
+13,Insel
+13,Intimes
+13,Irish Wolf Pub
+13,Jansen Bar
+13,Janus
+13,Jelängerjelieber
+13,Jersey
+13,Jimmy´s Diner
+13,Joe's Bierhaus
+13,Jolesch
+13,Junction Bar
+13,Jungfernmühle
+13,Kafka
+13,Kahuna Lounge
+13,Kaiserstuben
+13,Kamala
+13,Kamin Inn
+13,Kant 7
+13,Kap Horn
+13,Karagiosis Taverna
+13,KaraKas Bar
+13,Kartoffelkeller
+13,Kashmir Palace
+13,Kastanie
+13,Kendlbacher
+13,Khayyam
+13,Kiboko
+13,Kichererbse
+13,Kid Creole
+13,Kien Du Thairestaurant
+13,Kleisther
+13,Knipperle
+13,Knofel
+13,Kolk
+13,Kommandantur
+13,Konrad Tönz
+13,Kos House
+13,Krasselt's Imbiß
+13,Kuchen Kaiser
+13,Kulisse
+13,Kumpelnest 3000
+13,Kurdistan
+13,Kurvenstar
+13,Kwang-Ju-Grill
+13,La Batea
+13,La Cascina
+13,La Estancia
+13,La Paloma
+13,La Paz
+13,La Piazza
+13,La Pignata
+13,La Rustica
+13,La Tana dei Briganti
+13,La Vigna
+13,Labyrinth
+13,Langhans
+13,Lanna
+13,Las Cucarachas
+13,Laubach
+13,Le Canard
+13,Le Caveau im Ratskeller Reinickendorf
+13,Le Cochon Bourgeois
+13,Le Marais
+13,Le Pic d´Agou
+13,Le Provençal
+13,Leander
+13,Lembach
+13,Leopold's im Kontorhaus
+13,Leroy's Joy
+13,L'escargot
+13,Leydicke
+13,Leysieffer
+13,Li(bi)do
+13,Lilienthal
+13,Lino
+13,Lisboa
+13,Litani
+13,Litehouse
+13,Litfass
+13,Locus
+13,Lone Star Taqueria
+13,Lon-Men
+13,Los Andes
+13,Lubitsch
+13,Lucas
+13,Luise
+13,Lukiluki
+13,Lusiada
+13,Lutter & Wegner
+13,Ma Rosa
+13,Mafalda
+13,Mahanakhon
+13,Maharadscha
+13,Mai Thai Imbiß
+13,Mana Mana
+13,Maneeya Thai-Restaurant
+13,Manzini
+13,Mao Thai
+13,Mare Bê
+13,Mario
+13,Marjellchen
+13,Mark Brandenburg
+13,Marlene
+13,Marrakesch
+13,Matchmaker
+13,Max Cocktailbar
+13,Maxwell
+13,Mc Bride's
+13,M-Café
+13,Medici
+13,Meilenstein
+13,Meineke X
+13,Meistersaal
+13,Melbourne
+13,Melita Sundström
+13,Mendelssohn
+13,Meris
+13,Merz
+13,Mesa
+13,Milagro
+13,Ming's Garden
+13,Mirnik
+13,Mister Hu
+13,Mitte Bar
+13,Mittendrin
+13,Modellhut
+13,Mola
+13,Montevideo
+13,Morena
+13,Morgenland
+13,Moustache
+13,Muse
+13,Musikcafé Jailbreak
+13,Musikcafé Taubenschlag
+13,Mutter
+13,Mysliwska
+13,Mövenpick
+13,N.N. Bar
+13,Narr-Bar
+13,Nea Knosso
+13,Neue Bar
+13,Never Never Land
+13,Nippon
+13,Nola
+13,Nona
+13,Nonya
+13,Notos
+13,Novecento
+13,November
+13,Nö! Weingalerie und Café
+13,Obst & Gemüse
+13,Offenbach-Stuben
+13,Offenbar
+13,Offenbar II
+13,Offers Bar
+13,Ollies
+13,Opera Italiana
+13,Opernpalais Fridericus
+13,Opernpalais Königin Luise
+13,Orangerie im Radisson SAS Hotel Berlin
+13,Oranje Roth
+13,Oren
+13,Orient
+13,Orissa
+13,Osteria No. 1
+13,Osteria Tarantina
+13,Ostwind
+13,Ottenthal
+13,Ousies
+13,Over Time Sports-Bar & Diner
+13,Oxymoron
+13,Palagonia
+13,Palais Café Meyerbeer
+13,Pane e Vino
+13,Pantry
+13,Paris Bar
+13,Paris-Moskau
+13,Parlamento
+13,Passatempo
+13,Pasta & Basta
+13,Pasternak
+13,Pasticceria und Rosticceria Italiana
+13,Paules Metal Eck
+13,Peacock Garden
+13,Pentascop
+13,Peppino
+13,Persil
+13,Petite Europe
+13,Pfeiffers
+13,Phillis
+13,Phoenix Lounge
+13,Phuket
+13,Pinelli
+13,Pinguin Club
+13,Pl@net
+13,Pomtou Crêperie
+13,Ponte Vecchio
+13,Porta Brandenburgo
+13,Pow Wow
+13,Prager Café Slavia
+13,Pranzo e Cena
+13,Promo
+13,Ptolemeos
+13,Publique
+13,Punta Lago Blanco
+13,Puvogel
+13,Quasimodo-Café
+13,Quinns Irish Pub
+13,Radke's Gasthaus Alt-Berlin
+13,Rainbow
+13,Rama I.
+13,Rani
+13,Rathaus Casino
+13,Reingold
+13,Reinhard's
+13,Remise
+13,Remise Schloß Glienicke
+13,Restaurant 31 im Hotel Bleibtreu
+13,Restaurant Am Karlsbad
+13,Restaurant Filou
+13,Restaurant Potsdamer Platz 1
+13,Restauration 1900
+13,Restauration Sophien 11
+13,Ribbeck
+13,Riehmers
+13,Ristorante Al Dente
+13,Ristorante Pubblico
+13,Ristorante San Marino
+13,Robbengatter
+13,Rockendorf´s Restaurant
+13,Rogacki
+13,Rossija
+13,Rost
+13,Roter Sand
+13,Rössli Bar
+13,Rüan-Thai
+13,Sabu
+13,Sabu-Ro
+13,Sachiko Sushi
+13,Safran
+13,Sala Thai
+13,Sale e Tabacchi
+13,Salomon
+13,Salomon Bagels
+13,Samurai
+13,Samâdhi
+13,San Diego
+13,Santiago
+13,Sarods Thai Restaurant
+13,Savarin
+13,Savo
+13,Savoy Hotel + Restaurant
+13,S-Café
+13,Scala
+13,Scaligeri
+13,Scarabeo
+13,Schall & Rauch
+13,Schlemmermeyer GmbH & Co KG
+13,Schlemmer-Pylon
+13,Schlüter
+13,Schmankerl Wilmersdorf
+13,Schnabelbar
+13,Schollenkrug
+13,Schwarzenraben
+13,Schwarzes Café
+13,Schwarzsauer
+13,Schöneberger Weltlaterne
+13,Scotch Malt Embassy
+13,Seasons
+13,Senti
+13,Shanti
+13,Shell
+13,Shima
+13,Sidney Café
+13,Sisal
+13,Skales
+13,Slobo's
+13,Slumberland
+13,Soufflé
+13,Soupkultur
+13,Sowohlalsauch
+13,Speckers Gasthaus
+13,Speicher
+13,Spirale
+13,St. Germain
+13,Stella Alpina
+13,Sticks
+13,Stil
+13,Storch
+13,Store House Grill
+13,Strada-Mediencafè und Restaurant
+13,Strandbad Mitte
+13,Straßenbahn
+13,Ständige Vertretung
+13,Sud - Vino e Cucina Mediterranea
+13,Sufis
+13,Sundance
+13,Suriya Kanthi
+13,Sushi Imbiss
+13,Sushi Masa
+13,Sushianer
+13,Sushi-Bar
+13,Sushi-Bar Minato
+13,T.G.I. Friday´s
+13,Taba
+13,Tabibito
+13,Tabuna
+13,Tagore
+13,Tai Ji
+13,Taj Mahal
+13,Taj Mahal India
+13,Tandoory
+13,Tanos
+13,Tapa Bar
+13,Tapasbar Tuffstein
+13,Tarot
+13,Taverna Hellas
+13,Taverna Lucana
+13,Tavola Calda
+13,Telecafé im Fernsehturm
+13,Terra Anatolia
+13,Terzo Mondo
+13,Tex-Mex-Cantina
+13,Thai Stube
+13,The Chop Bar
+13,The Shannon
+13,The Village Café & Deli
+13,Theodor
+13,Theodor Tucher
+13,Theos
+13,Thymian
+13,Thürnagel
+13,Tiananmen
+13,Times Bar
+13,Timm´s
+13,Tim´s Canadian Deli
+13,Tin Thai Doem
+13,Tinmakers
+13,Titanic
+13,Tom's Bar
+13,Tori Katsu
+13,Toronto
+13,Toulouse-Lautrec
+13,Traktir
+13,Trattoria da Enzo
+13,Trattoria Fedora
+13,Trattoria Lappeggi
+13,Trattoria Ossena
+13,Trattoria Paparazzi
+13,Trattoria Petrocelli
+13,Trattoria Toscana
+13,Trattoria Totó
+13,Trattoria à Muntagnola
+13,Trenta Sei
+13,Treviso
+13,TriaLaRit
+13,Trio
+13,Troquet
+13,Truxa
+13,TTT TeeTeaThé
+13,Tuans Hütte
+13,Tucholsky Restauration
+13,Tuk-Tuk
+13,Ty Breizh
+13,U5-Club-Cocktailbar
+13,Universum
+13,Utopia
+13,V
+13,vanFun
+13,Vannucci
+13,Vau
+13,Verkehrsberuhigte OstZone
+13,Via Condotti
+13,Via Nova
+13,Vietnam-Imbiß
+13,Village Voice
+13,Vineria Osteria Franzotti
+13,Vino e Libri
+13,Vita Green
+13,Vogelweide
+13,Walhalla
+13,Website - Internet Café
+13,Weinrestaurant Yves Risachèr
+13,Weinsalon
+13,Weinstein
+13,Weitzmann
+13,Wellenstein
+13,Weltrestaurant Markthalle
+13,Wernesgrüner Bierstube
+13,Weyers
+13,Wirtschaftswunder
+13,Wirtshaus Hasenheide
+13,Wooloomooloo
+13,XII Apostel
+13,Yosoy
+13,Ypsilon
+13,Z
+13,Zankynthos
+13,Zapata im Tacheles
+13,Zehn Vorne
+13,ZeoBar
+13,Zillemarkt
+13,Zimmermanns
+13,Zláta Práha
+13,Zoulou-Bar
+13,Zum Grünberger
+13,Zum Hugenotten im Hotel InterContinental Berlin
+13,Zum Ribbeck
+13,Zum Valentin
+13,Zwiebelfisch
+13,Zwölf Apostel - Friedrichshain
+13,Zyankali-Bar
+13,Á Cantina dá Muntagnola
+14,S1
+14,"S1,S2,S25,S26"
+14,"S1,S2,S25,S26,S41,S42,S46,S47"
+14,"S1,S2,S25,S26,S41,S42,S8"
+14,"S1,S25"
+14,"S1,S26"
+14,S2
+14,"S2,S25,S26"
+14,"S2,S26"
+14,S25
+14,"S25,S26"
+14,S26
+14,S3
+14,"S3,S5,S7,S75"
+14,"S3,S5,S7,S75,S9"
+14,"S41,S42"
+14,"S41,S42,S46,S47"
+14,"S41,S42,S8"
+14,"S41,S42,S8,S9"
+14,S46
+14,"S46,S47"
+14,"S46,S8"
+14,S47
+14,S5
+14,"S5,S7,S75"
+14,"S5,S7,S75,S9"
+14,S7
+14,"S7,S75"
+14,"S7,S75,S9"
+14,S75
+14,"S75,S9"
+14,"S8,S46"
+14,"S8,S9"
+14,"S8,S9,S46"
+14,"S8,S9,S46,S47"
+14,S9
+15,Adlershof
+15,Ahrensfelde
+15,Alexanderplatz
+15,Altglienicke
+15,Alt-Reinickendorf
+15,Anhalter Bhf.
+15,Attilastr.
+15,Babelsberg
+15,Baumschulenweg
+15,Bellevue
+15,Bergfelde b. Berlin
+15,Bernau
+15,Bernau-Friedenstal
+15,Betriebsbhf. Rummelsburg
+15,Betriebsbhf. Schöneweide
+15,Beusselstr.
+15,Biesdorf
+15,Birkenstein
+15,Birkenwerder
+15,Blankenburg
+15,Blankenfelde
+15,Borgsdorf
+15,Bornholmer Str.
+15,Botanischer Garten
+15,Buch
+15,Buckower Chaussee
+15,Bundesplatz
+15,Charlottenburg
+15,Eichborndamm
+15,Eichwalde
+15,Erkner
+15,Feuerbachstr.
+15,Flughafen Berlin-Schönefeld
+15,Frankfurter Allee
+15,Fredersdorf (bei Berlin)
+15,Friedenau
+15,Friedrichsfelde-Ost
+15,Friedrichshagen
+15,Friedrichstr.
+15,Frohnau
+15,Gehrenseestr.
+15,Gesundbrunnen
+15,Greifswalder Str.
+15,Griebnitzsee
+15,Grunewald
+15,Grünau
+15,Grünbergallee
+15,Hackescher Markt
+15,Halensee
+15,Heerstr.
+15,Hegermühle
+15,Heidelberger Platz
+15,Heiligensee
+15,Hennigsdorf
+15,Hermannstr.
+15,Hermsdorf
+15,Hirschgarten
+15,Hohen Neuendorf
+15,Hohenschönhausen
+15,Hohenzollerndamm
+15,Hoppegarten (Mark)
+15,Humboldthain
+15,Innsbrucker Platz
+15,Jannowitzbrücke
+15,Jungfernheide
+15,Karl-Bonhoeffer-Nervenklinik
+15,Karlshorst
+15,Karow
+15,Kaulsdorf
+15,Köllnische Heide
+15,Königs Wusterhausen
+15,Köpenick
+15,Landsberger Allee
+15,Lankwitz
+15,Lehnitz
+15,Lehrter Bahnhof
+15,Lichtenberg
+15,Lichtenrade
+15,Lichterfelde Süd
+15,Lichterfelde-Ost
+15,Lichterfelde-West
+15,Mahlow
+15,Mahlsdorf
+15,Marienfelde
+15,Marzahn
+15,Mehrower Allee
+15,Messe Nord/ICC (Witzleben)
+15,Messe Süd (Eichkamp)
+15,Mexikoplatz
+15,Mühlenbeck-Mönchsmühle
+15,Neuenhagen (bei Berlin)
+15,Neukölln
+15,Nikolassee
+15,Nikolassee (Wannseebahn)
+15,Nordbahnhof
+15,Nöldnerplatz
+15,Oberspree
+15,Olympiastadion
+15,Oranienburg
+15,Oranienburger Str.
+15,Osdorfer Str.
+15,Ostbahnhof
+15,Ostkreuz
+15,Pankow
+15,Pankow-Heinersdorf
+15,Papestr.
+15,Papestr. (Ringbahn)
+15,Petershagen Nord
+15,Pichelsberg
+15,Plänterwald
+15,Poelchaustr.
+15,Potsdam Hauptbahnhof
+15,Potsdamer Platz
+15,Prenzlauer Allee
+15,Priesterweg
+15,Rahnsdorf
+15,Raoul-Wallenberg-Str.
+15,Rathaus Steglitz
+15,Rummelsburg
+15,Röntgental
+15,Savignyplatz
+15,Schichauweg
+15,Schlachtensee
+15,Schulzendorf (b. Tegel)
+15,Schöneberg
+15,Schöneweide
+15,Schönfließ
+15,Schönhauser Allee
+15,Schönholz
+15,Sonnenallee
+15,Spandau
+15,Spindlersfeld
+15,Springpfuhl
+15,Storkower Str.
+15,Strausberg
+15,Strausberg Nord
+15,Strausberg Stadt
+15,Stresow
+15,Sundgauer Str.
+15,Südende
+15,Tegel
+15,Teltow
+15,Tempelhof
+15,Tiergarten
+15,Treptower Park
+15,Unter den Linden
+15,Waidmannslust
+15,Wannsee
+15,Warschauer Str.
+15,Wartenberg
+15,Wedding
+15,Westend
+15,Westhafen
+15,Westkreuz
+15,Wildau
+15,Wilhelmshagen
+15,Wilhelmsruh
+15,Wittenau
+15,Wollankstr.
+15,Wuhletal
+15,Wuhlheide
+15,Yorckstr.
+15,Yorckstr. (Großgörschenstr.)
+15,Zehlendorf
+15,Zepernick
+15,Zeuthen
+15,Zoologischer Garten
+17,Amerika-Haus
+17,Belvedere (Pfingstberg)
+17,Belvedere (Sanssouci)
+17,Bierpinsel
+17,Bornstedter Kirche
+17,Brandenburger Tor
+17,Brandenburger Tor (Potsdam)
+17,Communs (Universität Potsdam)
+17,Dorfkirche Stralau
+17,Drachenhaus (Sanssouci)
+17,Einsteinturm (Potsdam)
+17,Fernsehturm
+17,Flatowturm (Babelsberg)
+17,Flensburger Löwe
+17,Forum Steglitz
+17,Freilichtbühne Friedrichshain
+17,Funkturm
+17,Gasometer
+17,Gaswerk Schöneberg
+17,Gethsemane-Kirche
+17,Glockenturm
+17,Gothische Bibliothek (Potsdam)
+17,Grunewaldturm
+17,Hackesche Höfe
+17,Hebbeltheater
+17,Heilandskirche (Sacrow)
+17,Historische Mühle (Potsdam)
+17,Jagdschloß Grunewald
+17,Jägertor
+17,Kaiserbahnhof
+17,Kaiser-Wilhelm-Gedächtniskirche
+17,Kirche St. Peter u. Paul
+17,Krongut Bornstedt
+17,Kudamm-Karree
+17,Lilienthal-Gedenkstätte
+17,Ludwig-Erhard-Haus
+17,Luftbrückendenkmal
+17,Marmorpalais (Potsdam)
+17,Müggelturm
+17,Nauener Tor
+17,Neue Synagoge
+17,Neues Palais
+17,Nikolaikirche (Potsdam)
+17,Orangerie (Sanssouci)
+17,Pulverturm Bernau
+17,Rathaus Friedenau
+17,Rathaus Pankow
+17,Rathaus Schmargendorf
+17,Rathaus Steglitz
+17,Ruine des Anhalter Bahnhofs
+17,Ruinenberg (Potsdam)
+17,Russ.-Orth. Kirche/Kapellenberg
+17,Sacrower Schloß
+17,Schinkeldenkmal
+17,Schloß Cecilienhof
+17,Schloß Diedersdorf
+17,Schloß Sanssouci
+17,Siegessäule
+17,St.-Gertrauden-Krankenhaus
+17,St.-Peter und Paul-Kirche
+17,St.-Thomas-Kirche
+17,Steglitzer Kreisel
+17,Steintor Bernau
+17,Volksbühne
+17,Wasserturm Fidicinstr.
+17,Wasserturm Prenzlauer Berg
+17,Wilder Eber
+17,Zionskirche
+18,Abgeordnetenhaus
+18,Abtei Zenner
+18,Akademie der Künste
+18,Alte Nationalgalerie
+18,Altes Museum
+18,Amerika-Gedenkbibliothek
+18,Amerika-Haus
+18,Aquarium
+18,Archenhold-Sternwarte
+18,Arena
+18,Auguste-Vikoria-Krankenhaus
+18,Auswärtiges Amt
+18,Bauhaus-Archiv
+18,Belvedere (Pfingstberg)
+18,Belvedere (Sanssouci)
+18,Berliner Dom
+18,Berlin-Museum
+18,Bezirksamt Kreuzberg
+18,Bierpinsel
+18,Bodemuseum
+18,Bornstedter Kirche
+18,Brandenburger Tor
+18,Brandenburger Tor (Potsdam)
+18,Bundesrat (?)
+18,Charité-Krankenhaus
+18,Columbiahalle
+18,Communs (Universität Potsdam)
+18,Corbusier-Haus
+18,debis
+18,Deutsche Oper Berlin
+18,Deutscher Dom
+18,Deutsches Theater
+18,Deutschlandhalle
+18,Dorfkirche Stralau
+18,Drachenhaus (Sanssouci)
+18,DRK-Klinikum Westend
+18,East-Side-Gallery
+18,Einsteinturm (Potsdam)
+18,Eisenbahn-Markthalle
+18,Eissporthalle
+18,Europa-Center
+18,Fernsehturm
+18,Flatowturm (Babelsberg)
+18,Flensburger Löwe
+18,Flughafen Schönefeld
+18,Flughafen Tegel
+18,Flughafen Tempelhof
+18,Forsthaus Nikolskoe
+18,Forum Steglitz
+18,Französischer Dom
+18,Freie Universität Berlin
+18,Freilichtbühne Friedrichshain
+18,Freilichtbühne Wuhlheide
+18,Freizeit- und Erholungszentrum (FEZ)
+18,Friedrchstadtpalast
+18,Friedrich-Ludwig-Jahn-Sportpark
+18,Funkturm
+18,Gasometer
+18,Gaswerk Schöneberg
+18,Gedenkstätte Deutscher Widerstand
+18,Gedenkstätte Haus d. Wanseekonferenz
+18,Gedenkstätte Plötzensee
+18,Gethsemane-Kirche
+18,Glockenturm
+18,Gothische Bibliothek (Potsdam)
+18,Grunewaldturm
+18,Hackesche Höfe
+18,Hauptgebäude der TU
+18,Haus Bethanien
+18,Haus der Kulturen (Kongreßhalle)
+18,Haus des Rundfunks
+18,Haus Zenner
+18,Hebbeltheater
+18,Heilandskirche (Sacrow)
+18,Henry-Ford-Bau (FU Berlin)
+18,Historische Mühle (Potsdam)
+18,Holländisches Viertel
+18,Hufeisensiedlung
+18,Humboldt-Universität
+18,ICC
+18,Jagdschloß Grunewald
+18,Jungfernbrücke
+18,Jägertor
+18,Jüdisches Museum
+18,KaDeWe
+18,Kaiserbahnhof
+18,Kaiser-Wilhelm-Gedächtniskirche
+18,Kammergericht
+18,Kanzleramt
+18,Kirche St. Peter u. Paul
+18,Klinikum Benjamin Franklin
+18,Komische Oper
+18,Kongreßhalle
+18,Krankenhaus Am Urban
+18,Krankenhaus Neukölln
+18,Krongut Bornstedt
+18,Kudamm-Karree
+18,Lilienthal-Gedenkstätte
+18,Ludwig-Erhard-Haus
+18,Luftbrückendenkmal
+18,Marheinekehalle
+18,Marienkirche
+18,Marmorpalais (Potsdam)
+18,Marstall
+18,Martin-Gropius-Bau
+18,Max-Schmelling-Halle
+18,Messegelände
+18,Metropol
+18,Museum für Naturkunde
+18,Museum für Verkehr und Technik
+18,Musical-Theater
+18,Märkisches Museum
+18,Müggelturm
+18,Naturtheater Hasenheide
+18,Nauener Tor
+18,Neue Nationalgalerie
+18,Neue Synagoge
+18,Neue Wache
+18,Neues Palais
+18,Nikolaikirche
+18,Nikolaikirche (Potsdam)
+18,Olympiastadion
+18,Orangerie (Sanssouci)
+18,Palast der Republik
+18,Paul-Löbe-Haus
+18,Pergamonmuseum
+18,Philharmonie
+18,Planetarium
+18,Postmuseum
+18,Potsdamer Platz Arkaden
+18,Pulverturm Bernau
+18,Rathaus Charlottenburg
+18,Rathaus Friedenau
+18,Rathaus Köpenick
+18,Rathaus Pankow
+18,Rathaus Schmargendorf
+18,Rathaus Schöneberg
+18,Rathaus Spandau
+18,Rathaus Steglitz
+18,Reichstag
+18,Renaissance-Theater
+18,Rotes Rathaus
+18,Ruine des Anhalter Bahnhofs
+18,Ruinenberg (Potsdam)
+18,Russ.-Orth. Kirche/Kapellenberg
+18,Sacrower Schloß
+18,Schauspielhaus
+18,Schinkeldenkmal
+18,Schloß Babelsberg
+18,Schloß Bellevue
+18,Schloß Biesdorf
+18,Schloß Britz
+18,Schloß Cecilienhof
+18,Schloß Charlottenburg
+18,Schloß Diedersdorf
+18,Schloß Friedrichsfelde
+18,Schloß Glienicke
+18,Schloß Köpenick
+18,Schloß Niederschönhausen
+18,Schloß Pfaueninsel
+18,Schloß Sanssouci
+18,Schloß Tegel (Humboldtschloß)
+18,SEZ
+18,Siegessäule
+18,Sony
+18,Sowjetisches Ehrenmal (Treptower Park)
+18,St. Hedwigs-Kathedrale
+18,St.-Gertrauden-Krankenhaus
+18,St.-Josef-Krankenhaus
+18,St.-Peter und Paul-Kirche
+18,St.-Thomas-Kirche
+18,Staatsbibliothek
+18,Staatsoper
+18,Stadtbibliothek
+18,Steglitzer Kreisel
+18,Steintor Bernau
+18,Städtisches Krankenhaus Friedrichshain
+18,Tempodrom
+18,Theater des Westens
+18,Universität der Künste
+18,Universitäts-Bibliothek
+18,Universitätsklinikum Rudolf Virchow
+18,Velodrom (Berlin Arena)
+18,Villa Borsig
+18,Volksbühne
+18,Waldbühne
+18,Wasserturm Fidicinstr.
+18,Wasserturm Prenzlauer Berg
+18,Wilder Eber
+18,Wilhelm-Foerster-Sternwarte
+18,Zeiss-Planetarium
+18,Zeughaus
+18,Zionskirche
+18,Zitadelle
+18,Ägyptisches Museum
+19,Abgeordnetenhaus
+19,Abtei Zenner
+19,Akademie der Künste
+19,Alte Nationalgalerie
+19,Altes Museum
+19,Amerika-Gedenkbibliothek
+19,Aquarium
+19,Archenhold-Sternwarte
+19,Arena
+19,Auguste-Vikoria-Krankenhaus
+19,Auswärtiges Amt
+19,Bauhaus-Archiv
+19,Berliner Dom
+19,Berlin-Museum
+19,Bezirksamt Kreuzberg
+19,Bodemuseum
+19,Bundesrat (?)
+19,Charité-Krankenhaus
+19,Columbiahalle
+19,Corbusier-Haus
+19,debis
+19,Deutsche Oper Berlin
+19,Deutscher Dom
+19,Deutsches Theater
+19,Deutschlandhalle
+19,DRK-Klinikum Westend
+19,East-Side-Gallery
+19,Eisenbahn-Markthalle
+19,Eissporthalle
+19,Europa-Center
+19,Flughafen Schönefeld
+19,Flughafen Tegel
+19,Flughafen Tempelhof
+19,Forsthaus Nikolskoe
+19,Französischer Dom
+19,Freie Universität Berlin
+19,Freilichtbühne Wuhlheide
+19,Freizeit- und Erholungszentrum (FEZ)
+19,Friedrchstadtpalast
+19,Friedrich-Ludwig-Jahn-Sportpark
+19,Gedenkstätte Deutscher Widerstand
+19,Gedenkstätte Haus d. Wanseekonferenz
+19,Gedenkstätte Plötzensee
+19,Hauptgebäude der TU
+19,Haus Bethanien
+19,Haus der Kulturen (Kongreßhalle)
+19,Haus des Rundfunks
+19,Haus Zenner
+19,Henry-Ford-Bau (FU Berlin)
+19,Holländisches Viertel
+19,Hufeisensiedlung
+19,Humboldt-Universität
+19,ICC
+19,Jungfernbrücke
+19,Jüdisches Museum
+19,KaDeWe
+19,Kammergericht
+19,Kanzleramt
+19,Klinikum Benjamin Franklin
+19,Komische Oper
+19,Kongreßhalle
+19,Krankenhaus Am Urban
+19,Krankenhaus Neukölln
+19,Marheinekehalle
+19,Marienkirche
+19,Marstall
+19,Martin-Gropius-Bau
+19,Max-Schmelling-Halle
+19,Messegelände
+19,Metropol
+19,Museum für Naturkunde
+19,Museum für Verkehr und Technik
+19,Musical-Theater
+19,Märkisches Museum
+19,Naturtheater Hasenheide
+19,Neue Nationalgalerie
+19,Neue Wache
+19,Nikolaikirche
+19,Olympiastadion
+19,Palast der Republik
+19,Paul-Löbe-Haus
+19,Pergamonmuseum
+19,Philharmonie
+19,Planetarium
+19,Postmuseum
+19,Potsdamer Platz Arkaden
+19,Rathaus Charlottenburg
+19,Rathaus Köpenick
+19,Rathaus Schöneberg
+19,Rathaus Spandau
+19,Reichstag
+19,Renaissance-Theater
+19,Rotes Rathaus
+19,Schauspielhaus
+19,Schloß Babelsberg
+19,Schloß Bellevue
+19,Schloß Biesdorf
+19,Schloß Britz
+19,Schloß Charlottenburg
+19,Schloß Friedrichsfelde
+19,Schloß Glienicke
+19,Schloß Köpenick
+19,Schloß Niederschönhausen
+19,Schloß Pfaueninsel
+19,Schloß Tegel (Humboldtschloß)
+19,SEZ
+19,Sony
+19,Sowjetisches Ehrenmal (Treptower Park)
+19,St. Hedwigs-Kathedrale
+19,St.-Josef-Krankenhaus
+19,Staatsbibliothek
+19,Staatsoper
+19,Stadtbibliothek
+19,Städtisches Krankenhaus Friedrichshain
+19,Tempodrom
+19,Theater des Westens
+19,Universität der Künste
+19,Universitäts-Bibliothek
+19,Universitätsklinikum Rudolf Virchow
+19,Velodrom (Berlin Arena)
+19,Villa Borsig
+19,Waldbühne
+19,Wilhelm-Foerster-Sternwarte
+19,Zeiss-Planetarium
+19,Zeughaus
+19,Zitadelle
+19,Ägyptisches Museum
+20,U1
+20,"U1,U12,U15"
+20,"U1,U12,U15,U2"
+20,"U12,U15,U2"
+20,"U12,U2"
+20,U15
+20,U2
+20,U4
+20,U5
+20,U6
+20,U7
+20,U8
+20,U9
+21,Adenauerplatz
+21,Afrikanische Str.
+21,Alexanderplatz (U2)
+21,Alexanderplatz (U5/U8)
+21,Alt-Mariendorf
+21,Altstadt Spandau
+21,Alt-Tegel
+21,Alt-Tempelhof
+21,Amrumer Str.
+21,Augsburger Str.
+21,Bayerischer Platz
+21,Berliner Str.
+21,Bernauer Str.
+21,Biesdorf-Süd
+21,Birkenstr.
+21,Bismarckstr.
+21,Blaschkoallee
+21,Blissestr.
+21,Boddinstr.
+21,Borsigwerke
+21,Breitenbachplatz
+21,Britz-Süd
+21,Bundesplatz
+21,Bülowstr.
+21,Cottbusser Platz
+21,Dahlem-Dorf
+21,Deutsche Oper
+21,Eberswalder Str.
+21,Eisenacher Str.
+21,Elsterwerdaer Platz
+21,Ernst-Reuter-Platz
+21,Fehrbelliner Platz
+21,Frankfurter Allee
+21,Frankfurter Tor
+21,Franz-Neumann-Platz
+21,Französische Str.
+21,Friedrichsfelde
+21,Friedrichstr.
+21,Friedrich-Wilhelm-Platz
+21,Gesundbrunnen
+21,Gleisdreieck
+21,Gneisenaustr.
+21,Grenzallee
+21,Grottkauer Str.
+21,Görlitzer Bhf.
+21,Güntzelstr.
+21,Halemweg
+21,Hallesches Tor
+21,Hansaplatz
+21,Haselhorst
+21,Hausvogteiplatz
+21,Heidelberger Platz
+21,Heinrich-Heine-Str.
+21,Hellersdorf
+21,Hermannplatz
+21,Hermannstr.
+21,Hohenzollernplatz
+21,Holzhauser Str.
+21,Hönow
+21,Innsbrucker Platz
+21,Jakob-Kaiser-Platz
+21,Jannowitzbrücke
+21,Johannisthaler Chaussee
+21,Jungfernheide
+21,Kaiserdamm
+21,Kaiserin-Augusta-Str.
+21,Karl-Bonhoeffer-Nervenklinik
+21,Karl-Marx-Str.
+21,Kaulsdorf-Nord
+21,Kleistpark
+21,Klosterstr.
+21,Kochstr.
+21,Konstanzer Str.
+21,Kottbusser Tor
+21,Krumme Lanke
+21,Kurfürstendamm
+21,Kurfürstenstr.
+21,Kurt-Schumacher-Platz
+21,Leinestr.
+21,Leopoldplatz
+21,Lichtenberg
+21,Lindauer Allee
+21,Lipschitzallee
+21,Louis-Lewin-Str.
+21,Magdalenenstr.
+21,Mehringdamm
+21,Mendelssohn-Bartholdy-Park
+21,Mierendorffplatz
+21,Mohrenstr.
+21,Moritzplatz
+21,Märkisches Museum
+21,Möckernbrücke (U1)
+21,Möckernbrücke (U7)
+21,Nauener Platz
+21,Neukölln
+21,Neu-Westend
+21,Nollendorfplatz
+21,Olympiastadion (Ost)
+21,Onkel Toms Hütte
+21,Oranienburger Tor
+21,Oskar-Helene-Heim
+21,Osloer Str.
+21,Otisstr.
+21,Pankow
+21,Pankstr.
+21,Paracelsus-Bad
+21,Paradestr.
+21,Parchimer Allee
+21,Paulsternstr.
+21,Platz der Luftbrücke
+21,Podbielskiallee
+21,Potsdamer Platz
+21,Prinzenstr.
+21,Rathaus Neukölln
+21,Rathaus Reinickendorf
+21,Rathaus Schöneberg
+21,Rathaus Spandau
+21,Rathaus Steglitz
+21,Rehberge
+21,Reinickendorfer Str.
+21,Residenzstr.
+21,Richard-Wagner-Platz
+21,Rohrdamm
+21,Rosa-Luxemburg-Platz
+21,Rosenthaler Platz
+21,Rudow
+21,Ruhleben
+21,Rüdesheimer Platz
+21,Samariterstr.
+21,Scharnweberstr.
+21,Schillingstr.
+21,Schlesisches Tor
+21,Schloßstr.
+21,Schwartzkopffstr.
+21,Schönhauser Allee
+21,Schönleinstr.
+21,Seestr.
+21,Senefelderplatz
+21,Siemensdamm
+21,Sophie-Charlotte-Platz
+21,Spichernstr.
+21,Spittelmarkt
+21,Stadtmitte (U2)
+21,Stadtmitte (U6)
+21,Strausberger Platz
+21,Südstern
+21,Tempelhof
+21,Theodor-Heuss-Platz
+21,Thielplatz
+21,Tierpark
+21,Turmstr.
+21,Uhlandstr.
+21,Ullsteinstr.
+21,Viktoria-Luise-Platz
+21,Vinetastr.
+21,Voltastr.
+21,Walther-Schreiber-Platz
+21,Warschauer Str.
+21,Weberwiese
+21,Wedding
+21,Weinmeisterstr.
+21,Westhafen
+21,Westphalweg
+21,Wilmersdorfer Str.
+21,Wittenau
+21,Wittenbergplatz
+21,Wuhletal
+21,Wutzkyallee
+21,Yorckstr.
+21,Zinnowitzer Str.
+21,Zitadelle
+21,Zoologischer Garten
+21,Zwickauer Damm
+22,Aalemannkanal
+22,Alter Spreearm
+22,Badesee Arkenberge
+22,Baggersee Biesdorf
+22,Barssee
+22,Butzer See
+22,Dahme
+22,Der Faule See
+22,Der Obersee
+22,Der Weiße See
+22,Dianasee
+22,Die Banke
+22,Dämeritzsee
+22,Elsensee
+22,Fennpfuhl
+22,Fennsee
+22,Flughafensee
+22,Glienicker Lake
+22,Gosener Kanal
+22,Griebnitzsee
+22,Grimnitzsee
+22,Große Krampe
+22,Großer Wannsee
+22,Großer Zug
+22,Groß-Glienicker See
+22,Grunewaldsee
+22,Habermannsee
+22,Halensee
+22,Havel
+22,Heiligensee
+22,Hermsdorfer See
+22,Herthasee
+22,Hubertussee
+22,Hundekehlesee
+22,Jungfernheideteich
+22,Jürgenlanke
+22,Karpfenteich
+22,Klare Lanke
+22,Kleiner Müggelsee
+22,Kleiner Wannsee
+22,Koenigssee
+22,Krossinsee
+22,Krumme Lanke
+22,Langer See (Dahme)
+22,Lietzensee
+22,Malchower See
+22,Maselake
+22,Maselakekanal
+22,Müggelsee
+22,Nikolassee
+22,Nordhafen Spandau
+22,Orankesee
+22,Pechsee
+22,Pichelsdorfer Gemünd
+22,Pichelssee
+22,Plötzensee|(Berlin-Wedding)
+22,Pohlesee
+22,Prinz-Friedrich-Leopold-Kanal
+22,Ruhlebener Altarm
+22,Rummelsburger See
+22,Sacrower Lanke
+22,Scharfe Lanke
+22,Schlachtensee
+22,Seddinsee
+22,Spree
+22,Springpfuhl
+22,Stölpchensee
+22,Stößensee
+22,Südhafen
+22,Tegeler See
+22,Teltowkanal
+22,Teufelssee
+22,Teufelsseekanal
+22,Westhafen
+22,Wuhlebecken
+22,Zeuthener See
+22,Ziegeleisee
+23,Alter Berlin-Spandauer Schiffahrtskanal
+23,Berlin-Spandauer Schiffahrtskanal
+23,Britzer Zweigkanal
+23,Charlottenburger Verbindungskanal
+23,Flutgraben
+23,Heidekampgraben
+23,Hohenzollernkanal
+23,Landwehrkanal
+23,Neuköllner Schiffahrtskanal
+23,Nordgraben
+23,Panke
+23,Schleusenkanal
+23,Spree
+23,Tegeler Fließ
+23,Teltowkanal
+23,Westhafenkanal
+23,Wuhle
+24,Achterwasser
+24,Aue
+24,Außenalster
+24,Baalensee
+24,Barther Bodden
+24,Bernstein-Insel
+24,Bertikower See
+24,Bikowsee
+24,Binnenalster ?
+24,Binnenhafen
+24,Blankenburger See|Uckermark
+24,Bock
+24,Bodstedter Bodden
+24,Boltenhagen-Bucht
+24,Borgwallsee
+24,Braminsee
+24,Breeger Bodden
+24,Breetzer Bodden
+24,Breite
+24,Breitling
+24,Briesensee|bei Poratz
+24,Bruchsee
+24,Burger Binnensee
+24,Cambser See
+24,Canower See
+24,Carwitzer See
+24,Dabelowsee
+24,Dagowsee
+24,Dahme
+24,Dassower See
+24,Densowsee
+24,Die Lieps
+24,Doligowsee
+24,Dollgower See
+24,Dosse
+24,Drewensee
+24,Dziwna
+24,Dänholm
+24,Dänische Wiek
+24,Düstersee
+24,Eckernförder Bucht
+24,Elbe
+24,Elbe-Havel-Kanal
+24,Ellbogensee
+24,Fehmarnsund
+24,Fehrlingsee
+24,Fleesensee
+24,Fährinsel
+24,Fährsee
+24,Giesenschlansee
+24,Gleuensee
+24,Globsowsee
+24,Gobenowsee
+24,Godendorfer See
+24,Gothensee
+24,Grabow
+24,Greifswalder Bodden
+24,Griestower Wiek
+24,Große Wiek
+24,Großer Beutelsee
+24,Großer Binnensee
+24,Großer Briesensee
+24,Großer Brückenthinsee
+24,Großer Gollinsee
+24,Großer Jasmunder Bodden
+24,Großer Kastavensee
+24,Großer Krebssee
+24,Großer Krinertsee
+24,Großer Kronsee
+24,Großer Krukowsee
+24,Großer Kuhwallsee
+24,Großer Labussee
+24,Großer Lankensee
+24,Großer Linowsee
+24,Großer Lutzinsee
+24,Großer Lychensee
+24,Großer Mahlgastsee
+24,Großer Patschsee
+24,Großer Peetzigsee
+24,Großer Potzlowsee
+24,Großer Priepertsee
+24,Großer Präßnicksee
+24,Großer Pälitzsee
+24,Großer Schwaberowsee
+24,Großer See
+24,Großer Tietzensee
+24,Großer Törnsee
+24,Großer Werder
+24,Großer Wummsee
+24,Großer Zechliner See
+24,Hagensche Wiek
+24,Haussee
+24,Haussee|(b. Himmelpfort)
+24,Haussee|Barsdorf
+24,Haussee|Suckow
+24,Havel
+24,Having
+24,Hohensaaten-Friedrichsthaler-Wasserstraße
+24,Jakobsdorfer See
+24,Jezero Dabie
+24,Jezero Koprowo
+24,Jezero Wicko Wlk.
+24,Kachliner See
+24,Kalksee|bei Binenwalde
+24,Kanal Piastowski
+24,Kieler Förde
+24,Klarer See|Alt Temmen
+24,Kleiner Jasmunder Bodden
+24,Kleiner Krebssee
+24,Kleiner Krinertsee
+24,Kleiner Präßnicksee
+24,Kleiner Pälitzsee
+24,Klenzsee
+24,Koppelstrom
+24,Koselower See
+24,Krempsee
+24,Krumminer Wiek
+24,Kubitzer Bodden
+24,Kuhzer See
+24,Kummerower See
+24,Kölpinsee
+24,Kölpinsee|bei Rheinsberg
+24,Köpernitzsee
+24,Laagensee
+24,Labussee
+24,Labüskesee
+24,Langhagensee
+24,Lausitzer Neiße
+24,Libben
+24,Libesickesee
+24,Lieps
+24,Lübbesee
+24,Lübelowsee
+24,Lühesand
+24,Malchiner See
+24,Menowsee
+24,Mittellandkanal
+24,Moderfitzsee
+24,Mulde
+24,Mönchsee
+24,Mössensee
+24,Mündesee
+24,Müritz
+24,Müritzarm
+24,Müritz-Havel-Kanal
+24,Nebel
+24,Netzowsee
+24,Neuwarper See
+24,Norderelbe
+24,Oberkastavensee
+24,Oberphul
+24,Ober-Uecker See
+24,Oder
+24,Oie
+24,Orther Reede
+24,Ost-Peene
+24,Ostsee
+24,Peene
+24,Peense-Südkanal
+24,Peetschsee
+24,Pinnower See
+24,Platkowsee
+24,Plauer See|(b. Plau)
+24,Plauer Werder
+24,Plätlinsee
+24,Polsensee
+24,Prohner Wiek
+24,Prorer Wiek
+24,Pötenitzer Wiek
+24,Rassower Strom
+24,Redernswalder See
+24,Ribnitzer See
+24,Roofensee
+24,Rustwerder
+24,Rätzsee
+24,Röblinsee
+24,Röddelinsee
+24,Rödliner See
+24,Saale
+24,Saaler Bodden
+24,Sabinensee
+24,Sabinensee|bei Willmine
+24,Salzhaff
+24,Schaproder Bodden
+24,Schlabornsee
+24,Schloonsee
+24,Schmollensee
+24,Schoritzer Wiek
+24,Schwarze Elster
+24,Schwarzer See
+24,Schwedtsee
+24,Schweriner See
+24,Sehlendorfer Binnensee
+24,Sidowsee
+24,Spandowerhagener Wiek
+24,Specker See
+24,Spree
+24,Stadtsee|Lychen
+24,Sternhagener See
+24,Stettiner Haff
+24,Stiepensee
+24,Stiernsee
+24,Stolpsee
+24,Stralsund
+24,Swina
+24,Süderelbe
+24,Talsperre Bautzen
+24,Talsperre Spremberg
+24,Templiner Kanal
+24,Templiner See
+24,Teterower See
+24,Tetzitzer See
+24,Thymensee
+24,Tietzowsee
+24,Tollensesee
+24,Torgelower See
+24,Trave
+24,Tromper Wiek
+24,Twernsee
+24,Udarser Wiek
+24,Uecker
+24,Unter-Uecker See
+24,Unterwarnow
+24,Usedomer See
+24,Useriner See
+24,Vilzsee
+24,Vitter Bodden
+24,Walfisch
+24,Wangnitzsee
+24,Warnow
+24,Weiße Elster
+24,Westoder XXX
+24,Wieker Bodden
+24,Wismarbucht
+24,Woblinsee
+24,Woblitz
+24,Wohlenberger Wiek
+24,Wolgastsee
+24,Wolletzsee
+24,Wurlsee
+24,Zalew Kamienski
+24,Zat. Cicha
+24,Zechowsee
+24,Zenssee
+24,Zethner See
+24,Zierker See
+24,Ziernsee
+24,Zootzensee
+24,Zotzensee
+24,Öre
+25,(Alboinstr. - Paul-Schmidt-Str.)
+25,(Alexanderplatz - Alexanderstr.)
+25,(Alexandrinenstr. - Wassertorstr.)
+25,(Alt-Hermsdorf - Zehntwerderweg)
+25,"(Alt-Müggelheim, an der Kirche)"
+25,(Alt-Treptow - Insel der Jugend)
+25,(Am Bahndamm)
+25,(Am Friedhof)
+25,(Am Heidekampgraben)
+25,(Am Jüdischen Museum)
+25,(Am Krusenick)
+25,(Am Landwehrkanal)
+25,(Am Langen See)
+25,(Am Lehrter Bahnhof)
+25,(Am Malchower See)
+25,(am Schloß Niederschönhausen)
+25,(Am Schwarzen Graben)
+25,(Am Seddinsee)
+25,(Am Stadion Wilmersdorf)
+25,(Am Stichkanal)
+25,(Am Teltowkanal)
+25,"(Am Teltowkanal, nördl. Ufer)"
+25,"(Am Teltowkanal, südl. Ufer)"
+25,(Am Urban-Krankenhaus)
+25,"(Am Wuhleufer, Innovationspark Köpenick)"
+25,(An der Bahn)
+25,(An der Güterbahn)
+25,(An der Krampe)
+25,(An der Müggelspree)
+25,(An der Nordbahn)
+25,(Autobahnbrücke)
+25,(B96a)
+25,(Bahnhofvorplatz S-Bhf. Priesterweg)
+25,(Behmstr. - Norwegerstr.)
+25,(Benekendorffstr - Lübars)
+25,(Breitehornweg - Ernst-Liesegang-Ufer)
+25,(Böcklerpark)
+25,(Coppistr. - Nöldnerplatz)
+25,(Der Breite Weg)
+25,(Durchgang Warschauer Platz - Warschauer Str.)
+25,(Efeuweg - Lipschitzallee)
+25,"(Eichgestell, Wuhlheide/R1)"
+25,(Eisenbahnbrücke)
+25,(Elsengrund)
+25,(entlang der S-Bahn)
+25,(Forst Düppel)
+25,(Friedlander Promenade)
+25,(Fußgängerbrücke Ostkreuz)
+25,(Fußgängerbrücke Storkower Str.)
+25,(Fußgängerbrücke)
+25,(Fußweg am Alten Schlachthof)
+25,(Fußweg am Griesinger-Krankenhaus)
+25,(Gemeindewäldchen)
+25,(Gotenstr. - Kolonnenstr.)
+25,(Grunewald?)
+25,(Görlitzer Park)
+25,"(Görlitzer Park, Einfahrt Liegnitzer Str.)"
+25,"(Görlitzer Park, Einfahrt Oppelner Str.)"
+25,"(Görlitzer Park, Rondell)"
+25,(Götelstr. - Tharsanderweg)
+25,(Güterbahn - Matthäusweg)
+25,(Hasenheide)
+25,"(Hasenheide, zur Lilienthalstr.)"
+25,(Havel-Ufer Gatow)
+25,(Havel-Ufer Hohengatow)
+25,(Hoher Bogen)
+25,"(Im Jagen, Verlängerung)"
+25,(Im Saatwinkel - Fähre)
+25,(Karl-Marx-Str. - Marchlewskistr.)
+25,(Klein-Glienicke - Hahn-Meitner-Institut)
+25,(Kolonie Bocksfelde-Alt)
+25,(Kolonie Frühauf)
+25,(Kolonie Havelmathen)
+25,(Kuhwall)
+25,(Lessinghöhe)
+25,(Luisenhain)
+25,(Marheinekeplatz/Brunnen)
+25,(Marx-Engels-Forum)
+25,(Mauerweg Frohnau-Heiligensee)
+25,(Mauerweg nach Lübars)
+25,(Mauerweg)
+25,(Mittelheide)
+25,(Mohrenstr.)
+25,(Molkenmarkt - zur Stralauer Str.)
+25,(Moorlake - Pfaueninsel)
+25,(Müggelbergallee - Zum Müggelturm)
+25,(Müggelpark)
+25,(Müggelturm - Dahme)
+25,(Müggelturm - Marienlust)
+25,(Müggelturm - Müggelheim)
+25,(Münsigerpark)
+25,(Naturpark Schöneberg)
+25,"(Naturpark Schöneberg, Zugang)"
+25,(Nordufer des Flughafensees)
+25,(Nordufer)
+25,(Pankeweg)
+25,"(Pankeweg, Bürgerpark)"
+25,"(Pankeweg, Schloßpark Niederschönhausen)"
+25,(Parchimer Allee - Martin-Wagner-Ring)
+25,(Park Biesdorf)
+25,(Parkplatz Deutschlandhalle)
+25,(Paul-Junius-Str. - Alfred-Jung-Str.)
+25,(Pelzlake)
+25,(Privatstr.)
+25,(Promenade)
+25,(R1)
+25,(Radweg am Müggelsee)
+25,(Richtung Grunewaldturm)
+25,(Rudower Höhe)
+25,(Saatwinkler Damm - Kurt-Schumacher-Damm)
+25,(S-Bahnbrücke Wartenberg)
+25,(S-Bahn-Brücke)
+25,(S-Bhf. Papestr.)
+25,"(Schildhornstr., Auffahrt)"
+25,(Schwarzer Weg - Jörsstr.)
+25,(Schönhorst)
+25,(Spreeuferweg)
+25,(Straße 54)
+25,(Straße am Schaltwerk - Paulsternstr.)
+25,"(Straße am Wald, Innovationspark Köpenick)"
+25,(Straße in Bau)
+25,(Straßenbahntrasse zum Alex)
+25,(Tauernallee - Wildspitzweg)
+25,"(Tegelort, Uferpromenade)"
+25,(Thomashöhe)
+25,(Tiergarten)
+25,(Treppe zum Allianz-Gebäude)
+25,(Uferweg - Parkweg)
+25,(Uferweg am Schlachtensee)
+25,(Uferweg am Urbanhafen)
+25,(Uferweg an den Treptowers)
+25,(Uferweg Plötzensee)
+25,(Uferweg)
+25,(Ullsteinstr. - Am Teltowkanal)
+25,(um den Flughafen Tegel)
+25,(Umfahrung Hahn-Meitner-Institut)
+25,(Umfahrung Kanzleramt)
+25,(unter der S-Bahn-Brücke)
+25,(Verbindung Aachener Str. - Detmolder Str.)
+25,(Volkspark Friedrichshain)
+25,(Volkspark Klein-Glienicke)
+25,(Volkspark Wilmersdorf)
+25,(Waldweg an der S-Bahn)
+25,(Waldweg)
+25,(Waterlooufer - Zossener Str.)
+25,(Weg am Tempodrom)
+25,(Weg am Teufelssee)
+25,(Weg an der Kaserne Hottengrund)
+25,(Weg zum Whs. Rübezahl)
+25,(Weg zur Mühsamstr.)
+25,(Weg über Autobahntunnel - Britzer Damm)
+25,(Weg über Autobahntunnel - Escherheimer Str.)
+25,(Weg über Autobahntunnel)
+25,(Weg über Autobahntunnel/Wederstr.)
+25,(Weg)
+25,(Wilhelmstr.)
+25,(Wuhlewanderweg)
+25,"(Wuhlewanderweg, westliches Ufer)"
+25,"(Wuhlewanderweg, östliches Ufer)"
+25,"(Wuhlheide, An der alten Försterei)"
+25,(Wuhlheide/FEZ)
+25,(Zufahrt am NKZ)
+25,(Zufahrt FEZ)
+25,(Zufahrt Forum)
+25,(Zufahrt zum Rasthof Avus)
+25,(Zugang Krautstr.)
+25,(zum Arkenberger Kiessee)
+25,(zum Elsengrund)
+25,(zum Hafen Wannsee)
+25,(zum Mergenthalerring)
+25,(zum Schönerlinder Weg)
+25,(Zum Seddinsee)
+25,(zum Tempelhofer Weg)
+25,(zur Alemannenstr.)
+25,(zur Eisenbahnbrücke)
+25,(Zur Fähre nach Lindwerder)
+25,(Zur Fähre)
+25,(zur Gollanczstr.)
+25,(Zur Hirtenwiese)
+25,(Zur Krampenburg)
+25,(zur Löhleinstr.)
+25,(zur Mannheimer Str./Wilmersdorf)
+25,(zur Paul-Junius-Str.)
+25,(zur Prenzlauer Promenade)
+25,(zur Thomas-Dehler-Str.)
+25,(zwischen Dorfstr. und Bhf. Wuhletal)
+25,Aachener Str.
+25,Aalemannufer
+25,"Ackerstr. (Mitte, Wedding)"
+25,Adalbertstr.
+25,Adamstr.
+25,Adlergestell
+25,Admiralbrücke
+25,Admiralstr.
+25,Adolfstr. (Wedding)
+25,Advokatensteig
+25,Afrikanische Str.
+25,Ahornallee (Charlottenburg)
+25,Ahornstr. (Steglitz)
+25,Ahrensfelder Chaussee
+25,Akazienstr. (Schöneberg)
+25,Alarichstr.
+25,Albanstr.
+25,Alberichstr.
+25,Albertstr.
+25,Alboinplatz
+25,Alboinstr.
+25,Albrechtstr. (Mitte)
+25,Albrechtstr. (Steglitz)
+25,Albrechtstr. (Tempelhof)
+25,Alemannenstr. (Frohnau)
+25,Alemannenstr. (Nikolassee)
+25,Alexanderplatz
+25,Alexanderplatz [Dircksenstr./zur Grunerstr.]
+25,Alexanderplatz [Dircksenstr]
+25,Alexanderstr.
+25,Alexandrinenstr.
+25,Alfelder Str.
+25,Alfred-Jung-Str.
+25,Alfred-Kowalke-Str.
+25,Alfredstr.
+25,Allee der Kosmonauten
+25,Allee St. Exupéry
+25,Allgäuer Weg
+25,Almutstr.
+25,Alsenstr. (Wannsee)
+25,Alt Stralau
+25,Alt-Biesdorf
+25,Alt-Blankenburg
+25,Alt-Britz
+25,Alt-Buch
+25,Alt-Buckow
+25,Altdorfer Str.
+25,Alte Hellersdorfer Str.
+25,Alte Jakobstr.
+25,Alte Kaulsdorfer Str.
+25,Alte Potsdamer Str.
+25,Alte Schönhauser Str.
+25,Alte Spandauer Poststr.
+25,Altenhofer Str.
+25,Altensteinstr.
+25,Altentreptower Str.
+25,Alter Fischerweg
+25,Alter Markt
+25,Alt-Friedrichsfelde
+25,Alt-Gatow
+25,Alt-Heiligensee
+25,Alt-Hermsdorf
+25,Alt-Karow
+25,Alt-Kaulsdorf
+25,Alt-Kladow
+25,Alt-Köpenick
+25,Alt-Lankwitz
+25,Alt-Lichtenrade
+25,Alt-Lietzow
+25,Alt-Lübars
+25,Alt-Mahlsdorf
+25,Alt-Mariendorf
+25,Alt-Marienfelde
+25,Alt-Moabit
+25,Alt-Müggelheim
+25,Altonaer Str. (Tiergarten)
+25,Alt-Pichelsdorf
+25,Alt-Reinickendorf
+25,Alt-Rudow
+25,Altstädter Ring
+25,Alt-Tegel
+25,Alt-Tempelhof
+25,Alt-Treptow
+25,Alt-Wittenau
+25,Alvenslebenstr. (Schöneberg)
+25,Am Bahndamm (Köpenick)
+25,Am Bahnhof Grunewald Vorplatz I
+25,Am Bahnhof Wuhlheide
+25,Am Borsigturm
+25,Am Botanischen Garten (Pankow)
+25,Am Bürgerpark
+25,Am Dachsbau
+25,Am Eichenhain
+25,Am Eichenhain (Verlängerung ?)
+25,Am Eichgarten
+25,Am Falkenberg
+25,Am Feldberg
+25,Am Fichtenberg
+25,Am Fischtal
+25,Am Flutgraben
+25,Am Freibad (Lübars)
+25,Am Friedrichshain
+25,Am Goldmannpark
+25,Am Großen Wannsee
+25,Am Heidefriedhof
+25,Am Hirschsprung
+25,Am Juliusturm
+25,Am Karlsbad
+25,Am Kiesteich
+25,Am Kleinen Wannsee
+25,Am Kupfergraben
+25,Am Lustgarten
+25,Am Müggelsee
+25,Am Niederfeld
+25,"Am Nordgraben (Wittenau, Borsigwalde)"
+25,Am Nordhafen
+25,Am Ortsrand
+25,Am Postfenn
+25,Am Rosenhag
+25,Am Roten Stein
+25,Am Rudolfplatz
+25,Am Schillertheater
+25,Am Schlachtensee
+25,Am Seegraben
+25,Am Stadtpark (Lichtenberg)
+25,Am Steinberg
+25,Am Tierpark
+25,Am Treptower Park
+25,Am Vierrutenberg
+25,Am Volkspark
+25,Am Walde
+25,Am Waldfriedhof
+25,Am Weidenbruch
+25,Am Weidendamm
+25,Am Wiesenrain
+25,Amrumer Str.
+25,Amtsstr.
+25,An den Achterhöfen
+25,An den Treptowers
+25,An der Kolonnade
+25,An der Malche
+25,An der Mäckeritzbrücke
+25,An der Mühle
+25,An der Putlitzbrücke
+25,An der Rudower Höhe
+25,An der Schillingbrücke
+25,An der Spandauer Brücke
+25,An der Urania
+25,An der Wuhle
+25,An der Wuhlheide
+25,Andlauer Weg
+25,Andreasstr.
+25,Angerburger Allee
+25,Angerweg
+25,Anhalter Str.
+25,Anklamer Str.
+25,Ankogelweg
+25,Anna-Louisa-Karsch-Str.
+25,Annenallee
+25,Annenstr. (Mitte)
+25,Ansbacher Str.
+25,Antonienstr.
+25,Anzengruberstr.
+25,Apollofalterallee
+25,Appenzeller Str.
+25,Archibaldweg
+25,Archivstr.
+25,Arcostr.
+25,Argentinische Allee
+25,Ariadnestr.
+25,Armbrustweg
+25,Arnikaweg
+25,Arnimallee
+25,Arnulfstr.
+25,Aronsstr.
+25,Aroser Allee
+25,"Aschaffenburger Str. (Schöneberg, Wilmersdorf)"
+25,Ascherslebener Weg
+25,Askanierring
+25,Askanischer Platz
+25,Asternplatz
+25,Attilastr.
+25,Atzpodienstr.
+25,Auerbacher Str.
+25,Auerbachtunnel
+25,Auerstr.
+25,"Augsburger Str. (Charlottenburg, Wilmersdorf)"
+25,Augustaplatz
+25,Augustastr. (Lichterfelde)
+25,Auguste-Viktoria-Allee
+25,"Auguste-Viktoria-Str. (Grunewald, Schmargendorf)"
+25,August-Froehlich-Str.
+25,Auguststr. (Mitte)
+25,Außenweg
+25,Axel-Springer-Str.
+25,Aßmannshauser Str.
+25,Bachstr. (Tiergarten)
+25,Backbergstr.
+25,Badener Ring
+25,Badensche Str.
+25,Badstr.
+25,Baerwaldstr.
+25,Bahnhofstr. (Blankenburg)
+25,Bahnhofstr. (Blankenfelde)
+25,Bahnhofstr. (Hohenschönhausen)
+25,Bahnhofstr. (Karow)
+25,Bahnhofstr. (Köpenick)
+25,Bahnhofstr. (Lichtenrade)
+25,Bahnstr.
+25,Bahnübergang Grünbergallee
+25,Baldersheimer Weg
+25,Ballinstr.
+25,"Bamberger Str. (Schöneberg, Wilmersdorf)"
+25,Barbarossastr.
+25,Barfusstr.
+25,Barnetstr.
+25,Barschelplatz
+25,Barstr.
+25,Bartningallee
+25,Baruther Str.
+25,Baseler Str. (Lichterfelde)
+25,Bauernweg
+25,Baumeisterstr.
+25,Baumschulenstr.
+25,Bausdorfstr.
+25,Bautzener Str.
+25,Bayerischer Platz
+25,Bayernring
+25,Bayreuther Str.
+25,Bebelplatz
+25,Beckerstr.
+25,Beerenstr.
+25,Beeskowdamm
+25,Beethovenstr. (Lankwitz)
+25,Beethovenstr. (Lichtenrade)
+25,Behmstr.
+25,Behrenstr.
+25,Bellermannstr.
+25,Bellevueallee
+25,Bellevuestr. (Köpenick)
+25,Bellevuestr. (Tiergarten)
+25,Bellingstr.
+25,Belziger Str.
+25,Belßstr.
+25,Bendastr.
+25,Benekendorffstr.
+25,Benschallee
+25,Bentschener Weg
+25,Bergedorfer Str.
+25,Bergiusstr.
+25,Bergmannstr. (Kreuzberg)
+25,Bergstr. (Steglitz)
+25,Berkaer Platz
+25,Berkaer Str.
+25,Berlepschstr.
+25,Berliner Allee
+25,Berliner Str. (Blankenfelde)
+25,Berliner Str. (Buchholz)
+25,Berliner Str. (Heinersdorf)
+25,Berliner Str. (Hermsdorf)
+25,Berliner Str. (Pankow)
+25,Berliner Str. (Tegel)
+25,Berliner Str. (Wilmersdorf)
+25,Berliner Str. (Zehlendorf)
+25,Bernauer Str. (Lichtenrade)
+25,Bernauer Str. (Tegel)
+25,Bernauer Str. (Wedding)
+25,Bernburger Str. (Kreuzberg)
+25,Bernhard-Beyer-Str.
+25,Bernhard-Lichtenberg-Str. (Charlottenburg)
+25,Bernkastler Str.
+25,Bernstadter Weg
+25,Bernstorffstr.
+25,Bersarinplatz
+25,Besselstr.
+25,Bessemerstr.
+25,Bethaniendamm
+25,Beusselstr.
+25,Beuthstr. (Niederschönhausen)
+25,Biberpelzstr.
+25,Biedenkopfer Str.
+25,Bienwaldring
+25,Biesdorfer Promenade
+25,Biesdorfer Weg
+25,Billerbecker Weg
+25,Binger Str.
+25,Birkbuschstr.
+25,Birkenstr. (Tiergarten)
+25,Birkholzer Weg
+25,Birnbaumer Str.
+25,Birnenweg
+25,Bischofsgrüner Weg
+25,Bismarckallee
+25,Bismarckplatz (Spandau)
+25,Bismarcksfelder Str.
+25,Bismarckstr. (Charlottenburg)
+25,Bismarckstr. (Steglitz)
+25,Bismarckstr. (Wannsee)
+25,Bitterfelder Str.
+25,Bitterstr.
+25,Blanckertzweg
+25,Blankenburger Chaussee
+25,Blankenburger Pflasterweg
+25,Blankenburger Str. (Heinersdorf)
+25,"Blankenburger Str. (Heinersdorf, Buchholz)"
+25,Blankenfelder Chaussee (Blankenfelde)
+25,Blankenfelder Chaussee (Lübars)
+25,Blankenfelder Str. (Buchholz)
+25,Blankenfelder Str. (Rosenthal)
+25,Blaschkoallee
+25,Bleibtreustr.
+25,Blissestr.
+25,Blockdammweg
+25,Blumberger Damm
+25,Blücherplatz
+25,Blücherstr. (Kreuzberg)
+25,Bocksfeldstr.
+25,Bodestr.
+25,Boelckestr.
+25,Bohnsdorfer Weg
+25,Bolivarallee
+25,Bonner Str.
+25,Bootshausweg
+25,Boppstr.
+25,Borggrevestr.
+25,Bornholmer Str.
+25,Bornitzstr.
+25,Bornstedter Str.
+25,Bornstr.
+25,Borsigdamm
+25,Borsigwalder Weg
+25,Borussenstr.
+25,Bossestr.
+25,Boxberger Str.
+25,Boxhagener Str.
+25,Boyenstr.
+25,Brachvogelstr.
+25,Brandenburgische Str. (Wilmersdorf)
+25,Braunschweiger Str.
+25,Braunschweiger Ufer
+25,Brehmestr.
+25,Breite Str. (Mitte)
+25,Breite Str. (Pankow)
+25,Breite Str. (Schmargendorf)
+25,Breite Str. (Spandau)
+25,Breite Str. (Steglitz)
+25,Breitehornweg
+25,Breitenbachplatz
+25,Breitenbachstr.
+25,Breitscheidplatz
+25,Breitunger Weg
+25,Bremer Str. (Tiergarten)
+25,Brentanostr.
+25,Briesingstr.
+25,Brigittenweg
+25,Britzer Allee
+25,Britzer Damm
+25,Britzer Str. (Mariendorf)
+25,Brodauer Str.
+25,Bruchwitzstr.
+25,Brunnenstr.
+25,Bruno-Baum-Str.
+25,Bruno-Bürgel-Weg
+25,Bruno-Taut-Str.
+25,Brunsbütteler Damm
+25,Brückenstr. (Mitte)
+25,Brückenstr. (Niederschöneweide)
+25,Brückenstr. (Steglitz)
+25,Brümmerstr.
+25,Brünowplatz
+25,Buchberger Str.
+25,Buchenhainer Str.
+25,Bucher Chaussee
+25,Bucher Str.
+25,Buchholzer Str. (Blankenfelde)
+25,Buchholzer Str. (Niederschönhausen)
+25,Buckower Chaussee
+25,Buckower Damm
+25,Budapester Str.
+25,Buddestr. (Tegel)
+25,Bulgarische Str.
+25,Bundesallee
+25,Bundesratufer
+25,Bunsenstr.
+25,Buntzelstr.
+25,Burgfrauenstr.
+25,Burgstr.
+25,Buschallee
+25,Buschkrugallee
+25,Bäkestr. (Lichterfelde)
+25,Bäkestr. (Wannsee)
+25,Bänschstr.
+25,Bärensteinstr.
+25,Böckhstr.
+25,Böcklerstr.
+25,Böcklinstr.
+25,Böhmische Str.
+25,Bölschestr.
+25,Böttgerstr.
+25,Böttnerstr.
+25,Bötzowstr.
+25,Bülowstr. (Schöneberg)
+25,Bürgerstr. (Britz)
+25,Bürknerstr.
+25,Calvinstr. (Tiergarten)
+25,Carl-Herz-Ufer
+25,Carmerstr.
+25,Carstennstr.
+25,Caspar-Theyß-Str.
+25,Cauerstr.
+25,Cautiusstr.
+25,"Cecilienstr. (Biesdorf, Kaulsdorf)"
+25,Charles-Corcelle-Ring
+25,Charlottenburger Chaussee
+25,Charlottenburger Ufer
+25,Charlottenstr. (Friedrichsfelde)
+25,"Charlottenstr. (Kreuzberg, Mitte)"
+25,Charlottenstr. (Spandau)
+25,Chausseestr. (Mitte)
+25,Chausseestr. (Wannsee)
+25,Chemnitzer Str.
+25,Chlodwigstr.
+25,Choriner Str.
+25,Christoph-Ruden-Str.
+25,Christstr.
+25,Clauertstr.
+25,Clayallee
+25,Colbestr.
+25,Colditzstr.
+25,Columbiadamm
+25,Conrad-Blenkle-Str.
+25,Conradstr. (Borsigwalde)
+25,Conradstr. (Wannsee)
+25,Cordesstr.
+25,Corinthstr.
+25,Corneliusstr. (Tiergarten)
+25,Corrensplatz
+25,Cosmarweg
+25,Courbièrestr.
+25,Crailsheimer Str.
+25,Cranachstr.
+25,Crellestr.
+25,Cunostr.
+25,Curtiusstr.
+25,Czeminskistr.
+25,Dahlemer Weg
+25,Dahlwitzer Landstr.
+25,Dahlwitzer Str.
+25,Dahmestr. (Bohnsdorf)
+25,Dahmeweg
+25,Daimlerstr.
+25,Damaschkestr.
+25,Damerowstr.
+25,Dammweg
+25,Danckelmannstr.
+25,Dankmarsteig
+25,Dannenwalder Weg
+25,Danziger Str.
+25,Dardanellenweg
+25,Darwinstr.
+25,Darßer Str.
+25,Daumstr.
+25,Dederingstr.
+25,Degnerstr.
+25,Delbrückstr. (Friedrichsfelde)
+25,Delbrückstr. (Grunewald)
+25,Delfter Ufer
+25,Demminer Str. (Wedding)
+25,Dennewitzplatz
+25,Dennewitzstr.
+25,Dernburgstr.
+25,Detmolder Str.
+25,Dianastr.
+25,Diedersdorfer Weg
+25,Dieffenbachstr.
+25,Dieselstr.
+25,Diesterwegstr.
+25,Dietzgenstr.
+25,Dillenburger Str.
+25,Dircksenstr.
+25,Dirschelweg
+25,Distelfinkweg
+25,Dittersbacher Weg
+25,Doberaner Str. (Hohenschönhausen)
+25,Dohnagestell
+25,Dolgenseestr.
+25,Dominicusstr.
+25,Donaustr.
+25,Dorfplatz
+25,Dorfstr. (Falkenberg)
+25,Dorfstr. (Kaulsdorf)
+25,Dorfstr. (Malchow)
+25,Dorfstr. (Rahnsdorf)
+25,Dorfstr. (Spandau)
+25,Dorfstr. (Wartenberg)
+25,Dornacher Str.
+25,Dorotheenstr. (Mitte)
+25,Dovestr.
+25,Dr.-Jacobsohn-Promenade
+25,Dr.-Jakobi-Weg
+25,Drakestr. (Lichterfelde)
+25,Drakestr. (Tiergarten)
+25,Dresdener Str.
+25,Drontheimer Str.
+25,Droysenstr.
+25,Drusenheimer Weg
+25,Dubliner Str.
+25,Dubrowstr.
+25,Dudenstr.
+25,Dunckerstr.
+25,Durlacher Str. (Wilmersdorf)
+25,Dönhoffstr.
+25,Dörpfeldstr.
+25,Düppelstr. (Steglitz)
+25,Dürerplatz
+25,Düsseldorfer Str.
+25,E.T.A.-Hoffmann-Promenade
+25,Ebersstr.
+25,Eberswalder Str.
+25,Ebertstr.
+25,Ebertystr.
+25,Edelhofdamm
+25,Edelweißstr.
+25,Edenkobener Steg
+25,Edenkobener Weg
+25,Ederstr.
+25,Edinburger Str.
+25,Edisonstr.
+25,Efeuweg
+25,Egon-Erwin-Kisch-Str.
+25,Ehrenbergstr. (Friedrichshain)
+25,Ehrenfelsstr.
+25,Ehrenpreisweg
+25,Ehrlichstr.
+25,Eichborndamm
+25,Eichelhäherstr.
+25,Eichenstr. (Hessenwinkel)
+25,Eichenstr. (Treptow)
+25,Eichhornstr. (Tiergarten)
+25,Eichhorster Weg
+25,Eichkampstr.
+25,Einbecker Str.
+25,Einemstr.
+25,Einsteinufer
+25,Einödshoferweg
+25,Eisenacher Str. (Mariendorf)
+25,"Eisenacher Str. (Marzahn, Hellersdorf)"
+25,Eisenacher Str. (Schöneberg)
+25,Eisenbahnstr.
+25,Eisenhutweg
+25,Eisenzahnstr.
+25,Eiswerderstr.
+25,Eitelstr. (Biesdorf)
+25,Elchdamm
+25,Eldenaer Str.
+25,Elgersburger Str.
+25,Elisabethstr. (Biesdorf)
+25,Elkartweg
+25,Elsa-Brändström-Str.
+25,Else-Lasker-Schüler-Str.
+25,"Elsenstr. (Mahlsdorf,Kaulsdorf)"
+25,"Elsenstr. (Neukölln, Treptow)"
+25,Elvirasteig
+25,Emmentaler Str.
+25,Emser Str. (Neukölln)
+25,Emser Str. (Wilmersdorf)
+25,Engeldamm
+25,Englerallee
+25,Entlastungsstr.
+25,Enzianstr.
+25,Eosanderstr.
+25,Eppenbrunner Weg
+25,Erbkaveln
+25,Erdener Str.
+25,Erdmannstr.
+25,Eresburgstr.
+25,Erich-Weinert-Str.
+25,Erkelenzdamm
+25,Erkstr.
+25,Ernst-Barlach-Str.
+25,Ernst-Liesegang-Ufer
+25,Ernst-Reuter-Platz
+25,"Ernststr. (Tegel, Borsigwalde)"
+25,Eschenstr. (Kaulsdorf)
+25,Eschersheimer Str.
+25,Esplanade
+25,Essener Str.
+25,Essenplatz
+25,Ettaler Str.
+25,Exerzierstr.
+25,Eythstr.
+25,Fabeckstr.
+25,Falckensteinstr. (Kreuzberg)
+25,Falkenberger Chaussee
+25,Falkenberger Str.
+25,Falkenhagener Str.
+25,Falkenhagener Tor
+25,Falkenseer Chaussee
+25,Falkenseer Damm
+25,Falkenseer Platz
+25,Falkentaler Steig
+25,"Fasanenstr. (Charlottenburg, Wilmersdorf)"
+25,Fasanerieallee
+25,Fehlerstr.
+25,Fehlingstr.
+25,Fehrbelliner Str. (Mitte)
+25,Feldstr. (Wedding)
+25,Felixstr.
+25,Fenchelweg
+25,Fennstr. (Wedding)
+25,Ferdinand-Friedensburg-Platz
+25,Feuerbachstr.
+25,Feurigstr.
+25,Fichtestr. (Kreuzberg)
+25,Filandastr.
+25,Finckensteinallee
+25,Finkenkruger Weg
+25,Finsterwalder Str.
+25,Fischerhüttenstr.
+25,Fischerhüttenweg
+25,Fischerinsel
+25,Fischerstr. (Lichtenberg)
+25,Flaischlenstr.
+25,Flankenschanze
+25,Flatowallee
+25,Flemingstr.
+25,Flensburger Str.
+25,Fliegenpilzstr.
+25,Floningweg
+25,Florastr. (Pankow)
+25,Flottwellstr.
+25,Flughafenstr.
+25,Fontanestr. (Grunewald)
+25,Fontanestr. (Neukölln)
+25,Fontanestr. (Rosenthal)
+25,Forckenbeckstr.
+25,Forddamm
+25,Forsthausallee
+25,Forststr. (Steglitz)
+25,Fraenkelufer
+25,Frankfurter Allee
+25,Franklinstr.
+25,Franzensbader Str.
+25,Franz-Grothe-Weg
+25,Franz-Jacob-Str.
+25,Franz-Klühs-Str.
+25,Franz-Körner-Str.
+25,Franz-Künstler-Str.
+25,Franz-Stampfer-Str.
+25,Französische Str.
+25,Freibergstr.
+25,Freiheit (Köpenick)
+25,Freiheit (Spandau)
+25,Freiherr-vom-Stein-Str. (Schöneberg)
+25,Friedelstr.
+25,Friedenfelser Str.
+25,Friedenhorster Str.
+25,Friedenstr. (Friedrichshain)
+25,Friedenstr. (Mariendorf)
+25,Friederikestr.
+25,Friedrich-Ebert-Platz
+25,Friedrich-Engels-Str.
+25,Friedrich-Karl-Str. (Tempelhof)
+25,Friedrich-Krause-Ufer
+25,Friedrich-Olbricht-Damm
+25,Friedrichrodaer Str.
+25,Friedrichsberger Str.
+25,Friedrichsbrücke
+25,Friedrichshagener Str.
+25,Friedrichsruher Str. (Schmargendorf)
+25,"Friedrichstr. (Mitte, Kreuzberg)"
+25,"Friesenstr. (Kreuzberg, Tempelhof)"
+25,Friesenstr. (Niederschönhausen)
+25,Frithjofstr.
+25,Fritz-Elsas-Str.
+25,Fritz-Erler-Allee
+25,Fritz-Reuter-Allee
+25,Fritz-Schiff-Weg
+25,Fritz-Werner-Str.
+25,Fritz-Wildung-Str.
+25,Frohnauer Brücke
+25,Frohnauer Str.
+25,Frundsbergstr.
+25,Fuggerstr.
+25,Fuldastr.
+25,Fulhamer Allee
+25,Furkastr.
+25,Futranplatz
+25,Fährweg
+25,Föhrer Str.
+25,Fürbringerstr.
+25,Fürstenberger Str.
+25,Fürstenbrunner Weg
+25,Fürstendamm
+25,Fürstenwalder Allee
+25,Fürstenwalder Damm
+25,Gabrielenstr.
+25,Gallwitzallee
+25,Galvanistr.
+25,Ganghoferstr. (Neukölln)
+25,Gardeschützenweg
+25,Garibaldistr.
+25,Garnisonkirchplatz
+25,Gartenfelder Str.
+25,"Gartenstr. (Mitte, Wedding)"
+25,Gartenufer
+25,Garystr.
+25,Gatower Str.
+25,Gaußstr. (Charlottenburg)
+25,Geflügelsteig
+25,Gehrenseestr.
+25,Gehsener Str.
+25,Geibelstr. (Kreuzberg)
+25,Geisbergstr.
+25,Geiserichstr.
+25,Geißlerpfad
+25,Gelieustr.
+25,Gendarmenmarkt [Jägerstr.]
+25,Gendarmenmarkt [Taubenstr.]
+25,General-Barby-Str.
+25,General-Pape-Str.
+25,Genslerstr.
+25,Genter Str.
+25,Genthiner Str.
+25,George-C.-Marshall-Brücke
+25,Georgenstr. (Mitte)
+25,Georg-Wilhelm-Str.
+25,Geraer Str.
+25,Gerichtstr.
+25,Gerlinger Str.
+25,Germanenstr. (Niederschönhausen)
+25,Germaniastr.
+25,Gersdorfstr.
+25,Gertraudenstr.
+25,Gertrud-Kolmar-Str.
+25,Gervinusstr.
+25,Geschwister-Scholl-Str.
+25,Geusenstr.
+25,Gierkeplatz
+25,Gierkezeile
+25,Giersstr.
+25,Giesebrechtstr.
+25,Giesensdorfer Str.
+25,Gipsstr.
+25,Giselastr.
+25,Gitschiner Str.
+25,Glauchauer Str.
+25,Gleditschstr.
+25,Gleimstr.
+25,Gleiwitzer Str.
+25,Glienicker Brücke
+25,Glienicker Str. (Köpenick)
+25,Glienicker Str. (Wannsee)
+25,Glienicker Weg
+25,Glinkastr.
+25,Glockenblumenweg
+25,Glockenturmstr.
+25,Glogauer Str.
+25,Glärnischweg
+25,Gneisenaustr.
+25,Gneiststr. (Prenzlauer Berg)
+25,Godbersenstr.
+25,Goebenstr.
+25,Goerdelerdamm
+25,Goerdelersteg
+25,Goerzallee
+25,Goethestr. (Charlottenburg)
+25,Goethestr. (Lichtenrade)
+25,Gollanczstr.
+25,Goltzstr. (Lichtenrade)
+25,Goltzstr. (Schöneberg)
+25,Golßener Str.
+25,Gontardstr.
+25,Gontermannstr.
+25,Gorkistr.
+25,Gormannstr.
+25,Gosener Damm
+25,Gosener Landstr.
+25,Goslarer Ufer
+25,Gotenstr. (Schöneberg)
+25,Gothaer Str. (Hellersdorf)
+25,Gotthardstr.
+25,Gottlieb-Dunkel-Str.
+25,Gotzkowskystr.
+25,Goßlerstr. (Friedenau)
+25,Grabbeallee
+25,Grabensprung
+25,Gradestr.
+25,Graefestr.
+25,Grainauer Str.
+25,Granitzstr.
+25,Granseer Str.
+25,Grazer Damm
+25,Greenwichpromenade
+25,Gregoroviusweg
+25,Greifswalder Str. (Mahlsdorf)
+25,Greifswalder Str. (Prenzlauer Berg)
+25,Greinerstr.
+25,Grellstr.
+25,Grenadierstr.
+25,Grenzallee (Neukölln)
+25,Grenzstr. (Wedding)
+25,Griebnitzseepromenade
+25,Griechische Allee
+25,Grimmstr. (Kreuzberg)
+25,Grimmstr. (Lichtenrade)
+25,Grolmanstr.
+25,Grottkauer Str.
+25,Großbeerenstr. (Kreuzberg)
+25,"Großbeerenstr. (Mariendorf, Marienfelde)"
+25,Groß-Berliner Damm
+25,Große Hamburger Str.
+25,Große Leege Str.
+25,Große Seestr.
+25,Große Sternallee
+25,Großer Stern
+25,Großer Weg
+25,Groß-Glienicker Weg
+25,Großgörschenstr.
+25,Groß-Ziethener Chaussee
+25,Groß-Ziethener Str.
+25,Grumbkowstr.
+25,Grunerstr.
+25,Grunewaldstr. (Schöneberg)
+25,Grunewaldstr. (Spandau)
+25,Grunewaldstr. (Steglitz)
+25,Gryphiusstr.
+25,Grünauer Str. (Altglienicke)
+25,Grünauer Str. (Köpenick)
+25,Grünauer Str. (Niederschöneweide)
+25,Grünbergallee
+25,Grünberger Str.
+25,Gründerstr. (Bohnsdorf)
+25,Grüne Trift (Köpenick)
+25,"Grüner Weg (Britz, Buckow)"
+25,Grünstadter Weg
+25,Grüntaler Str.
+25,Grüntenstr.
+25,Gubener Str.
+25,Gubitzstr.
+25,Guerickestr.
+25,Gustav-Adolf-Str.
+25,Gustav-Meyer-Allee
+25,Gutenbergstr. (Kaulsdorf)
+25,Gutschmidtstr.
+25,Gutsmuthsstr.
+25,Gärtnerstr. (Friedrichshain)
+25,Gärtnerstr. (Hohenschönhausen)
+25,Gärtnerstr. (Lichterfelde)
+25,"Görlitzer Park, z. Glogauer u. Falckensteinstr."
+25,Görlitzer Str.
+25,Görlitzer Ufer
+25,Götelstr.
+25,Gößweinsteiner Gang
+25,Gülzower Str.
+25,Güntzelstr.
+25,Gürtelstr. (Friedrichshain)
+25,"Gürtelstr. (Weißensee, Prenzlauer Berg)"
+25,Haarlemer Str.
+25,Haasestr.
+25,Habelschwerdter Allee
+25,Habichtstr. (Konradshöhe)
+25,Hadlichstr.
+25,Hadubrandstr.
+25,Hadubrandweg
+25,Haewererweg
+25,Hafenplatz
+25,Hagelberger Str.
+25,Hagenstr. (Grunewald)
+25,Hainbuchenstr.
+25,Halemweg
+25,Halenseestr.
+25,Halker Zeile
+25,Hallesche Str.
+25,Hallesches Tor
+25,Hallesches Ufer
+25,Halligweg
+25,Halskestr.
+25,Hampsteadstr.
+25,Hanauer Str.
+25,Handjerystr. (Adlershof)
+25,Handjerystr. (Friedenau)
+25,Hannoversche Str.
+25,"Hansastr. (Weißensee, Hohenschönhausen)"
+25,Hansaufer
+25,Hans-Rosenthal-Platz
+25,Hanstedter Weg
+25,Harbigstr.
+25,Hardenbergplatz
+25,Hardenbergstr.
+25,Harzer Str.
+25,Haselhorster Damm
+25,Haselsteig
+25,"Hasenheide (Kreuzberg, Neukölln)"
+25,Hasselwerder Str.
+25,Hauptstr. (Blankenfelde)
+25,Hauptstr. (Buchholz)
+25,Hauptstr. (Hohenschönhausen)
+25,Hauptstr. (Lichtenberg)
+25,Hauptstr. (Rosenthal)
+25,Hauptstr. (Schöneberg)
+25,Hauptweg (Pankow)
+25,Havelchaussee
+25,Haveleck
+25,Havemannstr.
+25,"Haydnstr. (Lichterfelde, Steglitz)"
+25,Haynauer Str.
+25,Heckerdamm
+25,Heckmannufer
+25,Hedwigstr. (Friedenau)
+25,Heerstr. (Kaulsdorf)
+25,"Heerstr. (Spandau, Charlottenburg)"
+25,Heesestr. (Biesdorf)
+25,Heesestr. (Steglitz)
+25,Hegemeisterweg
+25,Heidekampweg
+25,Heidelberger Platz
+25,Heidelberger Str.
+25,Heidestr. (Tiergarten)
+25,Heilbronner Str. (Wilmersdorf)
+25,Heiligendammer Str.
+25,Heiligenseestr.
+25,Heilmannring
+25,Heimstr.
+25,Heinersdorfer Str. (Blankenburg)
+25,Heinersdorfer Str. (Lichterfelde)
+25,Heinersdorfer Str. (Weißensee)
+25,Heinrich-Grüber-Str.
+25,Heinrich-Heine-Platz
+25,Heinrich-Heine-Str.
+25,Heinrich-Mann-Platz
+25,Heinrich-Mann-Str.
+25,Heinrich-Roller-Str.
+25,Heinrich-von-Gagern-Str.
+25,Heinsestr.
+25,Heinz-Galinski-Str.
+25,Helgolandstr.
+25,Helgoländer Ufer
+25,Hellersdorfer Str.
+25,Hellersdorfer Weg
+25,Helmerdingstr.
+25,Helmholtzstr. (Charlottenburg)
+25,Helmstr.
+25,Hennigsdorfer Str.
+25,Henriette-Herz-Platz
+25,Herbartstr.
+25,Herbertstr. (Schöneberg)
+25,Herbert-von-Karajan-Str.
+25,Hermann-Blankenstein-Str.
+25,Hermann-Hesse-Str.
+25,Hermannplatz
+25,Hermannstr. (Neukölln)
+25,Hermsdorfer Damm
+25,Hermsdorfer Str. (Wittenau)
+25,Herrfurthplatz
+25,Herrfurthstr. (Neukölln)
+25,Hertabrücke
+25,Hertastr. (Neukölln)
+25,Hertelstr.
+25,Herthaplatz
+25,Herthastr. (Grunewald)
+25,Hertzallee
+25,Hertzbergstr.
+25,Hertzstr.
+25,Herzbergstr.
+25,Hessische Str.
+25,Hilbertstr.
+25,Hildburghauser Str.
+25,Hildebrandstr.
+25,Hildegard-Jadamowitz-Str.
+25,Hildegardstr.
+25,Hindenburgdamm
+25,Hinter dem Gießhaus
+25,Hinter dem Kurpark
+25,Hinter der Katholischen Kirche
+25,Hinter der Mühle
+25,Hirschberger Str.
+25,Hirschgartenstr.
+25,Hirzerweg
+25,Hobrechtsfelder Chaussee
+25,Hochbaumstr.
+25,Hochkönigweg
+25,Hochspannungsweg
+25,Hochstr. (Wedding)
+25,Hoeppnerstr.
+25,Hoffmannstr. (Treptow)
+25,Hofjägerallee (Tiergarten)
+25,Hofzeichendamm
+25,Hohefeldstr.
+25,Hohenfriedbergstr.
+25,Hohenschönhauser Str. (Hohenschönhausen)
+25,Hohenschönhauser Str. (Lichtenberg)
+25,Hohenschönhauser Weg (Malchow)
+25,Hohenstaufenstr.
+25,Hohenzollerndamm
+25,Hohenzollernring
+25,Holländerstr.
+25,Holteistr.
+25,Holtzendorffstr.
+25,Holzhauser Str.
+25,Holzmarktstr.
+25,Homeyerstr.
+25,Hoppendorfer Str.
+25,Hoppestr.
+25,Horber Str.
+25,Hornstr.
+25,Horstwalder Str.
+25,Hosemannstr. (Prenzlauer Berg)
+25,Hubertusallee
+25,Hufelandstr.
+25,Hugo-Cassirer-Str.
+25,Hultschiner Damm
+25,Humboldtstr. (Reinickendorf)
+25,Hundekehlestr.
+25,Hundsfelder Str.
+25,Hundsteinweg
+25,Hussitenstr.
+25,Huttenstr. (Tiergarten)
+25,Hämmerlingstr.
+25,Hänselstr.
+25,Hödurstr.
+25,Hönower Str. (Karlshorst)
+25,Hönower Str. (Kaulsdorf)
+25,Hönower Weg
+25,Hügelschanze
+25,Hüttenweg
+25,Iburger Ufer
+25,Ida-Wolff-Platz
+25,Ihnestr.
+25,Ilsestr. (Neukölln)
+25,Im Bauernbusch
+25,Im Dol
+25,Im Domstift
+25,Im Gehege
+25,Im Haselwinkel
+25,Im Jagen (Grunewald)
+25,Im Saatwinkel
+25,Imbrosweg
+25,Imchenallee
+25,Immanuelkirchstr.
+25,In den Ministergärten
+25,Indira-Gandhi-Str.
+25,Ingolstädter Str.
+25,Innsbrucker Str.
+25,Innstr.
+25,Innungsstr.
+25,Inselstr. (Mitte)
+25,Inselstr. (Nikolassee)
+25,Interessentenweg
+25,Invalidensiedlung
+25,Invalidenstr.
+25,Irenenstr.
+25,Jacobsenweg
+25,Jaczostr.
+25,Jafféstr.
+25,Jahnstr. (Britz)
+25,Jahnstr. (Kreuzberg)
+25,Jakob-Kaiser-Platz
+25,Jastrower Weg
+25,Jenaer Str. (Hellersdorf)
+25,Jerusalemer Str.
+25,Jesse-Owens-Allee
+25,Joachim-Friedrich-Str.
+25,Joachimstaler Str.
+25,Joachimstr. (Mitte)
+25,Johann-Georg-Str.
+25,Johannisberger Str.
+25,Johannisstr.
+25,Johannisthaler Chaussee
+25,Johanniterstr.
+25,John-Foster-Dulles-Allee
+25,John-Schehr-Str.
+25,Josef-Nawrocki-Str.
+25,Josef-Orlopp-Str.
+25,Joseph-Haydn-Str.
+25,Judith-Auer-Str.
+25,Jungfernheideweg
+25,Jungfernsteig
+25,Jungstr.
+25,Jupiterstr. (Neukölln)
+25,Jägerstr. (Mitte)
+25,Jörsstr.
+25,Jülicher Str.
+25,Jüterboger Str.
+25,Kadiner Str.
+25,Kaiserdamm
+25,Kaiser-Friedrich-Str.
+25,Kaiserin-Augusta-Allee
+25,Kaiserin-Augusta-Str.
+25,Kaiserkorso
+25,Kaiserstr. (Mariendorf)
+25,Kaiser-Wilhelm-Platz
+25,Kaiser-Wilhelm-Str.
+25,Kalischer Str.
+25,Kalmanweg
+25,Kamener Weg
+25,Kamenzer Damm
+25,Kanalstr. (Hessenwinkel)
+25,Kanalstr. (Rudow)
+25,Kantstr. (Charlottenburg)
+25,Kapweg
+25,Karl-Kunger-Str.
+25,Karl-Lade-Str.
+25,Karl-Liebknecht-Str.
+25,Karl-Marx-Allee
+25,Karl-Marx-Platz
+25,Karl-Marx-Str.
+25,Karlsgartenstr.
+25,Karlshorster Str. (Lichtenberg)
+25,Karlshorster Str. (Niederschöneweide)
+25,Karolinenstr. (Tegel)
+25,Karower Chaussee
+25,Karower Damm
+25,Karower Str. (Buch)
+25,Karpfenteichstr.
+25,Karwendelstr.
+25,Kaskelstr.
+25,Kastanienallee (Hellersdorf)
+25,"Kastanienallee (Prenzlauer Berg, Mitte)"
+25,Kastanienallee (Rosenthal)
+25,Katharina-Heinroth-Ufer
+25,Katzbachstr.
+25,Katzengraben
+25,Katzengrabenbrücke
+25,Kaulbachstr. (Lankwitz)
+25,Kaulsdorfer Str.
+25,"Keithstr. (Schöneberg, Tiergarten)"
+25,Kemberger Str.
+25,Keplerstr. (Charlottenburg)
+25,Kestenzeile
+25,Kettinger Str.
+25,Kiautschoustr.
+25,Kiefheider Weg
+25,Kiefholzstr.
+25,Kiehlufer
+25,Kieler Str. (Mitte)
+25,Kieler Str. (Steglitz)
+25,Kielingerstr.
+25,Kienbergstr.
+25,Kienhorststr.
+25,Kienitzer Str.
+25,Kietzer Str.
+25,Kirchhainer Damm
+25,Kirchhofstr. (Neukölln)
+25,Kirchstr. (Köpenick)
+25,Kirchstr. (Tiergarten)
+25,Kirschweg
+25,Kisselnallee
+25,Kissingenstr.
+25,Kitzingstr.
+25,Kladower Damm
+25,Klamannstr.
+25,Klausenpaß
+25,Kleine Lindenstr.
+25,Kleine Präsidentenstr.
+25,Kleineweg
+25,Kleiststr. (Schöneberg)
+25,Klemkestr.
+25,Klingelhöferstr.
+25,Klingsorstr.
+25,Klopstockstr. (Tiergarten)
+25,Klosterbuschweg
+25,Klosterstr. (Spandau)
+25,Kluckstr.
+25,Knaackstr.
+25,Knausstr. (Steglitz)
+25,"Knesebeckstr. (Charlottenburg, Wilmersdorf)"
+25,Kniprodestr.
+25,Knobelsdorffstr.
+25,Knollstr.
+25,Kochstr. (Kreuzberg)
+25,Koenigsallee
+25,Kohlfurter Str.
+25,Kohlhasenbrücker Str.
+25,Kohlisstr.
+25,Kollwitzstr.
+25,Kolonie Albrechtshöhe
+25,Kolonie Birkholz
+25,Koloniestr. (Wedding)
+25,Kolonnenstr.
+25,Kommandantenstr. (Kreuzberg)
+25,Komturstr.
+25,Konrad-Adenauer-Str.
+25,Konradshöher Str.
+25,Konrad-Wolf-Str.
+25,Konstanzer Str.
+25,Kopenhagener Str. (Prenzlauer Berg)
+25,"Kopenhagener Str. (Reinickendorf, Rosenthal)"
+25,Kopernikusstr. (Friedrichshain)
+25,Kopfstr.
+25,Koppelweg (Britz)
+25,Koppenplatz
+25,Koppenstr.
+25,Kornradenstr.
+25,Kottbusser Damm
+25,Kottbusser Str.
+25,Kottmeierstr.
+25,Krampnitzer Weg
+25,Kranzallee
+25,Krausenstr.
+25,Krausnickstr.
+25,Krautstr.
+25,Krefelder Str.
+25,Kressenweg
+25,Kreuzbergstr.
+25,Kreuznacher Str.
+25,Kreuzstr. (Pankow)
+25,Kronenstr.
+25,Kronprinzenbrücke
+25,Kronprinzessinnenweg
+25,Krontaler Str.
+25,Kruckenbergstr.
+25,Kruggasse
+25,Krugstege
+25,Krumme Str. (Charlottenburg)
+25,Kruppstr.
+25,Krügerstr. (Prenzlauer Berg)
+25,Kufsteiner Str.
+25,Kulmer Str.
+25,Kunz-Buntschuh-Str.
+25,Kurfürstendamm
+25,Kurfürstenstr. (Mariendorf)
+25,"Kurfürstenstr. (Tiergarten, Schöneberg)"
+25,Kurfürstenweg
+25,Kurstr. (Mitte)
+25,Kurt-Schumacher-Damm
+25,Kynaststr.
+25,Köbisstr.
+25,Kölner Damm
+25,Königin-Elisabeth-Str.
+25,Königin-Luise-Str.
+25,Königsberger Str.
+25,Königsheideweg
+25,Königstr. (Wannsee)
+25,Königstr. (Zehlendorf)
+25,Königstuhlweg
+25,Königsweg (Grunewald)
+25,Königsweg (Zehlendorf)
+25,Köpenicker Allee
+25,Köpenicker Chaussee
+25,Köpenicker Landstr.
+25,Köpenicker Str. (Altglienicke)
+25,Köpenicker Str. (Biesdorf)
+25,"Köpenicker Str. (Kreuzberg, Mitte)"
+25,Köpenicker Str. (Rudow)
+25,Körnerstr. (Steglitz)
+25,Körtestr.
+25,Körtingstr.
+25,"Köthener Str. (Kreuzberg, Tiergarten)"
+25,Köthener Str. (Marzahn)
+25,Kühnemannstr.
+25,Künheimer Weg
+25,Lachmannstr.
+25,Ladenbergstr.
+25,Lahnstr.
+25,Landecker Str.
+25,Landjägerstr.
+25,Landsberger Allee
+25,Landshuter Str. (Schöneberg)
+25,Lange Str.
+25,Lange Str. [vor Kaufhof]
+25,Langenscheidtstr.
+25,Langer Weg (Biesdorf)
+25,Langhansstr.
+25,Lanker Str.
+25,Lankwitzer Str. (Lichterfelde)
+25,Lankwitzer Str. (Mariendorf)
+25,Lanzendorfer Weg
+25,Laubacher Str.
+25,Lauenburger Str.
+25,Lausitzer Platz
+25,Lea-Grundig-Str.
+25,Leberstr.
+25,Lebuser Str.
+25,Legiendamm
+25,Lehderstr.
+25,Lehrter Str.
+25,Leibnizstr.
+25,Leinestr.
+25,Leipziger Str.
+25,Lenaustr. (Neukölln)
+25,Lenbachstr. (Friedrichshain)
+25,Lengeder Str.
+25,Lennéstr.
+25,Lentzeallee
+25,Leonhardtstr.
+25,Leonhardyweg
+25,Leonorenstr.
+25,Lepsiusstr.
+25,Lessingstr. (Lichtenrade)
+25,Lessingstr. (Rosenthal)
+25,Lessingstr. (Tiergarten)
+25,Lettberger Str.
+25,Letterhausweg
+25,Leuschnerdamm
+25,Levetzowstr.
+25,Lewishamstr.
+25,Leykestr.
+25,Libauer Str.
+25,Liberdastr.
+25,Lichtenberger Str.
+25,Lichtenrader Damm
+25,Lichtensteinallee
+25,Lichterfelder Ring
+25,Liebenwalder Str. (Hohenschönhausen)
+25,Liepnitzstr.
+25,Liesenstr.
+25,Lietzenburger Str.
+25,Ligusterweg
+25,Lilienthalstr.
+25,Limastr.
+25,Limonenstr.
+25,Lindauer Allee
+25,Lindenberger Str. (Wartenberg)
+25,Lindenberger Weg (Buch)
+25,Lindenstr. (Hessenwinkel)
+25,Lindenstr. (Kaulsdorf)
+25,Lindenstr. (Kreuzberg)
+25,Lindenstr. (Köpenick)
+25,Lindenstr. (Lichterfelde)
+25,Lindenstr. (Schmöckwitz)
+25,Lindenthaler Allee
+25,Lindower Str.
+25,Linienstr.
+25,Linkstr.
+25,Lipschitzallee
+25,Lise-Meitner-Str.
+25,Lissabonallee
+25,Littenstr.
+25,Lloyd-G.-Wells-Str.
+25,Lobeckstr.
+25,Loerkesteig
+25,Loewenhardtdamm
+25,Lohmeyerstr.
+25,Lohmühlenstr.
+25,Londoner Str.
+25,Lorenzstr.
+25,Lortzingstr. (Lichtenrade)
+25,Loschmidtstr.
+25,Louis-Lewin-Str.
+25,Luckauer Str.
+25,Ludolfingerplatz
+25,Ludwigkirchstr.
+25,Ludwigsfelder Str. (Zehlendorf)
+25,Luisenplatz
+25,Luisenstr. (Mitte)
+25,Luise-Zietz-Str.
+25,Lutherstr. (Hessenwinkel)
+25,Lutoner Str.
+25,Luxemburger Str.
+25,Luzerner Str.
+25,Lyckallee
+25,Lynarstr. (Wedding)
+25,Löhleinstr.
+25,Lötzener Allee
+25,Löwenberger Str.
+25,Lückstr.
+25,Lüdersstr.
+25,Lüneburger Str.
+25,Lützowplatz
+25,Lützowstr. (Tiergarten)
+25,Lützowufer
+25,Maaßenstr.
+25,Machnower Str. (Zehlendorf)
+25,Magazinstr. (Mitte)
+25,Magistratsweg
+25,Mahlsdorfer Str.
+25,Maienwerder Weg
+25,Maiglöckchenstr.
+25,Mainzer Str. (Friedrichshain)
+25,Malchower Chaussee
+25,Malchower Str.
+25,Malchower Weg
+25,Malmöer Str.
+25,Malteserstr.
+25,Manfred-von-Richthofen-Str.
+25,Mannheimer Str. (Wilmersdorf)
+25,Mansteinstr.
+25,Manteuffelstr. (Kreuzberg)
+25,Manteuffelstr. (Lichterfelde)
+25,Manteuffelstr. (Tempelhof)
+25,Marathonallee
+25,Marchlewskistr.
+25,Marchstr.
+25,Marheinekeplatz
+25,Mariannenplatz
+25,Mariannenstr. (Kreuzberg)
+25,Mariannenstr. (Lichterfelde)
+25,Marie-Curie-Allee
+25,Marie-Elisabeth-Lüders-Str.
+25,Marienburger Str.
+25,Mariendorfer Damm
+25,Mariendorfer Weg
+25,Marienfelder Allee
+25,Marienfelder Chaussee
+25,Markgrafendamm
+25,Markgrafenstr. (Frohnau)
+25,"Markgrafenstr. (Kreuzberg, Mitte)"
+25,Markgrafenstr. (Mahlsdorf)
+25,Markomannenstr.
+25,Marksburgstr.
+25,Markstr.
+25,Markt
+25,Marktstr. (Lichtenberg)
+25,Marlene-Dietrich-Platz
+25,Martin-Heydert-Str.
+25,Martin-Luther-Str. (Schöneberg)
+25,Martin-Wagner-Ring
+25,Marzahner Chaussee
+25,Marzahner Promenade
+25,Marzahner Str.
+25,Masurenallee
+25,Matkowskystr.
+25,Matterhornstr.
+25,Matthäusweg
+25,Mauerstr. (Mitte)
+25,Maulbeerallee
+25,Maulbronner Ufer
+25,Maximilian-Kaller-Str.
+25,Maximiliankorso
+25,Maximilianstr. (Pankow)
+25,Maxstr. (Wedding)
+25,Maybachufer
+25,Maßmannstr.
+25,Mecklenburgische Str.
+25,Medebacher Weg
+25,Mehlitzstr.
+25,Mehringdamm
+25,Mehringplatz
+25,Mehrower Allee
+25,Meißner Weg
+25,Melanchthonstr. (Tiergarten)
+25,Melchiorstr.
+25,Memhardstr.
+25,Meraner Str.
+25,Mergenthalerring
+25,Mescheder Weg
+25,Messedamm
+25,Methfesselstr.
+25,Metzer Str. (Prenzlauer Berg)
+25,Meyerbeerstr.
+25,Michaelkirchplatz
+25,Michaelkirchstr.
+25,Michelangelostr.
+25,Mierendorffstr.
+25,Miraustr.
+25,Mittelstr. (Spandau)
+25,Mittelweg (Neukölln)
+25,Mittenwalder Str. (Kreuzberg)
+25,Modersohnstr.
+25,Mohrenstr.
+25,Mohriner Allee
+25,Mollstr.
+25,Moltkestr.
+25,Mommsenstr. (Charlottenburg)
+25,Monbijoustr.
+25,Monopolstr.
+25,Monumentenstr.
+25,Moorlakeweg
+25,Morgensternstr.
+25,Moritzplatz
+25,Moritzstr. (Spandau)
+25,Morsbronner Weg
+25,Morusstr.
+25,Motardstr.
+25,Motzener Str.
+25,Motzstr.
+25,Mozartstr. (Lankwitz)
+25,Mozartstr. (Lichtenrade)
+25,Munsterdamm
+25,Murellenweg
+25,Mussehlstr.
+25,Myslowitzer Str.
+25,Mädewalder Weg
+25,Märkische Allee
+25,Märkische Allee -- Allee der Kosmonauten
+25,Märkische Allee -- Alt-Biesdorf
+25,Märkische Allee -- Alt-Friedrichsfelde
+25,Märkische Allee -- Landsberger Allee
+25,Märkischer Platz
+25,Märkisches Ufer
+25,Möckernstr.
+25,Möllendorffstr.
+25,Möllhausenufer
+25,Mönchmühler Str.
+25,Müggelbergallee
+25,Müggelheimer Damm
+25,Müggelheimer Str.
+25,Müggelschlößchenweg
+25,Müggelseedamm
+25,Müggelwerderweg
+25,Mühlendamm
+25,Mühlenstr. (Buchholz)
+25,Mühlenstr. (Friedrichshain)
+25,Mühlenstr. (Lankwitz)
+25,Mühlenstr. (Pankow)
+25,Mühlenstr. (Zehlendorf)
+25,Mühlenweg (Rahnsdorf)
+25,Mühsamstr.
+25,Müller-Breslau-Str.
+25,Müllerstr. (Wedding)
+25,Münchener Str. (Schöneberg)
+25,Münsterlandstr.
+25,Münzstr.
+25,Mürwiker Str.
+25,Nachodstr.
+25,Nahmitzer Damm
+25,Nalepastr.
+25,Namslaustr.
+25,Nassauische Str.
+25,Nauener Str.
+25,Naumannstr.
+25,Naumburger Str.
+25,Nazarethkirchstr.
+25,Neheimer Str.
+25,Nennhauser Damm
+25,Nesselweg
+25,Nestorstr.
+25,Nettelbeckplatz/Gerichtstr.
+25,Neubrücker Str.
+25,Neudecker Weg
+25,Neue Bahnhofstr.
+25,Neue Christstr.
+25,Neue Daumstr.
+25,Neue Filandastr.
+25,Neue Grottkauer Str.
+25,Neue Hochstr.
+25,Neue Jakobstr.
+25,Neue Kantstr.
+25,Neue Kreisstr.
+25,Neue Krugallee
+25,Neue Kulmer Str.
+25,Neue Promenade
+25,Neue Roßstr.
+25,Neue Schönhauser Str.
+25,Neuendorfer Str.
+25,Neuer Feldweg
+25,Neuer Schildhornweg
+25,Neues Ufer
+25,Neuhelgoländer Weg
+25,Neuköllner Str.
+25,Neuköllnische Allee
+25,Neumannstr.
+25,Neustädtische Kirchstr.
+25,Nibelungenstr. (Wannsee)
+25,Niederbarnimstr.
+25,Niederkirchner Str.
+25,Niederneuendorfer Allee
+25,Niederwallstr.
+25,Niederwallstr. - Spittelmarkt
+25,Niemetzstr.
+25,Nikolskoer Weg
+25,Nitzwalder Str.
+25,Nobelstr.
+25,Nonnendammallee
+25,Nordbahnstr. (Wedding)
+25,Nordpromenade
+25,Nordring
+25,Nordufer
+25,Normannenstr. (Lichtenberg)
+25,Norwegerstr.
+25,Nossener Str.
+25,Nuthestr.
+25,Nymphenufer
+25,Nöldnerplatz
+25,Nöldnerstr.
+25,"Nürnberger Str. (Wilmersdorf, Charlottenburg)"
+25,Obentrautstr.
+25,Oberbaumbrücke
+25,Oberbaumstr.
+25,Oberfeldstr.
+25,Oberhofer Platz
+25,Oberhofer Weg
+25,Oberlandstr.
+25,Oberspreestr.
+25,Obersteiner Weg
+25,Oberwallstr.
+25,Odenwaldstr.
+25,Oderberger Str.
+25,Oderbruchstr.
+25,Odernheimer Str.
+25,Oderstr. (Neukölln)
+25,Ohlauer Str.
+25,Olbersstr.
+25,Ollenhauerstr.
+25,Olympische Str.
+25,Onkel-Tom-Str.
+25,Ontarioseestr.
+25,Oppelner Str.
+25,Oranienburger Chaussee
+25,Oranienburger Str. (Mitte)
+25,Oranienburger Str. (Wittenau)
+25,Oraniendamm
+25,Oranienplatz
+25,Oranienstr.
+25,Orankestr.
+25,Orankestrand
+25,Orankeweg
+25,Ordensmeisterstr.
+25,Ortnitstr.
+25,Ortolanweg
+25,Ortolfstr.
+25,Osdorfer Str.
+25,Oskarstr.
+25,Osloer Str.
+25,Osnabrücker Str.
+25,Ossietzkystr.
+25,Ostburger Weg
+25,Ostendstr. (Oberschöneweide)
+25,Osteweg
+25,Ostpreußendamm
+25,Ostritzer Str.
+25,Ostseestr.
+25,Otisstr.
+25,Otto-Braun-Str.
+25,Ottomar-Geschke-Str.
+25,Otto-Marquardt-Str.
+25,Ottostr.
+25,Otto-Suhr-Allee
+25,Otto-von-Bismarck-Str.
+25,Pablo-Neruda-Str.
+25,Pablo-Picasso-Str.
+25,Pacelliallee
+25,Paderborner Str.
+25,Palisadenstr.
+25,Pallasstr.
+25,Pankgrafenstr. (Karow)
+25,Pankower Allee
+25,Pankstr. (Wedding)
+25,Pannierstr.
+25,Pappelallee (Prenzlauer Berg)
+25,Paradestr.
+25,Parchimer Allee
+25,Parchwitzer Str.
+25,Paretzer Str.
+25,Parforceweg
+25,Pariser Platz
+25,Pariser Str. (Mahlsdorf)
+25,Pariser Str. (Wilmersdorf)
+25,Parkaue
+25,Parkstr. (Pankow)
+25,Parkstr. (Weißensee)
+25,"Parkweg (Treptow, Friedrichshain)"
+25,Parnemannweg
+25,Pasedagplatz
+25,Pasewalker Str. (Buchholz)
+25,Pasinger Str.
+25,Passauer Str. (Schöneberg)
+25,Passenheimer Str.
+25,Pastor-Niemöller-Platz
+25,Paulinenauer Str.
+25,Paul-Junius-Str.
+25,Paul-Lincke-Ufer
+25,Paul-Löbe-Str.
+25,Paulsborner Str.
+25,Paul-Schmidt-Str.
+25,Paul-Schneider-Str.
+25,Paul-Schwarz-Promenade
+25,Paulsternstr.
+25,Paulstr.
+25,Pechsteinstr.
+25,Pekrunstr.
+25,Perleberger Str.
+25,Persiusstr.
+25,Pestalozzistr. (Charlottenburg)
+25,Petersburger Str.
+25,Pettenkoferstr.
+25,Petunienweg
+25,Pfarrer-Heß-Weg
+25,Pfarrstr.
+25,Pfaueninselchaussee
+25,Pflügerstr.
+25,Pichelsdorfer Str.
+25,Piesporter Str.
+25,Pilatusweg
+25,Pintschallee
+25,Pionierstr.
+25,Pistoriusstr.
+25,Planckstr.
+25,Planitzstr.
+25,Plantagenstr. (Steglitz)
+25,Planufer
+25,Platanenallee
+25,Platanenstr.
+25,Platz am Wilden Eber
+25,Platz der Luftbrücke
+25,Platz der Vereinten Nationen
+25,Platz des 18. März
+25,Platz des 4. Juli
+25,Plauener Str.
+25,Plesser Str.
+25,Plutoweg
+25,Podbielskiallee
+25,Poelchaustr.
+25,Potsdamer Chaussee (Gatow)
+25,Potsdamer Chaussee (Zehlendorf)
+25,Potsdamer Platz
+25,Potsdamer Str. (Lichtenrade)
+25,Potsdamer Str. (Schöneberg)
+25,Potsdamer Str. (Zehlendorf)
+25,Pottensteiner Weg
+25,Prager Platz
+25,Prager Str.
+25,Prellerweg
+25,Prendener Str.
+25,Prenzlauer Allee
+25,Prenzlauer Berg
+25,Prenzlauer Chaussee
+25,Prenzlauer Promenade
+25,Preußenallee
+25,Preysingstr.
+25,Prierosser Str.
+25,Priesterstege
+25,Priesterweg (Schöneberg)
+25,Prinzenallee
+25,Prinzenstr. (Kreuzberg)
+25,Prinzessinnenstr. (Kreuzberg)
+25,Prinzessinnenstr. (Lichtenrade)
+25,Prinzregentenstr.
+25,"Promenade, am Teltowkanal"
+25,Proskauer Str.
+25,"Provinzstr. (Reinickendorf, Wedding)"
+25,Prühßstr.
+25,Puchanstr.
+25,Puschkinallee
+25,Putlitzstr.
+25,Päwesiner Weg
+25,Pölnitzweg
+25,Pücklerstr. (Dahlem)
+25,Quarzweg
+25,Quedlinburger Str. (Charlottenburg)
+25,Quermatenweg
+25,Quickborner Str.
+25,Quitzowstr.
+25,Quäkerstr.
+25,Radelandstr.
+25,Rahel-Varnhagen-Promenade
+25,Rankestr.
+25,Raoul-Wallenberg-Str.
+25,Rapsweg
+25,Rathausstr. (Mariendorf)
+25,Rathausstr. (Mitte)
+25,Rathenaustr.
+25,Rathenower Str.
+25,Rathenower Str. (Tiergarten)
+25,Ratiborstr.
+25,Rauchstr. (Spandau)
+25,Rauenthaler Str.
+25,Raumerstr.
+25,Rauweilersteig
+25,Ravensberger Str.
+25,Rebenweg
+25,Regattastr.
+25,"Regensburger Str. (Schöneberg, Wilmersdorf)"
+25,Reginhardstr.
+25,Reichenberger Str. (Kreuzberg)
+25,Reichpietschufer
+25,Reichsstr.
+25,Reichstagufer
+25,Reichweindamm
+25,Reinhardtstr. (Mitte)
+25,Reinickendorfer Str.
+25,Reißeckstr.
+25,Rembrandtstr. (Friedenau)
+25,Rennbahnstr.
+25,Residenzstr.
+25,Reuterstr. (Neukölln)
+25,Reutlinger Str.
+25,Revaler Str.
+25,Rheinbabenallee
+25,Rheinsteinstr.
+25,Rheinstr.
+25,Rhenaniastr.
+25,"Rhinstr. (Marzahn, Friedrichsfelde)"
+25,Rialtoring
+25,Ribnitzer Str.
+25,Richardplatz
+25,Richard-Sorge-Str.
+25,Richardstr.
+25,Richard-Tauber-Damm
+25,Richard-Wagner-Str.
+25,"Richterstr. (Altglienicke, Bohnsdorf)"
+25,Ridbacher Str.
+25,Riemeisterstr.
+25,Riesaer Str.
+25,Riesestr.
+25,Rigaer Str.
+25,Ringbahnstr. (Tempelhof)
+25,Ringslebenstr.
+25,Ringstr. (Lichterfelde)
+25,Ringstr. (Tempelhof)
+25,Ritterfelddamm
+25,Ritterstr.
+25,Rixdorfer Str. (Mariendorf)
+25,Rixdorfer Str. (Niederschöneweide)
+25,Robert-Lück-Str.
+25,Robert-Siewert-Str.
+25,Robert-Uhrig-Str.
+25,Robinienweg
+25,Rochowstr.
+25,Rodelbergweg
+25,Roedenbecksteig
+25,Roedernallee
+25,Roedernstr. (Mahlsdorf)
+25,Roelckestr.
+25,Rohdestr.
+25,Rohrbruchwiesen I-III
+25,Rohrdamm
+25,Rohrsängersteig
+25,Romain-Rolland-Str.
+25,Rominter Allee
+25,Rosa-Luxemburg-Str.
+25,Roseggerstr. (Neukölln)
+25,Rosenfelder Ring
+25,Rosenfelder Str.
+25,Rosenthaler Str. (Mitte)
+25,Rosenthaler Weg
+25,Rosestr.
+25,Rostocker Str. (Hohenschönhausen)
+25,Rote Chaussee
+25,Rothenbachstr.
+25,Rothenburgstr.
+25,Rotherstr.
+25,Roßlauer Str.
+25,Rubensstr. (Friedenau)
+25,Rudolstädter Str.
+25,Rudower Chaussee
+25,Rudower Str. (Altglienicke)
+25,Rudower Str. (Buckow)
+25,Rufacher Weg
+25,Ruhlebener Str.
+25,Ruhwaldweg
+25,Rummelsburger Landstr.
+25,Rummelsburger Str. (Friedrichsfelde)
+25,Rummelsburger Str. (Köpenick)
+25,Rungiusstr.
+25,Ruppiner Chaussee
+25,Rupprechtstr.
+25,Ruschestr.
+25,Rägeliner Str.
+25,Röbellweg
+25,Röblingstr.
+25,Rönnestr.
+25,Röntgenbrücke
+25,Röntgenstr.
+25,Rüdersdorfer Str.
+25,Rüdesheimer Str. (Wilmersdorf)
+25,Rüdigerstr. (Lichtenberg)
+25,Rügener Str.
+25,Saalestr.
+25,Saarbrücker Str.
+25,Saargemünder Str.
+25,Saarstr.
+25,Saatwinkler Damm
+25,Saatwinkler Steg
+25,Sachsendamm
+25,Sachtlebenstr.
+25,Sakrower Kirchweg
+25,Sakrower Landstr.
+25,Salvador-Allende-Str.
+25,Salzbrunner Str.
+25,Salzburger Str.
+25,Salzhof
+25,Salzufer
+25,Samoastr.
+25,Sandhauser Str.
+25,Sandinostr.
+25,Sangeallee
+25,Sangerhauser Weg
+25,Saubuchtweg
+25,Savignyplatz
+25,Schackelsterstr.
+25,Schaffhausener Str.
+25,Schaperstr.
+25,Schappachstr.
+25,Scharfe Lanke
+25,Scharfenberger Str.
+25,Scharnhorststr. (Mitte)
+25,Scharnweberstr. (Friedrichshain)
+25,"Scharnweberstr. (Reinickendorf, Wedding)"
+25,Scharounstr.
+25,Scheelestr.
+25,Scheffelstr.
+25,Scheidemannstr.
+25,Schererstr.
+25,Scheringstr.
+25,Schichauweg
+25,Schierker Str.
+25,Schiffbauerdamm
+25,Schildhornstr.
+25,Schildhornweg
+25,Schildower Str. (Blankenfelde)
+25,Schildower Str. (Hermsdorf)
+25,Schillerpromenade (Neukölln)
+25,Schillerstr. (Charlottenburg)
+25,Schillerstr. (Niederschönhausen)
+25,Schillerstr. (Rosenthal)
+25,Schillingstr. (Mitte)
+25,Schillstr.
+25,Schirwindter Allee
+25,Schivelbeiner Str.
+25,Schleiermacherstr.
+25,Schlesische Str.
+25,Schlichtallee
+25,Schlosserweg
+25,Schloßallee
+25,Schloßplatz
+25,Schloßstr. (Charlottenburg)
+25,Schloßstr. (Steglitz)
+25,Schlüterstr.
+25,Schmargendorfer Str.
+25,Schmausstr.
+25,Schmidt-Knobelsdorf-Str.
+25,Schmidt-Ott-Str.
+25,Schmiljanstr.
+25,Schmöckwitzer Damm
+25,Schmöckwitzwerdersteg
+25,Schneeglöckchenstr.
+25,Schneehuhnweg
+25,Schnellerstr.
+25,Schorfheidestr. (Wittenau)
+25,Schorlemerallee
+25,Schottmüllerstr.
+25,Schottstr.
+25,Schreiberhauer Str.
+25,Schubertstr. (Köpenick)
+25,Schubertstr. (Lichterfelde)
+25,Schuckertdamm
+25,Schudomastr.
+25,Schulenburgring
+25,Schulenburgstr. (Spandau)
+25,Schulstr. (Wedding)
+25,Schulze-Boysen-Str.
+25,Schulze-Delitzsch-Platz
+25,Schulzendorfer Str. (Bohnsdorf)
+25,Schulzendorfer Str. (Heiligensee)
+25,Schulzendorfer Str. (Hermsdorf)
+25,Schulzendorfer Str. (Wedding)
+25,Schulzestr.
+25,Schumannstr.
+25,Schustehrusstr.
+25,Schwanebecker Chaussee
+25,Schwarzbacher Str.
+25,Schwarzer Weg (Grunewald)
+25,Schwarzer Weg (Oberschöneweide)
+25,Schwarzer Weg (Tegel)
+25,Schwatlostr.
+25,Schwedenstr.
+25,"Schwedter Str. (Mitte, Prenzlauer Berg)"
+25,Schwertlilienweg
+25,Schwiebusser Str.
+25,Schäferstr. (Wannsee)
+25,Schätzelbergstr.
+25,Schöneberger Str. (Kreuzberg)
+25,Schöneberger Str. (Steglitz)
+25,Schöneberger Str. (Tempelhof)
+25,Schöneberger Ufer
+25,Schönefelder Chaussee
+25,Schönefelder Str.
+25,Schöneicher Str. (Friedrichshagen)
+25,Schönerlinder Chaussee
+25,Schönerlinder Str. (Buchholz)
+25,Schönerlinder Weg
+25,Schönfließer Str. (Frohnau)
+25,Schönfließer Str. (Prenzlauer Berg)
+25,Schönhauser Allee
+25,Schönhauser Str. (Buchholz)
+25,Schönhauser Str. (Rosenthal)
+25,Schönholzer Str. (Pankow)
+25,Schönholzer Weg
+25,Schönleinstr.
+25,Schönower Str.
+25,Schönwalder Allee
+25,Schönwalder Str. (Spandau)
+25,Schönwalder Str. (Wedding)
+25,Schütte-Lanz-Str.
+25,Schützallee
+25,Schützenstr. (Mitte)
+25,Schützenstr. (Niederschönhausen)
+25,Schützenstr. (Steglitz)
+25,Sebastianstr.
+25,Sedanstr. (Steglitz)
+25,Seddiner Str.
+25,Seebadstr. (Hermsdorf)
+25,Seeburger Str.
+25,Seeburger Weg
+25,Seegefelder Str.
+25,Seegefelder Weg
+25,Seehauser Str.
+25,Seehofstr.
+25,Seelenbinderstr.
+25,Seesener Str.
+25,"Seestr. (Wedding, Charlottenburg, Tiergarten)"
+25,Seeuferstr.
+25,Segitzdamm
+25,Seidelbastweg
+25,Seidelstr.
+25,Selbitzer Str.
+25,Selgenauer Weg
+25,Sellerstr.
+25,Sembritzkistr.
+25,Semmelländerweg
+25,Semmelweisstr.
+25,Semperstr.
+25,Senefelderstr.
+25,Sewanstr.
+25,Seydelstr.
+25,Seydlitzstr. (Lankwitz)
+25,Seydlitzstr. (Tiergarten)
+25,Sickingenstr.
+25,Siegfriedstr. (Lichtenberg)
+25,Siegfriedstr. (Neukölln)
+25,Siegmunds Hof
+25,Siemensdamm
+25,Siemensstr. (Lankwitz)
+25,Siemensstr. (Oberschöneweide)
+25,Siemensstr. (Tiergarten)
+25,Sieversufer
+25,Sigismundkorso
+25,Sigismundstr.
+25,Sigmaringer Str.
+25,Sigridstr.
+25,Silbersteinstr.
+25,Simon-Dach-Str.
+25,Simplonstr.
+25,Simsonweg
+25,Singerstr.
+25,Siriusstr. (Altglienicke)
+25,Skalitzer Str.
+25,Skandinavische Str.
+25,Skutaristr.
+25,Sobernheimer Str.
+25,Soldauer Allee
+25,Soldiner Str. (Wedding)
+25,Solmsstr.
+25,Soltauer Str.
+25,Sommerstr. (Reinickendorf)
+25,Sonnenallee
+25,Sonntagstr.
+25,Soorstr.
+25,Sophie-Charlotten-Str.
+25,Sophienstr. (Lichtenberg)
+25,Sophienstr. (Mitte)
+25,Spandauer Damm
+25,Spandauer See-Brücke
+25,Spandauer Str. (Mitte)
+25,Spanische Allee
+25,Spatenweg
+25,Speyerer Str.
+25,Spilstr.
+25,Spindlersfelder Str.
+25,Spittelmarkt
+25,Sportpromenade
+25,Spreestr. (Niederschöneweide)
+25,Spreetalallee
+25,Spreetunnel
+25,Spreewaldplatz
+25,Spreeweg
+25,Späthstr.
+25,Sredzkistr.
+25,Stabholzgarten
+25,Stadthausstr.
+25,Stadtrandstr.
+25,Staehleweg
+25,Stahlheimer Str.
+25,Stahnsdorfer Damm
+25,Stallschreiberstr.
+25,Stallupöner Allee
+25,Stargarder Str.
+25,Stauffenbergstr.
+25,Stavanger Str.
+25,Stedinger Weg
+25,Steegerstr.
+25,Steglitzer Damm
+25,Steifensandstr.
+25,Steinplatz
+25,Steinstr. (Lichtenrade)
+25,Stellingdamm
+25,Stendaler Str. (Hellersdorf)
+25,Sterkrader Str.
+25,Sterndamm
+25,Steubenplatz
+25,Stillerzeile
+25,Stindestr.
+25,Stolzenfelsstr.
+25,Storkower Str.
+25,Str. am Ostbahnhof
+25,Stralauer Allee
+25,Stralauer Platz
+25,Stralauer Str.
+25,Straubinger Str.
+25,Straße 106
+25,Straße 181 (Rudow)
+25,Straße 183
+25,Straße 229 (Mariendorf)
+25,Straße 35 (Müggelheim)
+25,Straße 427
+25,Straße 490
+25,Straße 645
+25,Straße 70 (Charlottenburg)
+25,Straße 74 (Buchholz)
+25,Straße 790
+25,Straße 791
+25,Straße am Schaltwerk
+25,Straße C
+25,Straße der Pariser Kommune
+25,Straße des 17. Juni
+25,Straße L
+25,Straße nach Fichtenau
+25,Straße R
+25,Straße vor Schönholz
+25,Straße zum Löwen
+25,Straße zum Müggelhort
+25,Straßmannstr.
+25,Streitstr.
+25,Stresemannstr.
+25,Stresowplatz
+25,Stresowstr.
+25,Stromstr. (Tiergarten)
+25,Stubenrauchstr. (Friedenau)
+25,"Stubenrauchstr. (Rudow, Johannisthal)"
+25,Stuttgarter Platz
+25,Stölpchenweg
+25,Stülerstr.
+25,Suadicanistr.
+25,Suarezstr.
+25,Suermondtstr.
+25,Sulzbergweg
+25,Sundgauer Str.
+25,Sven-Hedin-Str.
+25,Swinemünder Str.
+25,Sylter Str. (Wedding)
+25,Syringenweg
+25,Sächsische Str.
+25,Säntisstr.
+25,Sömmeringstr.
+25,Südendstr.
+25,Südostallee
+25,Südstern
+25,Südwestkorso
+25,Taborstr.
+25,Takustr.
+25,Tannhäuserstr.
+25,Taubenstr.
+25,Tauentzienstr.
+25,Tauernallee
+25,Tautenburger Str.
+25,Tegeler Str. (Wedding)
+25,Tegeler Weg
+25,Teichstr.
+25,Teikeweg
+25,Teilestr.
+25,Teltower Damm
+25,Teltower Str. (Spandau)
+25,Teltower Weg
+25,Tempelherrenstr.
+25,Tempelhofer Damm
+25,Tempelhofer Ufer
+25,"Tempelhofer Weg (Britz, Tempelhof)"
+25,Tempelhofer Weg (Schöneberg)
+25,Teplitzer Str.
+25,Teufelsseechaussee
+25,Teufelsseestr.
+25,Teupitzer Str. (Neukölln)
+25,Thaerstr.
+25,Tharsanderweg
+25,Theaterufer
+25,Theodor-Heuss-Platz
+25,Theresenweg
+25,Thielallee
+25,Thiemannstr.
+25,Thomas-Dehler-Str.
+25,Thomasstr.
+25,"Thorwaldsenstr. (Steglitz, Friedenau)"
+25,Thulestr.
+25,Thuner Platz
+25,Thusneldaallee
+25,Thuyring
+25,Tibertius-Brücke
+25,Tiefwerderweg
+25,Tiergartenstr. (Tiergarten)
+25,Tiergartenufer
+25,Tietzenweg
+25,Tilkeroder Weg
+25,Tischlerzeile
+25,Titlisweg
+25,Torellstr.
+25,Torfstr.
+25,Torfstraßensteg
+25,Torgauer Str. (Schöneberg)
+25,Torstr.
+25,Trabener Steg
+25,Trabener Str.
+25,Trakehner Allee
+25,Tramper Weg
+25,Transvaalstr.
+25,Trautenaustr.
+25,Treptower Str.
+25,Treskowallee
+25,Treuenbrietzener Str.
+25,Triberger Str.
+25,Triftstr. (Buchholz)
+25,Triftstr. (Wedding)
+25,Triftstr. (Wittenau)
+25,Triglawstr.
+25,Tschaikowskistr.
+25,Tucholskystr.
+25,Tunnel unter Bhf. Grunewald
+25,Tunnelstr.
+25,Turmstr.
+25,Töpchiner Weg
+25,Türrschmidtstr.
+25,Uferpromenade
+25,Uferstr.
+25,"Uhlandstr. (Charlottenburg, Wilmersdorf)"
+25,Uhlandstr. (Niederschönhausen)
+25,Uhlandstr. (Rosenthal)
+25,Ullsteinstr.
+25,Ulmenstr. (Kaulsdorf)
+25,Ungarnstr.
+25,Unionstr.
+25,Universitätsstr.
+25,Unter den Eichen
+25,Unter den Linden
+25,Urbanstr. (Kreuzberg)
+25,Usedomer Str. (Wedding)
+25,Varziner Str.
+25,Veitstr.
+25,Veltheimstr.
+25,Venusstr. (Altglienicke)
+25,Verbindungschaussee
+25,Verl. Pücklerstr. (?)
+25,Verl. Waldowallee
+25,Verlängerte Daumstr.
+25,Verlängerte Schulzendorfer Str. (?)
+25,Verlängerte Uferpromenade
+25,Veteranenstr.
+25,Vetschauer Allee
+25,Viktoria-Luise-Platz
+25,Viktoriastr. (Lichterfelde)
+25,Vincent-van-Gogh-Str.
+25,Volkmarstr.
+25,Volkradstr.
+25,Voltairestr.
+25,Von-der-Heydt-Str.
+25,Vor dem Schlesischen Tor
+25,Vorarlberger Damm
+25,Vorbergstr.
+25,Voßstr.
+25,Vulkanstr.
+25,Wadzeckstr.
+25,Waghäuseler Str.
+25,Waidmannsluster Damm
+25,Waldburgweg
+25,Waldemarstr. (Kreuzberg)
+25,Waldeyerstr.
+25,Waldowallee
+25,Waldowstr. (Hohenschönhausen)
+25,Waldowstr. (Niederschönhausen)
+25,Waldowstr. (Reinickendorf)
+25,Waldsassener Str.
+25,Waldschulallee
+25,Waldstr. (Bohnsdorf)
+25,Waldstr. (Hessenwinkel)
+25,Waldstr. (Reinickendorf)
+25,Waldstr. (Tiergarten)
+25,Walkürenstr.
+25,Wallensteinstr.
+25,Wallstr. (Mitte)
+25,Waltersdorfer Chaussee
+25,Waltersdorfer Str.
+25,Waltershauser Str.
+25,Waltraudstr.
+25,Wangenheimsteg
+25,Wannseebadweg
+25,Warburgzeile
+25,Warmbrunner Str.
+25,Warmensteinacher Str.
+25,Warnemünder Str. (Schmargendorf)
+25,Warschauer Platz
+25,Warschauer Str.
+25,Wartburgstr.
+25,Wartenberger Str.
+25,Wartenberger Weg
+25,Wassersportallee
+25,Wasserstadtbrücke
+25,Wassertorplatz
+25,Wassertorstr.
+25,Wasserwerkstr.
+25,Waterlooufer
+25,Waßmannsdorfer Chaussee
+25,Wedekindstr.
+25,Weg 7
+25,Wegedornstr.
+25,Wehnertstr.
+25,Weichselstr. (Friedrichshain)
+25,Weichselstr. (Neukölln)
+25,Weidenweg (Friedrichshain)
+25,Weidenweg (Spandau)
+25,Weigandufer
+25,Weinbergsweg
+25,Weinmeisterhornweg
+25,Weinmeisterstr.
+25,Weiskopffstr.
+25,Weitlingstr.
+25,Weißenburger Str.
+25,Weißenseer Weg
+25,Welserstr.
+25,Wenckebachstr.
+25,Wendenschloßstr.
+25,Werbellinstr. (Neukölln)
+25,Werderstr. (Mitte)
+25,Werderstr. (Spandau)
+25,Werderstr. (Tempelhof)
+25,Werftstr.
+25,Werkstättenweg
+25,Werlseestr.
+25,Wernerstr. (Kaulsdorf)
+25,Werner-Voß-Damm
+25,Werneuchener Str. (Hohenschönhausen)
+25,Wernsdorfer Str.
+25,Weserstr. (Friedrichshain)
+25,Weserstr. (Neukölln)
+25,Weskammstr.
+25,Westarpstr.
+25,Westendallee
+25,Westfälische Str.
+25,Westphalweg
+25,Weverpromenade
+25,Wexstr.
+25,Weydemeyerstr.
+25,Weydingerstr.
+25,Wichertstr.
+25,Wielandstr. (Mahlsdorf)
+25,Wiener Str.
+25,"Wiesbadener Str. (Friedenau, Wilmersdorf)"
+25,Wiesenburger Weg
+25,Wiesendamm
+25,Wiesenstr. (Wedding)
+25,Wiesenweg (Lichtenberg)
+25,Wiesenweg (Oberhavel)
+25,Wikingerufer
+25,"Wildenbruchstr. (Neukölln, Treptow)"
+25,Wildmeisterdamm
+25,Wildspitzweg
+25,Wilhelm-Guddorf-Str.
+25,Wilhelminenhofstr.
+25,Wilhelm-Kuhr-Str.
+25,Wilhelm-Pasewaldt-Str.
+25,Wilhelmsaue
+25,Wilhelmsmühlenweg
+25,Wilhelmsruher Damm
+25,"Wilhelmstr. (Mitte, Kreuzberg)"
+25,Wilhelmstr. (Spandau)
+25,Wilhelmstrand
+25,Willmanndamm
+25,Willy-Brandt-Str.
+25,Wilmersdorfer Str.
+25,Wilmsstr.
+25,Wilskistr.
+25,Wilsnacker Str.
+25,Wiltbergstr.
+25,Wiltinger Str.
+25,Windscheidstr.
+25,Winsstr.
+25,Winterfeldtstr.
+25,Wintersteinstr.
+25,Wisbyer Str.
+25,Wischbergeweg
+25,Wismarer Str.
+25,Wismarplatz
+25,Wittelsbacher Str.
+25,Wittenauer Str.
+25,Wittenbergplatz
+25,Wittestr.
+25,Witzlebenplatz
+25,Witzlebenstr.
+25,Wodanstr. (Mahlsdorf)
+25,Woldegker Str.
+25,Wolfener Str.
+25,Wolfensteindamm
+25,Wolframstr.
+25,Wollankstr.
+25,Wollenberger Str.
+25,Wolziger Zeile
+25,Wrangelstr. (Kreuzberg)
+25,Wrangelstr. (Steglitz)
+25,Wublitzweg
+25,Wuhletalstr.
+25,Wuhletalstr. - zur Märkischen Allee
+25,Wulkower Str.
+25,Wullenwebersteg
+25,Wullenweberstr.
+25,Wupperstr.
+25,Wutzkyallee
+25,Wörther Str. (Prenzlauer Berg)
+25,Wühlischstr.
+25,Wünsdorfer Str.
+25,Württembergische Str.
+25,Xantener Str.
+25,Yorckstr.
+25,Ystader Str.
+25,Zabel-Krüger-Damm
+25,Zehntwerderweg
+25,Zehrensdorfer Str.
+25,Zeitzer Str.
+25,Zeltinger Platz
+25,Zeltinger Str.
+25,Zepernicker Str.
+25,Zeppelinstr. (Spandau)
+25,Ziegelstr. (Mitte)
+25,Ziegrastr.
+25,Ziekowstr.
+25,Zillestr.
+25,Zimmermannstr. (Biesdorf)
+25,"Zimmerstr. (Kreuzberg,Mitte)"
+25,Zingster Str. (Hohenschönhausen)
+25,Zionskirchplatz
+25,Zittauer Str.
+25,Zobtener Str.
+25,Zoppoter Str.
+25,Zossener Str. (Hellersdorf)
+25,Zossener Str. (Kreuzberg)
+25,Zu den Müggelheimer Wiesen
+25,Zum Flughafen Tegel
+25,Zum Hechtgraben
+25,Zum Heckeshorn
+25,Zum Langen See
+25,Zum Müggelturm
+25,Zur Revaler Str.
+25,Zwickauer Damm
+25,Zwieseler Str.
+25,Zähringerstr.
+25,Züllichauer Str.
+25,Öschelbronner Weg
+25,Öseler Str.
+27,Anjiang Road
+27,Anping Road
+27,Anyong Road
+27,Babai Bridge
+27,Baigou Road
+27,Baiguo tree
+27,Bailongjiang East Street
+27,Bailongjiang West Street
+27,Baiyunting Road
+27,Bangong Road
+27,Banjing Lane
+27,Baota Bridge
+27,Baoxiang Road
+27,Beijing East Road
+27,Beijing West Road
+27,Beimen Bridge
+27,Beiting Lane
+27,Beixijia Datang
+27,Bianying
+27,Bingquan Road
+27,Binjiang Avenue
+27,Binjiang Road
+27,Botanical Garden Road
+27,Buqing Road
+27,Cangshan Road
+27,Caofang Road
+27,Changbai Street
+27,Changfenghe Road
+27,Changfu
+27,Changfu Street
+27,Changhong Road
+27,Changjiang Road
+27,Changjin Road
+27,Changle Road
+27,Changle Street
+27,Changping Road
+27,Changqiao Road
+27,Changwei Street
+27,Chaoyang Road
+27,Chating East Street
+27,Chenghe North Road
+27,Chengpu Road
+27,Chengqiang South Road
+27,Chengtian Avenue
+27,Chenguang Avenue
+27,Chengxian Street
+27,Chengxin Road
+27,Chengyun Road
+27,Chengzuo camp
+27,Chengzuo Village
+27,Chuangyan Road
+27,Chuangye road
+27,Chuangyi Road
+27,Chuangzhi Road
+27,Chuanjiang Street
+27,Chunjiang Road
+27,Communist Youth League Road
+27,Crane Bridge
+27,Cuipingshan Road
+27,Dadongmen Street
+27,Daguang Road
+27,Daming Road
+27,Daming West Road
+27,Danfeng Street
+27,Dangui Road
+27,Daoqianghe Road
+27,Datong Road
+27,Dayanggou
+27,Dayoufang Lane
+27,Dazhongqiao
+27,Dianjiangtai Road
+27,Dingjiashan Road
+27,Dingqiang Road
+27,Dingshan Street
+27,Dingxin Road
+27,Dongba Road
+27,Dongbaicai Garden
+27,Dongbaji line
+27,Dongbao Road
+27,Dongcun Road
+27,Dongda Road
+27,Dongdadao
+27,Dongdayingbi
+27,Dongfang Road
+27,Donghe Road
+27,Donghuan Road
+27,Dongjiandao
+27,Donglai Road
+27,Donglong line
+27,Dongmen Front Street
+27,Dongmen Street
+27,Dongmenqian Street
+27,Dongnan Road
+27,Dongqi Road
+27,Dongtai Pedestrian Street (Park Road)
+27,Dongtieguan Lane
+27,Dongwu Road
+27,Dongxi Road
+27,Dongxin South Road
+27,Dongyuan Road
+27,Dujiang Road
+27,DuXing Road
+27,Erban Bridge
+27,Erxiang Road
+27,Fangjiaying Road
+27,Fangting Road
+27,Fangzhuang Road
+27,Fanmuzhihuanling Road
+27,Fanmuzhiling East Road
+27,Fengchu Road
+27,Fengfu Road
+27,Fenghuang East Street
+27,Fenghuang South Road
+27,Fenghuang Street
+27,Fenghuang West Street
+27,Fengnan Street
+27,Fengning Road
+27,Fengshui Road
+27,Fengtong Road
+27,Fengxin Road
+27,Fengyi Street
+27,Fengyou Temple
+27,Fengze Road
+27,Focheng East Road
+27,Focheng West Road
+27,Friendship bridge
+27,Fucheng Bridge
+27,Fucheng West Road
+27,Fuchunjiang East Street
+27,Fudong Road
+27,Fuguishan Road
+27,Fuhougang
+27,Fujiachang Street
+27,Funing Road
+27,Fuxing Bridge
+27,Fuxing Road
+27,G104
+27,G235
+27,G328
+27,Ganglong line
+27,Ganjia Lane
+27,Ganlu Lane
+27,Gaogangli
+27,Gaogu Road
+27,Gaohu Road
+27,Gaojin Road
+27,Gaokang Road
+27,Gaoke 10th Road
+27,Gaoke 11th Road
+27,Gaoke 13th Road
+27,Gaoke 15th Road
+27,Gaoke 16th Road
+27,Gaoke 2nd Road
+27,Gaoke 3rd road
+27,Gaoke 4th Road
+27,Gaoke 6th Road
+27,Gaoke 7th Road
+27,Gaoke 8th Road
+27,Gaoke 9th Road
+27,Gaoke fifth road
+27,Gaoloumen
+27,Gaoxin North Road
+27,Gaoxin Road
+27,Garden East Road
+27,Garden West Road
+27,Geqiao
+27,Gezhi Road
+27,Gezhong Road
+27,Gezhong South Road
+27,Ginkgo Road
+27,Gonggu Road
+27,Gonghecun Road
+27,Gonglei Lane
+27,Gongnong Road
+27,Gongyeyuan Road
+27,Gongyuan Street
+27,Great Stone Bridge
+27,GuanFeng Road
+27,Guangdong Road
+27,Guanghua East Street
+27,Guanghua Road
+27,Guangji Road
+27,Guangju Road
+27,Guangming Road
+27,Guangning Street
+27,Guangxiang Road
+27,Guangxigeng Street
+27,Guangyi Street
+27,Guangzhi Road
+27,Guangzhou Road
+27,Guanjiang Road
+27,Guanting Road
+27,Guanyintiao Road
+27,Guchenghu North Road
+27,Gujiaying Road
+27,Guju Road
+27,Gulouertiao Lane
+27,Guojiashan Road
+27,Guoqi Road
+27,Gutang West Road
+27,Gutong Lane
+27,Guyilang
+27,Guyou Road
+27,Hanghai road
+27,Hanjiang Road
+27,Hanzhong Road
+27,Hanzhongmen Bridge
+27,Hanzhongmen Street
+27,Hebeidageng
+27,Hengda Road
+27,Henggua line
+27,Hengguang Road
+27,Hengjia Road
+27,Hengjing Road
+27,Hengshan Road
+27,Hengtong Avenue
+27,Heqing Road
+27,Hezhuang Road
+27,Hongguang Road
+27,Honghua Lane
+27,Hongjun Road
+27,Hongli Road
+27,Hongmei line
+27,Hongshan Branch Road
+27,Hongshan Road
+27,Hongwu North Road
+27,Hongwu Road
+27,Hongxing Street
+27,Hongyan South Road
+27,Hongyi Road
+27,Hongyu Road
+27,Hongyun Road
+27,Houbiaoying Road
+27,Houbiaoying Street
+27,Houjia Bridge
+27,Houxiang
+27,Huagang North Road
+27,Huagang South Road
+27,Hualu Beigang
+27,Hualu Nangang
+27,Huancheng East Road
+27,Huancheng South Road
+27,Huangchanghe Road
+27,Huangpu Road
+27,Huangshanling Road
+27,Huangsi Road
+27,Huanling Road
+27,Huanlongchi Road
+27,Huashang Road
+27,Hudang Road
+27,Huiling Road
+27,Huizhong Road
+27,Hujing Road
+27,Hujuguan Road
+27,Hulong Road
+27,Husheng Road
+27,Jialing River East Street
+27,Jiangbei Riverside
+27,Jiangbian Road
+27,Jiangbian South Road
+27,Jiangcha Road
+27,Jiangdi Road
+27,Jiangdongmen North Street
+27,Jiangjiayuan Road
+27,Jiangning Road
+27,Jiangqiao line
+27,Jiangsong Road
+27,Jiangsu Road
+27,Jiangtai Road
+27,Jiangwangmiao Street
+27,Jiangyi Road
+27,Jiangyuan Road
+27,Jiankang Road
+27,Jianning Road
+27,Jianxiang Road
+27,Jiaying Road
+27,Jiefang Road
+27,Jiefang South Road
+27,Jikang Road
+27,Jimingsi Road
+27,Jinchuang Road
+27,Jinghuai Street
+27,Jingma line
+27,Jingsan Road
+27,Jingxin Road
+27,Jingye Road
+27,Jingyi Road
+27,Jinhu Bridge
+27,Jinianguan East Road
+27,Jinjiang Road
+27,Jinling Avenue
+27,Jinnang Road
+27,Jinsheng Road
+27,Jintang line
+27,Jinxianghe Road
+27,Jiqing Road
+27,Jiqinglu Xinqiao
+27,Jiqingmen Street
+27,Jiujingchang Road
+27,Jiuwang Road
+27,Junnong Road
+27,Kaicheng Road
+27,Kang'an Road
+27,Kanghou Street
+27,Kanghua Road
+27,Kangju Road
+27,Kangjuli
+27,Kangwen Road
+27,Kexiang
+27,Kunning Road
+27,Laifeng Road
+27,Laifeng Street
+27,Laiyan Bridge
+27,Langhou Lane
+27,Langhuan Road
+27,Langshan Road
+27,Langshi Road
+27,Lanjiang Street
+27,Laohongyun Avenue
+27,Laoming Road
+27,Liangjiang East Road
+27,Liangjiang North Road
+27,Liangjiang Road
+27,Liangjiang West Road
+27,Lihu Bridge
+27,Lijiang Road
+27,Linchang Road
+27,Lingdong Road
+27,Linggang Road
+27,Linggusi Road
+27,Lingrui Road
+27,Lingshan North Road
+27,Lingxiao Road
+27,Linjiang Road
+27,Litang Lane
+27,Liugong Road
+27,Liuhong line
+27,Liuying South Road
+27,Liuying West Road
+27,Lixing Road
+27,Longan Road
+27,Longbei Road
+27,Longbin Road
+27,Longchang line
+27,Longcheng Road
+27,Longchi Bridge
+27,Longchi East Road
+27,Longchi Road
+27,Longen Street
+27,Longge Road
+27,Longhu East Road
+27,Longhu Lane
+27,Longhua Road
+27,Longhuai Road
+27,Longji Road
+27,Longjiang Road
+27,Longjin Bridge
+27,Longjin Road
+27,Longkou Road
+27,Longmo Road
+27,Longnan Road
+27,Longpan Road
+27,Longqi line
+27,Longqin Road
+27,Longquan Road
+27,Longqun Road
+27,Longrui Road
+27,Longshan North Road
+27,Longshan South Road
+27,Longshan West Road
+27,Longwan Road
+27,Longwang Street
+27,Longwangshan Avenue
+27,Longxi Lane
+27,Longxi Road
+27,Longxin line
+27,Longxing Road
+27,Longxuhu Road
+27,Longyang Road
+27,Longyuan East Road
+27,Longyuan North Road
+27,Longyuan South Road
+27,Longyuan West Road
+27,Longzhao Road
+27,Longzhong West Road
+27,louwei_biangeng
+27,Luohansi Bridge
+27,Luolang Lane
+27,Luotang Road
+27,Maigaoqiao square
+27,Maotan Bridge
+27,Maoting Road
+27,Maying Road
+27,Meishan Bridge
+27,Meixiang Road
+27,Meiyuan morning runway
+27,Meiyuan New Village
+27,Mianxieying
+27,Minbing Road
+27,Ming Palace Road
+27,Mingbin Road
+27,Mingbing Road
+27,Mingcheng Avenue
+27,Mingchun Road
+27,Mingjiang Road
+27,Mingling Road
+27,Mingwa Gallery
+27,Mingxin Road
+27,Mingyang Street
+27,Mingyao Road
+27,Mingyin Road
+27,Minjiang Road
+27,Minsheng Road
+27,Mogan Road
+27,Moling Road
+27,Mudanjiang Street
+27,Muzhong Road
+27,Nanchang Road
+27,Nangao East Road
+27,Nangao North Road
+27,Nangao Road
+27,Nangao West Road
+27,Nangong Road
+27,Nantang Road
+27,Nantong Road
+27,Nanxiu Village
+27,Ningdou line
+27,Ninggang Road
+27,Ninghai Road
+27,Ningshuang Road
+27,Ningxia Road
+27,Ningyuan Road
+27,Nonghua Road
+27,Panyang Road
+27,Panying Road
+27,Pearl Bridge
+27,Pengshan Road
+27,Ping'anli
+27,Pingcang Lane
+27,Pingdingshan Road
+27,Pinggang Road
+27,Pingjia Lane
+27,Pingjiang Bridge
+27,Pingjiang Street
+27,Pingjiangfu Road
+27,Pingtai Street
+27,puchanglu
+27,Pudong North Road
+27,Pudong Road
+27,Pujiang Road
+27,Putang Bridge
+27,Puzhong Road
+27,Qiaokang Road
+27,Qidong line
+27,Qinfeng Road
+27,Qingdao Road
+27,Qinghe Road
+27,Qingjiang Road
+27,Qingjiang South Road
+27,Qingliangmen Bridge
+27,Qingliangmen Street
+27,Qingma Road
+27,Qingshuitang Road
+27,Qingshuiting West Road
+27,Qingxi Road
+27,Qingyu line
+27,Qinhong Road
+27,Qinhong South Road
+27,Qixianghe Avenue
+27,Quandong Road
+27,Rongsheng Bridge
+27,Rongzhuang Road
+27,Rosefinch Bridge
+27,Ruanzheng line
+27,Ruanzheng line-1
+27,Ruifeng Road
+27,Ruiping North Street
+27,Ruiping Street
+27,Ruiqing Road
+27,Sanjiang Road
+27,Sanjiang West Road
+27,Santiaoying
+27,Shangcheng Road
+27,Shanggao Road
+27,Shanghai Road
+27,Shanglai
+27,Shangmashi Road
+27,Shangshan Road
+27,Shangshu Bridge
+27,Shangshu Lane
+27,Shangshu Road
+27,Shanguying Road
+27,Shashang Line
+27,Shenfeng Road
+27,Shenghu West Road
+27,Shengjia Bridge
+27,Shengjiagang West Street
+27,Shengli Road
+27,Shenglicun Road
+27,Shengtai East Road
+27,Shengtai Road
+27,Shengxiu Road
+27,Shengzhou Road
+27,Shennong Road
+27,Shigu Road
+27,Shilang Road
+27,Shuangbaigang Road
+27,Shuangcheng Road
+27,Shuangfeng Road
+27,Shuanghe Road
+27,Shuangke Road
+27,Shuangliuhe Road
+27,Shuangqi Road
+27,Shuangtang Garden
+27,Shuangtang Road
+27,Shuangxi Street
+27,Shuangzha Road
+27,Shuguang Road
+27,Shuige Road
+27,Shuiyougang
+27,Simashan River Bridge
+27,Siping Road
+27,Siwang Road
+27,Songhua River West Street
+27,Songhuajiang East Street
+27,Songling Road
+27,Songshan Road
+27,Songyang Road
+27,Suning Avenue
+27,Taifeng Road
+27,Tailong Road
+27,Taiping Lane
+27,Taiping North Road
+27,Taiping South Road
+27,Taipingmen Road
+27,Taiqing Road
+27,Taiying Road
+27,Tangcheng East Road
+27,Tangcheng West Road
+27,Tanggong Road
+27,Tangjing Road
+27,Tanglian Road
+27,Tanglong Road
+27,Tangquan Road
+27,Tangshan Road
+27,Tangzi Street
+27,Taodong Road
+27,Taohong Street
+27,Taoliwang Lane
+27,Taosheng Street
+27,Taoyuan morning runway
+27,Tengfei Road
+27,Tengying Road
+27,Tiancheng Road
+27,Tianlongsi Road
+27,Tiansheng Road
+27,Tianshengqiao Road
+27,Tianwang Road
+27,Tingying Road
+27,Tongchi Road
+27,Tonghuai Street
+27,Tongjia Lane
+27,Tongjing Lane
+27,Tongjing Road
+27,Tongling Road
+27,Tongling West Road
+27,Tongwei Road
+27,Tongxin Road
+27,Tongxin Street
+27,Tongyong Mill Road
+27,Tuchengtou Road
+27,Wangfu Street
+27,Wangjiang Road
+27,Wangqiao Road
+27,Wangshu Road
+27,Wenchang Lane
+27,Wenchang Palace
+27,Wenchang Road
+27,Wenchang Street
+27,Wencheng Road
+27,Wendong Lane
+27,Wenfeng North Road
+27,Wenfeng Road
+27,Wenguang Road
+27,Wenhong Road
+27,Wenjing East Road
+27,Wenjing Road
+27,Wenjing West Road
+27,Wenshang Road
+27,West Bridge
+27,Windry Bridge
+27,Wuding Bridge
+27,Wuge Road
+27,Wujiang Bridge
+27,Wulongshan Road
+27,Xiafu Bridge
+27,Xiangfangcun Road
+27,Xiangfeng Road
+27,Xiangjiang Road
+27,Xiangshan Road
+27,Xiangxian Road
+27,Xiaodongmen Street
+27,Xiaohonghua Road
+27,Xiaolingwei
+27,Xiaowaijiang Road
+27,Xiaowangfu Lane
+27,Xiaoxing Road
+27,Xiaoyang Village
+27,Xiaoying Road
+27,Xibaicai garden
+27,Xicitang Lane
+27,Xikang Road
+27,Ximiaofeng nunnery
+27,Xin'anjiang Street
+27,Xincheng line
+27,Xincheng Road
+27,Xinding Road
+27,Xingang Avenue Side Road
+27,Xingangwan Road
+27,Xingdao Street
+27,Xinghai Road
+27,Xingjian Road
+27,Xingke Road
+27,Xinglin Road
+27,Xinglong Road
+27,Xingmin South Road
+27,Xingning Road
+27,Xingpu Road
+27,Xingti Road
+27,Xingwang Road
+27,Xingwen Road
+27,Xingwu Road
+27,Xingxing Road
+27,Xingxue Road
+27,Xingye Road
+27,Xingying Street
+27,Xingyou Road
+27,Xingyuan Road
+27,Xingyue Street
+27,Xingzhen Road
+27,Xingzhi Road
+27,Xingzhou Street
+27,Xinling Road
+27,Xinlong Road
+27,Xinminfang Road
+27,Xinning Road
+27,Xinting East Road
+27,Xinting Street
+27,Xinxiang
+27,Xinxing Road
+27,Xinzhuang Road
+27,Xiongfeng East Road
+27,Xiongfeng West Road
+27,Xuanwu Gate
+27,"Xuanzi Lane, Tangfang Gallery, Changle Street"
+27,Xueheng Road
+27,Xuekang Road
+27,Xuguang West Road
+27,Xuguangli
+27,Xuzhuang Road
+27,Yaming Road
+27,Yancang Bridge
+27,Yangcun 1st Road
+27,Yangcun 2nd Road
+27,Yangcun 3rd Road
+27,Yangcun Road
+27,Yanggongjing
+27,Yangguang Road
+27,Yangliu Road
+27,Yangshan North Road
+27,Yanling Lane
+27,Yanling Road
+27,Yanlinshuangmiao Road
+27,Yaogu Avenue
+27,Yaojing Road
+27,Yapeng Road
+27,Yaqing Road
+27,Yikang Street
+27,Yincheng Street
+27,Yingao Lane
+27,Yingchun Street
+27,Yinghua West Road
+27,Yingjiang Road
+27,Yingwei Street
+27,Yinlong Road
+27,Yixian Bridge
+27,Yixing Lane
+27,Yongda line
+27,Yongding Street
+27,Yongfeng Avenue
+27,Yongfu Lane
+27,Yongji Avenue
+27,Yongji Road
+27,Yongjiang Road
+27,Yongjin Road
+27,Yongle Road
+27,Yongning
+27,Yongqing Lane
+27,Yongxi Road
+27,Yongxin Avenue
+27,Yongzhi Road
+27,Youfang Central Road
+27,Yuandong Avenue
+27,Yuandong Road
+27,Yudai Garden
+27,Yugang Road
+27,Yuguang Road
+27,Yuhua Bridge
+27,Yujiaxiang
+27,Yujiaxianghou
+27,Yuliang Road
+27,Yunkong Road
+27,Yunlianghe East Road
+27,Yunlianghedong Road
+27,Yunlong Road
+27,Yunlongshan Road
+27,Yusheng East Road
+27,Yusheng Road
+27,Yuying Road
+27,Zhangxi Road
+27,Zhanjiang Road
+27,Zhendong Road
+27,Zhengde Road
+27,Zhengfeng Street
+27,Zhenghe South Road
+27,Zhenghuai Road
+27,Zhengyang Road
+27,Zhening East Road
+27,Zhihua Bridge
+27,Zhixing Road
+27,Zhongbao Street
+27,Zhongchi Road
+27,Zhongcui Road
+27,Zhongheqiao Road
+27,Zhonghua Road
+27,Zhonghuan Road
+27,Zhongshan East Road
+27,Zhongshan North Road
+27,Zhongshan Road
+27,Zhongshan South Road
+27,Zhongsheng Street
+27,Zhongshu Road
+27,Zhongxing West Road
+27,Zhongxiu Street
+27,Zhongyang Avenue
+27,Zhongying
+27,Zhuangju Road
+27,Zhuangpai Road
+27,Zhuanlong Lane
+27,Zhujiang Road
+27,Zhushan Bridge
+27,Zijin Bridge
+28,Bole Park
+28,China Travel Agency
+28,Dahua International Travel Agency
+28,Huate International Travel Agency
+28,Jiangpu Park
+28,Jiangsu China Travel Service
+28,Jiangsu Overseas Tourism
+28,Juhuatai Park
+28,Kanghui Nanjing International Travel Agency
+28,Longquan Temple
+28,Longwang mountain scenic spot
+28,Ming Palace Ruins Park
+28,Nanjing Geological Museum
+28,Nanjing Gulin Park
+28,Nanjing Hongshan Forest Zoo
+28,Nanjing Museum of modern Chinese history
+28,Nanjing travel agency
+28,Phoenix Holiday Travel
+28,Tiandi travel agency
+28,Wilderness travel agency
+28,Wutai CITS
+28,Xintianyou travel agency
+28,Xuyuan
+28,Yanziji Park
+29,Baoshan reservoir
+29,Hujing fishing port
+29,Mirs Bay
+29,Five ports
+29,Agongdian River
+29,Xinfongxi
+29,Yuantan River
+29,Wangliao fishing port
+29,Carp pond
+29,Nepipi
+29,The big bull pen
+29,Lake parapet
+29,Tajangpi
+29,Marine-lake parapet
+29,Jiu Bei
+29,Drainage ditch
+29,Dianzipi
+29,Fighting PI
+29,Cane PI
+29,Two Houses Pond
+29,Lotus pond
+29,Backbay
+29,Log pond
+29,Ecological pool
+29,Ineuitan
+29,Longluantan
+29,Gusudam
+29,Gumidam
+30,Pekshiye
+30,Sindian River
+30,Keng My Khe
+30,Xihu River
+30,Wenliao River
+30,Nanzixi
+30,Sinjiexi
+30,Shuangxikou River
+30,Tai Keng Kan River
+30,Ohori Khe
+30,Luye Creek
+30,Taiping River
+30,Fongshan River
+30,Sukhe
+30,Sugangxi
+30,Shiniu River
+30,Danshui River
+30,Gangnan Canal
+30,Keelung River
+30,Sanxian River
+30,Shahe River
+30,Love River
+30,North Bank
+30,Qianzhenhe
+30,Jilong River
+30,Neiliao River
+30,Niulan River

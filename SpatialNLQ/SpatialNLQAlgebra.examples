@@ -1,0 +1,22 @@
+Database : berlintest
+Restore  : NO
+
+Operator : spatial_nl
+Number   : 1
+Signature: string -> string
+Example  : query spatial_nl("Find the five closest kinos to the BGrenzenLine.");
+Result   : query Kinos creatertree[GeoData] Kinos distancescan2 [BGrenzenLine, 5] consume;
+
+Operator : spatial_nl
+Number   : 2
+Signature: string -> string
+Example  : query spatial_nl("Find the six closest poi to the G235.");
+Result   : query Kinos creatertree[GeoData] Kinos distancescan2 [BGrenzenLine, 5] consume;
+
+Operator : spatial_nl
+Number   : 3
+Signature: string -> string
+Example  : query spatial_nl("Returns the distance between mehringdamm and TreptowerPark.");
+Result   : query distance(mehringdamm, (Flaechen feed filter [.Name = "Treptower Park"] 
+extract[GeoData]));
+
