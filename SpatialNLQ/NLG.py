@@ -217,26 +217,29 @@ def secondo(sentence):
                     tmp_operator = 'ininterior'
                     index_point = 0
                     index_region = 1
-                else:
-                    print("[error]: To judge the location relationship, spatial objects should be {line, region} x {line, region} || point x region.")
-                    return sql_secondo
             elif spatial_relations[1]['GeoData'] == 'point':
                 if spatial_relations[0]['GeoData'] == 'region':
                     tmp_operator = 'ininterior'
                     index_point = 1
                     index_region = 0
-                else:
-                    print("[error]: To judge the location relationship, spatial objects should be {line, region} x {line, region} || point x region.")
-                    return sql_secondo
             else:
                 tmp_operator = 'intersects'
             if query_type == "Spatial Join Query":
+                if tmp_operator == '':
+                    print("[error]: To judge the location relationship, spatial objects should be {line, region} x {line, region} || point x region.")
+                    return sql_secondo
                 sql_secondo = spatial_join_query(spatial_relations, tmp_operator, index_point, index_region)
             elif query_type == "Distance Join Query":
                 sql_secondo = distance_join_query(spatial_relations, max_distance)
             elif query_type == "Aggregation-count Query":
+                if tmp_operator == '':
+                    print("[error]: To judge the location relationship, spatial objects should be {line, region} x {line, region} || point x region.")
+                    return sql_secondo
                 sql_secondo = aggregation_count_query(spatial_relations, tmp_operator, index_point, index_region)
             elif query_type == "Aggregation-max Query":
+                if tmp_operator == '':
+                    print("[error]: To judge the location relationship, spatial objects should be {line, region} x {line, region} || point x region.")
+                    return sql_secondo
                 sql_secondo = aggregation_max_query(spatial_relations, tmp_operator, index_point, index_region)
             else:
                 print("[error]: The query type is incorrect.")
@@ -263,19 +266,19 @@ def secondo(sentence):
             if spatial_relations[index_relation]['GeoData'] == 'point':
                 if spatial_relations[index_place]['GeoData'] == 'region':
                     tmp_operator = 'ininterior'
-                else:
-                    print("[error]: To judge the location relationship, spatial objects should be {line, region} x {line, region} || point x region.")
-                    return sql_secondo
-            elif spatial_relations[index_place]['GeoData'] == 'point':
-                print("[error]: To judge the location relationship, spatial objects should be {line, region} x {line, region} || point x region.")
-                return sql_secondo
             else:
                 tmp_operator = 'intersects'
             if query_type == "Range Query":
+                if tmp_operator == '':
+                    print("[error]: To judge the location relationship, spatial objects should be {line, region} x {line, region} || point x region.")
+                    return sql_secondo
                 sql_secondo = range_query(spatial_relations[index_relation], tmp_place, tmp_operator)
             elif query_type == "Nearest Neighbor Query":
                 sql_secondo = nn_query(spatial_relations[index_relation], tmp_place, num_neighbors)
             elif query_type == "Aggregation-count Query":
+                if tmp_operator == '':
+                    print("[error]: To judge the location relationship, spatial objects should be {line, region} x {line, region} || point x region.")
+                    return sql_secondo
                 sql_secondo = place_count_query(spatial_relations[index_relation], tmp_place, tmp_operator)
             elif query_type == "Aggregation-sum Query":
                 if spatial_relations[index_relation]['GeoData'] == 'region' and spatial_relations[index_place]['GeoData'] == 'region':
