@@ -64,7 +64,6 @@ model = LSTMCNN(len(word_to_idx), embedding_size=100, hidden_size=64, num_classe
 model.load_state_dict(torch.load(basic_path + 'save_models/model.pth'))
 model.eval()
 
-
 # Predict the type of NLQ
 def predict_type(text):
     vector = np.array([word_to_idx.get(word, 1) for word in text.split()] + [0]*(max_length-len(text.split())))
@@ -73,6 +72,88 @@ def predict_type(text):
         logits = model(vector_tensor)
         predicted_class = torch.argmax(logits, dim=1).item()
     return labels[predicted_class]
+
+
+class ListNode:
+    def __init__(self, key):
+        self.key = key
+        self.next = None
+
+class HashTable:
+    def __init__(self, initial_capacity=16, load_factor=0.75):
+        self.capacity = initial_capacity
+        self.load_factor = load_factor
+        self.size = 0
+        self.buckets = [None] * self.capacity
+
+    # Compute the hash index for a given key
+    def _hash(self, key):
+        return hash(key) % self.capacity
+
+    # Resize the hash table to a new capacity and rehash all existing elements
+    def _resize(self, new_capacity):
+        old_buckets = self.buckets
+        self.buckets = [None] * new_capacity
+        self.capacity = new_capacity
+        self.size = 0
+
+        for node in old_buckets:
+            while node:
+                self.insert(node.key)
+                node = node.next
+
+    # Insert a key into the hash table. Resize the table if the load factor is exceeded.
+    def insert(self, key):
+        if self.size / self.capacity >= self.load_factor:
+            self._resize(self.capacity * 2)
+
+        index = self._hash(key)
+        node = self.buckets[index]
+
+        if not node:
+            self.buckets[index] = ListNode(key)
+        else:
+            while True:
+                if node.key == key:
+                    return  # Key already exists
+                if not node.next:
+                    break
+                node = node.next
+            node.next = ListNode(key)
+
+        self.size += 1
+
+    # Check if the hash table contains a key.
+    def contains(self, key):
+        index = self._hash(key)
+        node = self.buckets[index]
+
+        while node:
+            if node.key == key:
+                return True
+            node = node.next
+
+        return False
+
+    def remove(self, key):
+        index = self._hash(key)
+        node = self.buckets[index]
+        prev = None
+
+        while node:
+            if node.key == key:
+                if prev:
+                    prev.next = node.next
+                else:
+                    self.buckets[index] = node.next
+                self.size -= 1
+                if self.size / self.capacity < self.load_factor / 4 and self.capacity > 16:
+                    self._resize(self.capacity // 2)
+                return True
+            prev = node
+            node = node.next
+
+        return False
 
 
 _known = {
@@ -447,13 +528,18 @@ def get_semantic_information(s):
     # Extract locations
     places_file = pd.read_csv(basic_path + 'knowledge_base/places.csv')
     place_list = places_file['name'].tolist()
+    hash_table = HashTable()
+    # Insert all places into the hash table
+    for place in place_list:
+        hash_table.insert(place)
+
     # noun_to_place1: exact matching locations, noun_to_place2: fuzzy matching locations
     noun_to_place1 = []
     noun_to_place2 = []
     
     # Exact match of locations
     for word in noun_list:
-        if word in place_list:
+        if hash_table.contains(word):
             noun_to_place1.append(word)
     # Fuzzy match of locations
     if len(noun_to_place1) < 2:
